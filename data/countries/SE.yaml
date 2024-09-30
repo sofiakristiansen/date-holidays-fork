@@ -86,6 +86,11 @@ holidays:
           sv: Midsommardagen
           en: Midsummer Day
           fi: Juhannuspäivä
+      10-04:
+        name:
+          sv: Kanelbullens dag
+          en: Cinnamon Bun Day
+        type: observance
       friday after 10-30 12:00:
         name:
           sv: Allhelgonaafton

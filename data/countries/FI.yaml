@@ -40,6 +40,11 @@ holidays:
           fi: Juhannuspäivä
           en: Midsummer Day
           sv: Midsommardagen
+      10-04:
+        name:
+          fi: Kanelbullens dag
+          en: Cinnamon Bun Day
+        type: observance
       saturday after 10-31:
         _name: 11-01
       2nd sunday in November:
