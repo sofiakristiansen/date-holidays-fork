@@ -27,6 +27,12 @@ holidays:
           en: Our Lady of Meritxell
           es: Nuestra Sra. De Meritxell
           ca: Mare de Déu de Meritxell
+      10-04:
+        name:
+          sv: Kanelbullens dag
+          en: Cinnamon Bun Day
+          es: Kanelbullens dag
+          ca: Kanelbullens dag
       11-01:
         _name: 11-01
       12-08:
