@@ -25,36 +25,57 @@ holidays:
           sv: Tjugondag Knut
           en: Saint Knut's Day
         type: observance
+      02-02:
+        _name: 02-02
+      02-14:
+        _name: 02-14
+      easter -48:
+        _name: easter -48
+      easter -47:
+        name:
+          sv: Fettisdagen
+          en: Shrove Tuesday
+        type: observance
+      easter -46:
+        _name: easter -46
       1st sunday in March:
         name:
           sv: Vasaloppet
         type: observance
+      03-08:
+        _name: 03-08
       03-25:
         name:
           sv: Marie Bebådelsedag
           en: Annunciation Day
           lat: Annuntiatio Mariæ
         type: observance
+      04-01:
+        _name: 04-01
       04-30 12:00:
         name:
           sv: Valborgsmässoafton
           en: Walpurgis Night
         type: optional
+      easter -7:
+        _name: easter -7
       easter -3:
         _name: easter -3
         type: observance
       easter -2:
         _name: easter -2
-      easter:
-        _name: easter
-        type: observance
       easter -1:
         _name: easter -1
+        type: observance
+      easter:
+        _name: easter
         type: observance
       easter 1:
         _name: easter 1
       05-01:
         _name: 05-01
+      05-09:
+        _name: 05-09
       easter 39:
         _name: easter 39
       easter 48:
@@ -98,6 +119,8 @@ holidays:
         type: optional
       saturday after 10-31:
         _name: 11-01
+      sunday after 10-31:
+        _name: 11-02
       11-06:
         name:
           sv: Gustav-Adolf-dagen

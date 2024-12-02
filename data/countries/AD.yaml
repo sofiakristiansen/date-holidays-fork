@@ -5,10 +5,12 @@ holidays:
       ca: Andorra
       es: Andorra
       en: Andorra
+      sv: Andorra
     dayoff: sunday
     langs:
       - ca
       - es
+      - sv
     zones:
       - Europe/Andorra
     days:
@@ -25,6 +27,7 @@ holidays:
       09-08:
         name:
           en: Our Lady of Meritxell
+          sv: Vår Fru av Meritxell
           es: Nuestra Sra. De Meritxell
           ca: Mare de Déu de Meritxell
       11-01:
@@ -71,3 +74,4 @@ holidays:
             name:
               en: Andorra La Vella Festival
               ca: Andorra La Vella Festival
+              sv: Andorra La Vella Festival
