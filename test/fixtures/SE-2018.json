@@ -36,6 +36,51 @@
     "_weekday": "Sat"
   },
   {
+    "date": "2018-02-02 00:00:00",
+    "start": "2018-02-01T23:00:00.000Z",
+    "end": "2018-02-02T23:00:00.000Z",
+    "name": "Kyndelsmässodagen",
+    "type": "public",
+    "rule": "02-02",
+    "_weekday": "Fri"
+  },
+  {
+    "date": "2018-02-12 00:00:00",
+    "start": "2018-02-11T23:00:00.000Z",
+    "end": "2018-02-12T23:00:00.000Z",
+    "name": "Blåmåndagen",
+    "type": "public",
+    "rule": "easter -48",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2018-02-13 00:00:00",
+    "start": "2018-02-12T23:00:00.000Z",
+    "end": "2018-02-13T23:00:00.000Z",
+    "name": "Fettisdagen",
+    "type": "observance",
+    "rule": "easter -47",
+    "_weekday": "Tue"
+  },
+  {
+    "date": "2018-02-14 00:00:00",
+    "start": "2018-02-13T23:00:00.000Z",
+    "end": "2018-02-14T23:00:00.000Z",
+    "name": "Alla hjärtans dag",
+    "type": "public",
+    "rule": "02-14",
+    "_weekday": "Wed"
+  },
+  {
+    "date": "2018-02-14 00:00:00",
+    "start": "2018-02-13T23:00:00.000Z",
+    "end": "2018-02-14T23:00:00.000Z",
+    "name": "Askonsdagen",
+    "type": "public",
+    "rule": "easter -46",
+    "_weekday": "Wed"
+  },
+  {
     "date": "2018-03-04 00:00:00",
     "start": "2018-03-03T23:00:00.000Z",
     "end": "2018-03-04T23:00:00.000Z",
@@ -45,12 +90,30 @@
     "_weekday": "Sun"
   },
   {
+    "date": "2018-03-08 00:00:00",
+    "start": "2018-03-07T23:00:00.000Z",
+    "end": "2018-03-08T23:00:00.000Z",
+    "name": "Internationella kvinnodagen",
+    "type": "public",
+    "rule": "03-08",
+    "_weekday": "Thu"
+  },
+  {
     "date": "2018-03-25 00:00:00",
     "start": "2018-03-24T23:00:00.000Z",
     "end": "2018-03-25T22:00:00.000Z",
     "name": "Marie Bebådelsedag",
     "type": "observance",
     "rule": "03-25",
+    "_weekday": "Sun"
+  },
+  {
+    "date": "2018-03-25 00:00:00",
+    "start": "2018-03-24T23:00:00.000Z",
+    "end": "2018-03-25T22:00:00.000Z",
+    "name": "Palmsöndag",
+    "type": "public",
+    "rule": "easter -7",
     "_weekday": "Sun"
   },
   {
@@ -79,6 +142,15 @@
     "type": "observance",
     "rule": "easter -1",
     "_weekday": "Sat"
+  },
+  {
+    "date": "2018-04-01 00:00:00",
+    "start": "2018-03-31T22:00:00.000Z",
+    "end": "2018-04-01T22:00:00.000Z",
+    "name": "Första april",
+    "type": "public",
+    "rule": "04-01",
+    "_weekday": "Sun"
   },
   {
     "date": "2018-04-01 00:00:00",
@@ -115,6 +187,15 @@
     "type": "public",
     "rule": "05-01",
     "_weekday": "Tue"
+  },
+  {
+    "date": "2018-05-09 00:00:00",
+    "start": "2018-05-08T22:00:00.000Z",
+    "end": "2018-05-09T22:00:00.000Z",
+    "name": "Europadagen",
+    "type": "public",
+    "rule": "05-09",
+    "_weekday": "Wed"
   },
   {
     "date": "2018-05-10 00:00:00",
@@ -214,6 +295,15 @@
     "type": "public",
     "rule": "saturday after 10-31",
     "_weekday": "Sat"
+  },
+  {
+    "date": "2018-11-04 00:00:00",
+    "start": "2018-11-03T23:00:00.000Z",
+    "end": "2018-11-04T23:00:00.000Z",
+    "name": "Alla själars dag",
+    "type": "public",
+    "rule": "sunday after 10-31",
+    "_weekday": "Sun"
   },
   {
     "date": "2018-11-06 00:00:00",

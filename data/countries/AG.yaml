@@ -7,7 +7,6 @@ holidays:
       sv: Antigua & Barbuda
     langs:
       - en
-      - sv
     dayoff: sunday
     weekend:
       - saturday

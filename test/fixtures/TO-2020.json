@@ -39,7 +39,8 @@
     "date": "2020-06-08 00:00:00",
     "start": "2020-06-07T11:00:00.000Z",
     "end": "2020-06-08T11:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "06-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday",
     "_weekday": "Mon"

@@ -23,6 +23,7 @@ holidays:
       06-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday:
         name:
           en: Emancipation Day
+          sv: Emancipationsdagen
       07-04:
         name:
           en: Official Birthday of His Majesty King Tupou VI

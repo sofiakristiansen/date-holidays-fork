@@ -39,7 +39,8 @@
     "date": "2024-08-01 00:00:00",
     "start": "2024-08-01T03:00:00.000Z",
     "end": "2024-08-02T03:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "thursday before 08-04",
     "_weekday": "Thu"

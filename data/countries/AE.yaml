@@ -7,7 +7,6 @@ holidays:
       sv: Förenade arabemiraten
     langs:
       - ar
-      - sv
     zones:
       - Asia/Dubai
     dayoff: ""

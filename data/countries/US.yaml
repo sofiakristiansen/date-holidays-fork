@@ -291,6 +291,7 @@ holidays:
           04-16:
             name:
               en: Emancipation Day
+              sv: Emancipationsdagen
           2nd monday in October:
             name:
               en: Columbus Day
@@ -865,6 +866,7 @@ holidays:
           06-19:
             name:
               en: Emancipation Day In Texas
+              sv: Emancipationsdagen i Texas
             type: observance
             note: state agencies are partially staffed
           08-27:

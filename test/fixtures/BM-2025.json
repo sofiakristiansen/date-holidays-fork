@@ -39,7 +39,8 @@
     "date": "2025-07-31 00:00:00",
     "start": "2025-07-31T03:00:00.000Z",
     "end": "2025-08-01T03:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "thursday before 08-04",
     "_weekday": "Thu"

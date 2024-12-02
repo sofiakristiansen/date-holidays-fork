@@ -40,6 +40,7 @@ holidays:
         name:
           nl: Emancipatiedag
           en: Emancipation Day
+          sv: Emancipationsdagen
       10-09:
         _name: Constitution Day
       11-11:

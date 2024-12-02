@@ -57,7 +57,8 @@
     "date": "2020-08-01 00:00:00",
     "start": "2020-08-01T05:00:00.000Z",
     "end": "2020-08-02T05:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "08-01 if sunday then next monday",
     "_weekday": "Sat"

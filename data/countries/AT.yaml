@@ -4,12 +4,14 @@ holidays:
     names:
       de-at: Österreich
       en: Austria
+      sv: Österrike
     dayoff: sunday
     zones:
       - Europe/Vienna
     langs:
       - de-at
       - de
+      - sv
     days:
       01-01:
         _name: 01-01
@@ -30,6 +32,7 @@ holidays:
       05-01:
         name:
           de-at: Staatsfeiertag
+          sv: Statlig helgdag
       2nd sunday in May:
         _name: Mothers Day
         type: observance
@@ -66,10 +69,12 @@ holidays:
           11-11:
             name:
               de-at: Martinstag
+              sv: Martinsdag
       "2":
         names:
           de: Kärnten
           en: Carinthia
+          sv: Kärnten
         days:
           03-19:
             _name: 03-19
@@ -77,37 +82,45 @@ holidays:
           10-10:
             name:
               de-at: Tag der Volksabstimmung
+              sv: Folkomröstningsdagen
       "3":
         names:
           de: Niederösterreich
           en: Lower Austria
+          sv: Nedre Österrike
         days:
           # @source https://kurier.at/chronik/niederoesterreich/leopoldi-alle-feiern-nicht-alle-haben-frei/400673546
           11-15:
             name:
               de-at: Leopoldi-Tag
+              sv: Leopolditag
             type: optional
             note: In Niederösterreich haben nur Schüler und Beamten frei
       "4":
         names:
           de: Oberösterreich
           en: Upper Austria
+          sv: Övre Österrike
         days:
           05-04:
             name:
               de-at: Florian
+              sv: Sankte Florian's dag
       "5":
         names:
           de: Land Salzburg
           en: Salzburg
+          sv: Salzburg
         days:
           09-24:
             name:
               de-at: Rupert
+              sv: Sankte Rupert's dag
       "6":
         names:
           de: Steiermark
           en: Styria
+          sv: Steiermark
         days:
           03-19:
             _name: 03-19
@@ -116,6 +129,7 @@ holidays:
         names:
           de: Tirol
           en: Tyrol
+          sv: Tyrolen
         days:
           03-19:
             _name: 03-19
@@ -130,10 +144,12 @@ holidays:
         names:
           de: Wien
           en: Vienna
+          sv: Wien
         days:
           # @source https://kurier.at/chronik/niederoesterreich/leopoldi-alle-feiern-nicht-alle-haben-frei/400673546
           11-15:
             name:
               de-at: Leopoldi-Tag
+              sv: Leopolditag
             type: optional
             note: In Wien haben nur Schüler frei

@@ -10,7 +10,6 @@ holidays:
       - Africa/Lagos
     langs:
       - pt
-      - sv
     days:
       01-01:
         _name: 01-01

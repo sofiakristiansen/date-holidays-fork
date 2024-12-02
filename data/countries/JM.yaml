@@ -26,6 +26,7 @@ holidays:
       08-01 if sunday then next monday:
         name:
           en: Emancipation Day
+          sv: Emancipationsdagen
       08-06 and if sunday then next monday:
         _name: Independence Day
         substitute: true

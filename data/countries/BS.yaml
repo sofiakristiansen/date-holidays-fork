@@ -41,6 +41,7 @@ holidays:
       1st monday in August:
         name:
           en: Emancipation Day
+          sv: Emancipationsdagen
       10-12 and if saturday,sunday then next monday:
         substitute: true
         name:

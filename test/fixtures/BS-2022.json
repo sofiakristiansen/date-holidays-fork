@@ -103,7 +103,8 @@
     "date": "2022-08-01 00:00:00",
     "start": "2022-08-01T04:00:00.000Z",
     "end": "2022-08-02T04:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "1st monday in August",
     "_weekday": "Mon"

@@ -36,6 +36,7 @@ holidays:
       08-01:
         name:
           en: Emancipation Day
+          sv: Emancipationsdagen
       12-25:
         _name: 12-25
       12-26:

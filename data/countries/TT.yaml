@@ -36,6 +36,7 @@ holidays:
         substitute: true
         name:
           en: Emancipation Day
+          sv: Emancipationsdagen
       08-31 and if Sunday then next Monday:
         substitute: true
         _name: Independence Day

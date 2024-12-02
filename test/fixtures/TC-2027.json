@@ -66,7 +66,8 @@
     "date": "2027-08-02 00:00:00",
     "start": "2027-08-02T04:00:00.000Z",
     "end": "2027-08-03T04:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "1st Monday in August",
     "_weekday": "Mon"

@@ -36,12 +36,66 @@
     "_weekday": "Mon"
   },
   {
+    "date": "2020-02-02 00:00:00",
+    "start": "2020-02-01T23:00:00.000Z",
+    "end": "2020-02-02T23:00:00.000Z",
+    "name": "Kyndelsmässodagen",
+    "type": "public",
+    "rule": "02-02",
+    "_weekday": "Sun"
+  },
+  {
+    "date": "2020-02-14 00:00:00",
+    "start": "2020-02-13T23:00:00.000Z",
+    "end": "2020-02-14T23:00:00.000Z",
+    "name": "Alla hjärtans dag",
+    "type": "public",
+    "rule": "02-14",
+    "_weekday": "Fri"
+  },
+  {
+    "date": "2020-02-24 00:00:00",
+    "start": "2020-02-23T23:00:00.000Z",
+    "end": "2020-02-24T23:00:00.000Z",
+    "name": "Blåmåndagen",
+    "type": "public",
+    "rule": "easter -48",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2020-02-25 00:00:00",
+    "start": "2020-02-24T23:00:00.000Z",
+    "end": "2020-02-25T23:00:00.000Z",
+    "name": "Fettisdagen",
+    "type": "observance",
+    "rule": "easter -47",
+    "_weekday": "Tue"
+  },
+  {
+    "date": "2020-02-26 00:00:00",
+    "start": "2020-02-25T23:00:00.000Z",
+    "end": "2020-02-26T23:00:00.000Z",
+    "name": "Askonsdagen",
+    "type": "public",
+    "rule": "easter -46",
+    "_weekday": "Wed"
+  },
+  {
     "date": "2020-03-01 00:00:00",
     "start": "2020-02-29T23:00:00.000Z",
     "end": "2020-03-01T23:00:00.000Z",
     "name": "Vasaloppet",
     "type": "observance",
     "rule": "1st sunday in March",
+    "_weekday": "Sun"
+  },
+  {
+    "date": "2020-03-08 00:00:00",
+    "start": "2020-03-07T23:00:00.000Z",
+    "end": "2020-03-08T23:00:00.000Z",
+    "name": "Internationella kvinnodagen",
+    "type": "public",
+    "rule": "03-08",
     "_weekday": "Sun"
   },
   {
@@ -52,6 +106,24 @@
     "type": "observance",
     "rule": "03-25",
     "_weekday": "Wed"
+  },
+  {
+    "date": "2020-04-01 00:00:00",
+    "start": "2020-03-31T22:00:00.000Z",
+    "end": "2020-04-01T22:00:00.000Z",
+    "name": "Första april",
+    "type": "public",
+    "rule": "04-01",
+    "_weekday": "Wed"
+  },
+  {
+    "date": "2020-04-05 00:00:00",
+    "start": "2020-04-04T22:00:00.000Z",
+    "end": "2020-04-05T22:00:00.000Z",
+    "name": "Palmsöndag",
+    "type": "public",
+    "rule": "easter -7",
+    "_weekday": "Sun"
   },
   {
     "date": "2020-04-09 00:00:00",
@@ -115,6 +187,15 @@
     "type": "public",
     "rule": "05-01",
     "_weekday": "Fri"
+  },
+  {
+    "date": "2020-05-09 00:00:00",
+    "start": "2020-05-08T22:00:00.000Z",
+    "end": "2020-05-09T22:00:00.000Z",
+    "name": "Europadagen",
+    "type": "public",
+    "rule": "05-09",
+    "_weekday": "Sat"
   },
   {
     "date": "2020-05-21 00:00:00",
@@ -214,6 +295,15 @@
     "type": "public",
     "rule": "saturday after 10-31",
     "_weekday": "Sat"
+  },
+  {
+    "date": "2020-11-01 00:00:00",
+    "start": "2020-10-31T23:00:00.000Z",
+    "end": "2020-11-01T23:00:00.000Z",
+    "name": "Alla själars dag",
+    "type": "public",
+    "rule": "sunday after 10-31",
+    "_weekday": "Sun"
   },
   {
     "date": "2020-11-06 00:00:00",

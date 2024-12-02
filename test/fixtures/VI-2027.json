@@ -157,7 +157,8 @@
     "date": "2027-07-03 00:00:00",
     "start": "2027-07-03T04:00:00.000Z",
     "end": "2027-07-04T04:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "07-03",
     "_weekday": "Sat"

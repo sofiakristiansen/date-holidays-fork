@@ -93,7 +93,8 @@
     "date": "2023-08-07 00:00:00",
     "start": "2023-08-07T04:00:00.000Z",
     "end": "2023-08-08T04:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "1st monday in August",
     "_weekday": "Mon"

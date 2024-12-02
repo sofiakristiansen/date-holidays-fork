@@ -10,7 +10,6 @@ holidays:
     dayoff: sunday
     langs:
       - es
-      - sv
     zones:
       - America/Argentina/Buenos_Aires
       - America/Argentina/Cordoba

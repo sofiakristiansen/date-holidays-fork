@@ -36,6 +36,51 @@
     "_weekday": "Tue"
   },
   {
+    "date": "2015-02-02 00:00:00",
+    "start": "2015-02-01T23:00:00.000Z",
+    "end": "2015-02-02T23:00:00.000Z",
+    "name": "Kyndelsmässodagen",
+    "type": "public",
+    "rule": "02-02",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2015-02-14 00:00:00",
+    "start": "2015-02-13T23:00:00.000Z",
+    "end": "2015-02-14T23:00:00.000Z",
+    "name": "Alla hjärtans dag",
+    "type": "public",
+    "rule": "02-14",
+    "_weekday": "Sat"
+  },
+  {
+    "date": "2015-02-16 00:00:00",
+    "start": "2015-02-15T23:00:00.000Z",
+    "end": "2015-02-16T23:00:00.000Z",
+    "name": "Blåmåndagen",
+    "type": "public",
+    "rule": "easter -48",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2015-02-17 00:00:00",
+    "start": "2015-02-16T23:00:00.000Z",
+    "end": "2015-02-17T23:00:00.000Z",
+    "name": "Fettisdagen",
+    "type": "observance",
+    "rule": "easter -47",
+    "_weekday": "Tue"
+  },
+  {
+    "date": "2015-02-18 00:00:00",
+    "start": "2015-02-17T23:00:00.000Z",
+    "end": "2015-02-18T23:00:00.000Z",
+    "name": "Askonsdagen",
+    "type": "public",
+    "rule": "easter -46",
+    "_weekday": "Wed"
+  },
+  {
     "date": "2015-03-01 00:00:00",
     "start": "2015-02-28T23:00:00.000Z",
     "end": "2015-03-01T23:00:00.000Z",
@@ -45,12 +90,39 @@
     "_weekday": "Sun"
   },
   {
+    "date": "2015-03-08 00:00:00",
+    "start": "2015-03-07T23:00:00.000Z",
+    "end": "2015-03-08T23:00:00.000Z",
+    "name": "Internationella kvinnodagen",
+    "type": "public",
+    "rule": "03-08",
+    "_weekday": "Sun"
+  },
+  {
     "date": "2015-03-25 00:00:00",
     "start": "2015-03-24T23:00:00.000Z",
     "end": "2015-03-25T23:00:00.000Z",
     "name": "Marie Bebådelsedag",
     "type": "observance",
     "rule": "03-25",
+    "_weekday": "Wed"
+  },
+  {
+    "date": "2015-03-29 00:00:00",
+    "start": "2015-03-28T23:00:00.000Z",
+    "end": "2015-03-29T22:00:00.000Z",
+    "name": "Palmsöndag",
+    "type": "public",
+    "rule": "easter -7",
+    "_weekday": "Sun"
+  },
+  {
+    "date": "2015-04-01 00:00:00",
+    "start": "2015-03-31T22:00:00.000Z",
+    "end": "2015-04-01T22:00:00.000Z",
+    "name": "Första april",
+    "type": "public",
+    "rule": "04-01",
     "_weekday": "Wed"
   },
   {
@@ -115,6 +187,15 @@
     "type": "public",
     "rule": "05-01",
     "_weekday": "Fri"
+  },
+  {
+    "date": "2015-05-09 00:00:00",
+    "start": "2015-05-08T22:00:00.000Z",
+    "end": "2015-05-09T22:00:00.000Z",
+    "name": "Europadagen",
+    "type": "public",
+    "rule": "05-09",
+    "_weekday": "Sat"
   },
   {
     "date": "2015-05-14 00:00:00",
@@ -214,6 +295,15 @@
     "type": "public",
     "rule": "saturday after 10-31",
     "_weekday": "Sat"
+  },
+  {
+    "date": "2015-11-01 00:00:00",
+    "start": "2015-10-31T23:00:00.000Z",
+    "end": "2015-11-01T23:00:00.000Z",
+    "name": "Alla själars dag",
+    "type": "public",
+    "rule": "sunday after 10-31",
+    "_weekday": "Sun"
   },
   {
     "date": "2015-11-06 00:00:00",

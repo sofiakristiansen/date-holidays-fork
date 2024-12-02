@@ -39,7 +39,8 @@
     "date": "2021-07-29 00:00:00",
     "start": "2021-07-29T03:00:00.000Z",
     "end": "2021-07-30T03:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "thursday before 08-04",
     "_weekday": "Thu"

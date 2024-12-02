@@ -6,7 +6,6 @@ holidays:
       sv: Anguilla
     langs:
       - en
-      - sv
     dayoff: sunday
     weekend:
       - saturday

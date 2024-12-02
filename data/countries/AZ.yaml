@@ -4,6 +4,7 @@ holidays:
     names:
       az: Azərbaycan Respublikası
       en: Azerbaijan
+      sv: Azerbajdzjan
     dayoff: sunday
     weekend:
       - saturday
@@ -23,6 +24,7 @@ holidays:
         name:
           az: Qara Yanvar
           en: Martyrs' Day
+          sv: Martyrernas dag
         type: observance
       03-08 and if saturday,sunday then next monday:
         substitute: true
@@ -31,6 +33,7 @@ holidays:
         name:
           az: Novruz
           en: Spring Festival
+          sv: Novruz
         active:
           - from: 2011
       05-09 and if saturday,sunday then next monday:
@@ -38,44 +41,53 @@ holidays:
         name:
           az: Faşizm üzərində qələbə günü
           en: Day of Victory over Fascism
+          sv: Dagen för seger över fascismen
       05-28 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Respublika günü
           en: Republic Day
+          sv: Republikens dag
       06-15 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Azərbaycan xalqının Milli Qurtuluş günü
           en: National Salvation Day
+          sv: Nationella befrielsedagen
       06-26 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Azərbaycan Respublikasının Silahlı Qüvvələri günü
           en: Azerbaijan Armed Forces Day
+          sv: Väpnade styrkans dag
       10-18 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Dövlət Müstəqilliyi günü
           en: Independence Day
+          sv: Självständighetsdagen
       11-09 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Dövlət Bayrağı günü
           en: Flag Day
+          sv: Flaggans dag
       11-12:
         name:
           az: Konstitusiya günü
           en: Constitution Day
+          sv: Konstitutionsdagen
       11-17:
         name:
           az: Milli Dirçəliş günü
           en: National Revival Day
+          sv: National Revival Day
       12-31 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Dünya azərbaycanlıların həmrəyliyi günü
           en: International Solidarity Day of Azerbaijanis
+          sv: Världsdagen för solidaritet
       1 Shawwal and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 1 Shawwal

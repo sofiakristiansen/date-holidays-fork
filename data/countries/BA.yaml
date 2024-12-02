@@ -7,6 +7,7 @@ holidays:
       sr: Боснa и Херцеговина
       hr: Bosna i Hercegovina
       en: Bosnia and Herzegovina
+      sv: Bosnien och Hercegovina
     langs:
       - bs
       - sr
@@ -22,6 +23,7 @@ holidays:
         name:
           en: 2nd day of the New Year
           bs: Drugi dan Nove Godine
+          sv: Andra dagen på det nya året
         substitute: true
       05-01 and if sunday then next tuesday:
         _name: 05-01
@@ -30,6 +32,7 @@ holidays:
         name:
           en: 2nd day of the Labour Day
           bs: Drugi dan Dana rada
+          sv: Andra dagen av arbetarnas dag
         substitute: true
       # Catholic
       # note: public holiday in counties and municipalities in which Croats are majority
@@ -82,6 +85,7 @@ holidays:
             name:
               en: Statehood Day
               bs: Dan državnosti
+              sv: Nationaldag
         regions:
           W:
             name: Western Herzegovina
@@ -94,6 +98,7 @@ holidays:
           03-08:
             name:
               en: Day of the Establishment of the District
+              sv: Dagen för distriktets etablering
       SRP:
         name: Republika Srpska
         days:
@@ -101,11 +106,14 @@ holidays:
             name:
               en: Republic Day
               bs: Dan Republike
+              sv: Republikens dag
           05-09:
             name:
               en: Victory Day
               bs: Dan pobjede
+              sv: Segerns dag
           11-21:
             name:
               en: Dayton Agreement Day
               bs: Dan uspostave Opšteg okvirnog sporazuma za mir u Bosni i Hercegovini
+              sv: Daytonavtalets dag

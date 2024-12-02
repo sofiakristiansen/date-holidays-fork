@@ -36,6 +36,51 @@
     "_weekday": "Fri"
   },
   {
+    "date": "2023-02-02 00:00:00",
+    "start": "2023-02-01T23:00:00.000Z",
+    "end": "2023-02-02T23:00:00.000Z",
+    "name": "Kyndelsmässodagen",
+    "type": "public",
+    "rule": "02-02",
+    "_weekday": "Thu"
+  },
+  {
+    "date": "2023-02-14 00:00:00",
+    "start": "2023-02-13T23:00:00.000Z",
+    "end": "2023-02-14T23:00:00.000Z",
+    "name": "Alla hjärtans dag",
+    "type": "public",
+    "rule": "02-14",
+    "_weekday": "Tue"
+  },
+  {
+    "date": "2023-02-20 00:00:00",
+    "start": "2023-02-19T23:00:00.000Z",
+    "end": "2023-02-20T23:00:00.000Z",
+    "name": "Blåmåndagen",
+    "type": "public",
+    "rule": "easter -48",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2023-02-21 00:00:00",
+    "start": "2023-02-20T23:00:00.000Z",
+    "end": "2023-02-21T23:00:00.000Z",
+    "name": "Fettisdagen",
+    "type": "observance",
+    "rule": "easter -47",
+    "_weekday": "Tue"
+  },
+  {
+    "date": "2023-02-22 00:00:00",
+    "start": "2023-02-21T23:00:00.000Z",
+    "end": "2023-02-22T23:00:00.000Z",
+    "name": "Askonsdagen",
+    "type": "public",
+    "rule": "easter -46",
+    "_weekday": "Wed"
+  },
+  {
     "date": "2023-03-05 00:00:00",
     "start": "2023-03-04T23:00:00.000Z",
     "end": "2023-03-05T23:00:00.000Z",
@@ -45,6 +90,15 @@
     "_weekday": "Sun"
   },
   {
+    "date": "2023-03-08 00:00:00",
+    "start": "2023-03-07T23:00:00.000Z",
+    "end": "2023-03-08T23:00:00.000Z",
+    "name": "Internationella kvinnodagen",
+    "type": "public",
+    "rule": "03-08",
+    "_weekday": "Wed"
+  },
+  {
     "date": "2023-03-25 00:00:00",
     "start": "2023-03-24T23:00:00.000Z",
     "end": "2023-03-25T23:00:00.000Z",
@@ -52,6 +106,24 @@
     "type": "observance",
     "rule": "03-25",
     "_weekday": "Sat"
+  },
+  {
+    "date": "2023-04-01 00:00:00",
+    "start": "2023-03-31T22:00:00.000Z",
+    "end": "2023-04-01T22:00:00.000Z",
+    "name": "Första april",
+    "type": "public",
+    "rule": "04-01",
+    "_weekday": "Sat"
+  },
+  {
+    "date": "2023-04-02 00:00:00",
+    "start": "2023-04-01T22:00:00.000Z",
+    "end": "2023-04-02T22:00:00.000Z",
+    "name": "Palmsöndag",
+    "type": "public",
+    "rule": "easter -7",
+    "_weekday": "Sun"
   },
   {
     "date": "2023-04-06 00:00:00",
@@ -115,6 +187,15 @@
     "type": "public",
     "rule": "05-01",
     "_weekday": "Mon"
+  },
+  {
+    "date": "2023-05-09 00:00:00",
+    "start": "2023-05-08T22:00:00.000Z",
+    "end": "2023-05-09T22:00:00.000Z",
+    "name": "Europadagen",
+    "type": "public",
+    "rule": "05-09",
+    "_weekday": "Tue"
   },
   {
     "date": "2023-05-18 00:00:00",
@@ -214,6 +295,15 @@
     "type": "public",
     "rule": "saturday after 10-31",
     "_weekday": "Sat"
+  },
+  {
+    "date": "2023-11-05 00:00:00",
+    "start": "2023-11-04T23:00:00.000Z",
+    "end": "2023-11-05T23:00:00.000Z",
+    "name": "Alla själars dag",
+    "type": "public",
+    "rule": "sunday after 10-31",
+    "_weekday": "Sun"
   },
   {
     "date": "2023-11-06 00:00:00",

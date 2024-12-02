@@ -39,7 +39,8 @@
     "date": "2019-06-03 00:00:00",
     "start": "2019-06-02T11:00:00.000Z",
     "end": "2019-06-03T11:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "06-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday",
     "_weekday": "Mon"
@@ -48,7 +49,8 @@
     "date": "2019-06-04 00:00:00",
     "start": "2019-06-03T11:00:00.000Z",
     "end": "2019-06-04T11:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "06-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday",
     "_weekday": "Tue"

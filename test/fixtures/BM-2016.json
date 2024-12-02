@@ -39,7 +39,8 @@
     "date": "2016-07-28 00:00:00",
     "start": "2016-07-28T03:00:00.000Z",
     "end": "2016-07-29T03:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "thursday before 08-04",
     "_weekday": "Thu"

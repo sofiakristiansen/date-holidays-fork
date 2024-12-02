@@ -3,6 +3,7 @@ holidays:
   AS:
     names:
       en: American Samoa
+      sv: Amerikanska Samoa
     dayoff: sunday
     zones:
       - Pacific/Pago_Pago
@@ -16,21 +17,25 @@ holidays:
       3rd monday in February:
         name:
           en: Washington's Birthday
+          sv: Washington's födelsedag
       # Saint Patrick's Day is not observed
       03-17: false
       04-15 if friday then next monday if saturday,sunday then next tuesday: false
       04-17 and if sunday then next monday:
         name:
           en: American Samoa Flag Day
+          sv: Flaggans dag
         substitute: true
       07-16:
         name:
           en: Manu'a Cession Day
+          sv: Manu'a Cession dagen
         type: optional
         note: Goverment offices closed
       2nd sunday in October:
         name:
           en: White Sunday
+          sv: White Sunday
         type: observance
         note: christian
       12-24 12:00:

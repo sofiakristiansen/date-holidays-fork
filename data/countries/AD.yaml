@@ -10,7 +10,6 @@ holidays:
     langs:
       - ca
       - es
-      - sv
     zones:
       - Europe/Andorra
     days:

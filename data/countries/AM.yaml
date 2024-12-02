@@ -8,7 +8,6 @@ holidays:
     dayoff: sunday
     langs:
       - hy
-      - sv
     zones:
       - Asia/Yerevan
     days:

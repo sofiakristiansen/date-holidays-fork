@@ -66,7 +66,8 @@
     "date": "2027-04-16 00:00:00",
     "start": "2027-04-16T04:00:00.000Z",
     "end": "2027-04-17T04:00:00.000Z",
-    "name": "Emancipation Day",
+    "name": "Emancipation Day
+          sv: Emancipationsdagen",
     "type": "public",
     "rule": "04-16",
     "_weekday": "Fri"

@@ -36,12 +36,75 @@
     "_weekday": "Wed"
   },
   {
+    "date": "2027-02-02 00:00:00",
+    "start": "2027-02-01T23:00:00.000Z",
+    "end": "2027-02-02T23:00:00.000Z",
+    "name": "Kyndelsmässodagen",
+    "type": "public",
+    "rule": "02-02",
+    "_weekday": "Tue"
+  },
+  {
+    "date": "2027-02-08 00:00:00",
+    "start": "2027-02-07T23:00:00.000Z",
+    "end": "2027-02-08T23:00:00.000Z",
+    "name": "Blåmåndagen",
+    "type": "public",
+    "rule": "easter -48",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2027-02-09 00:00:00",
+    "start": "2027-02-08T23:00:00.000Z",
+    "end": "2027-02-09T23:00:00.000Z",
+    "name": "Fettisdagen",
+    "type": "observance",
+    "rule": "easter -47",
+    "_weekday": "Tue"
+  },
+  {
+    "date": "2027-02-10 00:00:00",
+    "start": "2027-02-09T23:00:00.000Z",
+    "end": "2027-02-10T23:00:00.000Z",
+    "name": "Askonsdagen",
+    "type": "public",
+    "rule": "easter -46",
+    "_weekday": "Wed"
+  },
+  {
+    "date": "2027-02-14 00:00:00",
+    "start": "2027-02-13T23:00:00.000Z",
+    "end": "2027-02-14T23:00:00.000Z",
+    "name": "Alla hjärtans dag",
+    "type": "public",
+    "rule": "02-14",
+    "_weekday": "Sun"
+  },
+  {
     "date": "2027-03-07 00:00:00",
     "start": "2027-03-06T23:00:00.000Z",
     "end": "2027-03-07T23:00:00.000Z",
     "name": "Vasaloppet",
     "type": "observance",
     "rule": "1st sunday in March",
+    "_weekday": "Sun"
+  },
+  {
+    "date": "2027-03-08 00:00:00",
+    "start": "2027-03-07T23:00:00.000Z",
+    "end": "2027-03-08T23:00:00.000Z",
+    "name": "Internationella kvinnodagen",
+    "type": "public",
+    "rule": "03-08",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2027-03-21 00:00:00",
+    "start": "2027-03-20T23:00:00.000Z",
+    "end": "2027-03-21T23:00:00.000Z",
+    "name": "Palmsöndag",
+    "type": "public",
+    "rule": "easter -7",
     "_weekday": "Sun"
   },
   {
@@ -99,6 +162,15 @@
     "_weekday": "Mon"
   },
   {
+    "date": "2027-04-01 00:00:00",
+    "start": "2027-03-31T22:00:00.000Z",
+    "end": "2027-04-01T22:00:00.000Z",
+    "name": "Första april",
+    "type": "public",
+    "rule": "04-01",
+    "_weekday": "Thu"
+  },
+  {
     "date": "2027-04-30 12:00:00",
     "start": "2027-04-30T10:00:00.000Z",
     "end": "2027-04-30T22:00:00.000Z",
@@ -124,6 +196,15 @@
     "type": "public",
     "rule": "easter 39",
     "_weekday": "Thu"
+  },
+  {
+    "date": "2027-05-09 00:00:00",
+    "start": "2027-05-08T22:00:00.000Z",
+    "end": "2027-05-09T22:00:00.000Z",
+    "name": "Europadagen",
+    "type": "public",
+    "rule": "05-09",
+    "_weekday": "Sun"
   },
   {
     "date": "2027-05-15 00:00:00",
@@ -196,6 +277,15 @@
     "type": "observance",
     "rule": "10-04",
     "_weekday": "Mon"
+  },
+  {
+    "date": "2027-10-31 00:00:00",
+    "start": "2027-10-30T22:00:00.000Z",
+    "end": "2027-10-31T23:00:00.000Z",
+    "name": "Alla själars dag",
+    "type": "public",
+    "rule": "sunday after 10-31",
+    "_weekday": "Sun"
   },
   {
     "date": "2027-11-05 12:00:00",
