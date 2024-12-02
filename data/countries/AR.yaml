@@ -6,9 +6,11 @@ holidays:
     names:
       es: Argentina
       en: Argentina
+      sv: Argentina
     dayoff: sunday
     langs:
       - es
+      - sv
     zones:
       - America/Argentina/Buenos_Aires
       - America/Argentina/Cordoba
@@ -37,6 +39,7 @@ holidays:
         name:
           en: Day of Remembrance for Truth and Justice
           es: Día de la Memoria por la Verdad y la Justicia
+          sv: Minnesdagen för sanning och rättvisa
       substitutes 03-24 if tuesday then previous monday if thursday then next friday:
         _name: Bridge Day
       "2020-03-30":
@@ -49,6 +52,7 @@ holidays:
         name:
           en: Day of the veterans and the fallen in Malvinas War
           es: Día del Veterano y de los Caídos en la Guerra de Malvinas
+          sv: Veteranernas och de fallnas i Malvinas krig dag
       substitutes 04-02 if tuesday then previous monday if thursday then next friday:
         _name: Bridge Day
       05-01:
@@ -59,12 +63,14 @@ holidays:
         name:
           en: Day of the First National Government
           es: Primer Gobierno Patrio
+          sv: Den första nationella regeringens dag
       substitutes 05-25 if tuesday then previous monday if thursday then next friday:
         _name: Bridge Day
       06-20:
         name:
           en: National Flag Day
           es: Día de la Bandera
+          sv: Flaggans dag
       substitutes 06-20 if tuesday then previous monday if thursday then next friday:
         _name: Bridge Day
       07-09:
@@ -78,10 +84,12 @@ holidays:
         name:
           en: Anniversary of the death of General José de San Martín
           es: Día del Libertador José de San Martín
+          sv: Befriaren José de San Martíns dag
       10-12 if tuesday,wednesday then previous monday if thursday,friday,saturday,sunday then next monday:
         name:
           en: Day of Respect for Cultural Diversity
           es: Día del Respeto a la Diversidad Cultural
+          sv: Respekt för kulturell mångfald dagen
       substitutes 10-12 if monday,tuesday,wednesday then previous friday:
         _name: Bridge Day
         disable:
@@ -93,6 +101,7 @@ holidays:
         name:
           en: Day of National Sovereignty
           es: Día de la Soberanía nacional
+          sv: Nationella suveränitetsdagen
       substitutes 11-20 if saturday,sunday then next monday:
         _name: Bridge Day
         disable:

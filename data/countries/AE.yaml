@@ -4,8 +4,10 @@ holidays:
     names:
       en: United Arab Emirates
       ar: "دولة الإمارات العربية المتحدة"
+      sv: Förenade arabemiraten
     langs:
       - ar
+      - sv
     zones:
       - Asia/Dubai
     dayoff: ""
@@ -18,6 +20,7 @@ holidays:
         name:
           en: National Day
           ar: اليوم الوطني
+          sv: Nationaldagen
       1 Muharram:
         _name: 1 Muharram
       1 Shawwal P3D:

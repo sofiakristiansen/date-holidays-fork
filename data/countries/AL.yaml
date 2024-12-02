@@ -4,10 +4,12 @@ holidays:
     names:
       sq: Shqipëri
       en: Albania
+      sv: Albanien
     dayoff: sunday
     langs:
       - sq
       - es
+      - sv
     zones:
       - Europe/Tirane
     days:
@@ -18,16 +20,19 @@ holidays:
         name:
           sq: Festa e Vitit të Ri
           en: New Year Holiday
+          sv: Festa e Vitit të Ri
         substitute: true
       03-02:
         name:
           sq: Dita e Besëlidhjes së Lezhës
           en: League of Lezhë day
+          sv: Lezhaförbundets dag
         type: observance
       03-07:
         name:
           sq: Dita e Mësuesit
           en: Teacher's Day
+          sv: Lärarnas dag
         type: observance
       03-08:
         _name: Mothers Day
@@ -36,11 +41,13 @@ holidays:
         name:
           sq: Dita e Verës
           en: Summer Day
+          sv: Dita e Verës
         substitute: true
       03-22 and if sunday then next monday:
         name:
           sq: Dita e Sulltan Nevruzit
           en: Sultan Nevruz's Day
+          sv: Sultan Nevruz dagen
         substitute: true
       04-01:
         _name: 04-01
@@ -49,18 +56,22 @@ holidays:
         name:
           sq: Pashkët Katolike
           en: Catholic Easter
+          sv: Katolsk påsk
       easter 1:
         name:
           sq: Pashkët Katolike
           en: Catholic Easter
+          sv: Katolsk påsk
       orthodox:
         name:
           sq: Pashkët Ortodokse
           en: Orthodox Easter
+          sv: Ortodox påsk
       orthodox 1:
         name:
           sq: Pashkët Ortodokse
           en: Orthodox Easter
+          sv: Ortodox påsk
       05-01 and if sunday then next monday:
         _name: 05-01
         substitute: true
@@ -68,11 +79,13 @@ holidays:
         name:
           sq: Dita Ndërkombëtare e Fëmijëve
           en: Children's Day
+          sv: Barnens dag
         type: observance
       10-19 and if sunday then next monday:
         name:
           sq: Dita e Nënë Terezës
           en: Mother Teresa Day
+          sv: Moder Teresa dagen
         substitute: true
         active:
           - from: 2004
@@ -80,6 +93,7 @@ holidays:
         name:
           sq: Dita e Alfabetit
           en: Alphabet Day
+          sv: Alfabetsdagen
         type: observance
       11-28 and if sunday then next monday:
         _name: Independence Day
@@ -91,6 +105,7 @@ holidays:
         name:
           sq: Dita Kombëtare e Rinisë
           en: Youth Day
+          sv: Internationella dagen för unga
         substitute: true
         active:
           - from: 2010
