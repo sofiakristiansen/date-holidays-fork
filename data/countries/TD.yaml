@@ -21,6 +21,7 @@ holidays:
         name:
           fr: Fête Nationale (Indépendance)
           en: Independence Day
+          sv: Självständighetsdagen
       12-01 and if sunday then next monday:
         name:
           fr: Journée de la libération et de la démocratie
@@ -41,7 +42,6 @@ holidays:
         _name: 1 Shawwal
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-
 #    states:
 #      BA:
 #        name: Batha

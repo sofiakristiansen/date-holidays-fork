@@ -31,6 +31,7 @@ holidays:
         name:
           it: Festa della Repubblica
           en: Republic Day
+          sv: Republikens dag
       08-15:
         _name: 08-15
       11-01:
@@ -45,6 +46,7 @@ holidays:
         name:
           it: Festa Nazionale 2011
           en: National Day 2011
+          sv: Nationaldagen 2011
     states:
       # '21':
       #   name: Piedmont

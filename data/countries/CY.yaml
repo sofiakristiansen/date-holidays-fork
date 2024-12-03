@@ -4,6 +4,7 @@ holidays:
     names:
       el: Κύπρος
       en: Cyprus
+      sv: Cypern
     dayoff: ""
     langs:
       - el
@@ -18,19 +19,23 @@ holidays:
         name:
           el: Καθαρά Δευτέρα
           en: Ash Sunday
+          sv: Ren måndag
         type: observance
       orthodox -47:
         name:
           el: Καθαρά Δευτέρα
           en: Clean Monday
+          sv: Ren måndag
       03-25:
         name:
           el: Ευαγγελισμός, Εθνική Εορτή
           en: Annunciation, Anniversary of 1821 Revolution
+          sv: Befrielsens dag
       04-01:
         name:
           en: Cyprus National Day
           el: Κύπρος Εθνική Εορτή
+          sv: Nationaldagen
       orthodox -2:
         _name: easter -2
       orthodox:
@@ -50,10 +55,12 @@ holidays:
         name:
           en: Cyprus Independence Day
           el: Ημέρα της Ανεξαρτησίας Κύπρος
+          sv: Cyperns självständighetsdag
       10-28:
         _name: National Holiday
         name:
           el: Επέτειος του Όχι
+          sv: Ochi-dagen
       12-25:
         _name: 12-25
       12-26:

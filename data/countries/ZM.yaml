@@ -20,6 +20,7 @@ holidays:
         substitute: true
         name:
           en: Youth Day
+          sv: Ungas dag
       easter -2:
         _name: easter -2
       easter 1:
@@ -43,6 +44,7 @@ holidays:
       "2015-10-18":
         name:
           en: National day of Prayers
+          sv: Nationella bönedagen
       10-24 and if sunday then next monday:
         substitute: true
         _name: Independence Day

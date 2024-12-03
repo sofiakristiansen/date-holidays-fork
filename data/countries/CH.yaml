@@ -11,6 +11,7 @@ holidays:
       fr: Suisse
       it: Svizzera
       en: Switzerland
+      sv: Schweiz
     dayoff: sunday
     langs:
       - de-ch
@@ -46,6 +47,7 @@ holidays:
         name:
           de: Vätertag
           fr: Fête des pères
+          sv: Fars dag
         type: observance
         active:
           - from: "2009-01-01"
@@ -54,12 +56,14 @@ holidays:
           de: Bundesfeiertag
           fr: Fête nationale
           it: Giorno festivo federale
+          sv: Federal helgdag
       3rd sunday after 09-01:
         name:
           de: Eidg. Dank-, Buss- und Bettag
           fr: Jeûne fédéral
           it: Digiuno federale
           en: Federal Day of Thanksgiving, Repentance and Prayer
+          sv: Federala tacksägelse-, bot- och bönedagen
       12-25:
         _name: 12-25
         name:
@@ -69,6 +73,7 @@ holidays:
         name:
           de: Stephanstag
           fr: Saint-Etienne
+          sv: Sankt Stefanus
     states:
       ZH:
         names:
@@ -81,6 +86,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
             type: optional
           05-01:
             _name: 05-01
@@ -89,6 +95,7 @@ holidays:
           monday after 2nd saturday in September 13:00:
             name:
               de: Knabenschiessen
+              sv: Knabenschiessen
             type: optional
       BE:
         names:
@@ -112,6 +119,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
             type: optional
           03-19:
             _name: 03-19
@@ -182,6 +190,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
             type: optional
           easter 1:
             _name: easter 1
@@ -198,6 +207,7 @@ holidays:
               de: Bruderklausenfest
               fr: Saint-Nicholas-de-Flüe
               en: Saint Nicholas of Flüe
+              sv: Sankt Nicholas av Flüe
           11-01:
             _name: 11-01
           12-08:
@@ -216,6 +226,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
             type: bank
           03-19:
             _name: 03-19
@@ -249,12 +260,14 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
             type: optional
           # if falls on easter -3 (Maundy Thursday) then move to next Thursday
           Thursday after 04-02 if is observance holiday then next Thursday:
             name:
               de: Näfelser Fahrt
               fr: Bataille de Näfels
+              sv: Slaget vid Näfels
           3rd sunday after 09-01: false
           11-01:
             _name: 11-01
@@ -273,6 +286,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
             type: optional
           easter 1:
             _name: easter 1
@@ -307,6 +321,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
             type: optional
           easter 1:
             _name: easter 1
@@ -344,6 +359,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
             type: optional
           03-19:
             _name: 03-19
@@ -401,6 +417,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
             type: optional
           05-01:
             _name: 05-01
@@ -489,6 +506,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
           05-01:
             _name: 05-01
           easter 60:
@@ -510,6 +528,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
           05-01:
             _name: 05-01
       TI:
@@ -528,6 +547,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
             type: bank
           01-06:
             _name: 01-06
@@ -568,11 +588,13 @@ holidays:
             name:
               de: Berchtoldstag
               fr: 2 Janvier
+              sv: Berchtoldsdagen
           monday after 3rd sunday in September:
             name:
               de: Bettagsmontag
               fr: Lundi du Jeûne Fédéral
               en: Monday after Federal Day of Thanksgiving, Repentance and Prayer
+              sv: Måndagen efter federala tacksägelse-, bot- och bönedagen
           12-26: false
       # @source https://www.vs.ch/fr/web/srh/plan-de-travail
       VS:
@@ -591,6 +613,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
+              sv: Berchtoldsdagen
             type: bank
           03-19:
             _name: 03-19
@@ -611,6 +634,7 @@ holidays:
               de: Bettagsmontag
               fr: Lundi du Jeûne Fédéral
               en: Monday after Federal Day of Thanksgiving, Repentance and Prayer
+              sv: Måndagen efter federala tacksägelse-, bot- och bönedagen
             type: bank
           11-01:
             _name: 11-01
@@ -636,15 +660,18 @@ holidays:
             name:
               de: Berchtoldstag
               fr: 2 Janvier
+              sv: Berchtoldsdagen
           01-02:
             name:
               de: Berchtoldstag
               fr: 2 Janvier
+              sv: Berchtoldsdagen
             type: observance
           03-01:
             name:
               fr: Instauration de la République
               de: Jahrestag Ausrufung der Republik
+              sv: Årsdagen för republikens proklamation
           easter -2:
             _name: easter -2
           05-01:
@@ -659,6 +686,7 @@ holidays:
               de: Bettagsmontag
               fr: Lundi du Jeûne Fédéral
               en: Monday after Federal Day of Thanksgiving, Repentance and Prayer
+              sv: Måndagen efter federala tacksägelse-, bot- och bönedagen
             type: optional
           12-26:
             type: observance
@@ -680,11 +708,13 @@ holidays:
             name:
               de: Berchtoldstag
               fr: 2 Janvier
+              sv: Berchtoldsdagen
             type: bank
           thursday after 1st sunday after 09-01:
             name:
               de: Genfer Bettag
               fr: Jeûne Genevois
+              sv: Genéves bönedag
           12-26:
             type: bank
           12-31:
@@ -692,6 +722,7 @@ holidays:
               de: Wiederherstellung der Republik
               fr: Restauration de la République
               en: Restoration of the Republic
+              sv: Restaurering av republiken
           3rd sunday after 09-01: false
       JU:
         names:
@@ -709,6 +740,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: 2 Janvier
+              sv: Berchtoldsdagen
           05-01:
             _name: 05-01
           easter 60:
@@ -718,6 +750,7 @@ holidays:
               fr: Plébiscite jurassien
               en: Jura Plebiscite
               de: Fest der Unabhängigkeit
+              sv: Självständighetsfestival
           08-15:
             _name: 08-15
           11-01:

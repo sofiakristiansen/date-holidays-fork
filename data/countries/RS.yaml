@@ -84,6 +84,7 @@ holidays:
         name:
           sr: Дан победе
           en: Victory Day
+          sv: Segerdagen
         type: observance
       julian 06-15:
         name:

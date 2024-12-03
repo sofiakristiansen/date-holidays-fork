@@ -35,10 +35,12 @@ holidays:
         substitute: true
         name:
           en: ANZAC Day
+          sv: Anzac dag
       # @source https://www.govt.nz/browse/work/public-holidays-and-work/public-holidays-and-anniversary-dates/
       1st monday in June prior to 2023:
         name:
           en: Queen's Birthday
+          sv: Drottningens födelsedag
       1st monday in June since 2023:
         name:
           en: King's Birthday

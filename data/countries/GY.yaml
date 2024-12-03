@@ -19,6 +19,7 @@ holidays:
       02-23:
         name:
           en: Republic Day
+          sv: Republikens dag
       easter -2:
         _name: easter -2
       easter 1:

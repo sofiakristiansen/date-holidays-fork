@@ -14,6 +14,7 @@ holidays:
       02-11:
         name:
           en: Armed Forces Day
+          sv: Försvarsmaktens dag
       2nd Wednesday in March:
         name:
           en: Decoration Day
@@ -31,6 +32,7 @@ holidays:
       08-24:
         name:
           en: Flag Day
+          sv: Flaggans dag
       1st Thursday in November:
         name:
           en: Thanksgiving

@@ -17,11 +17,13 @@ holidays:
         name:
           en: First Philippine Republic Day
           fil: Araw ng Unang Republika ng Pilipinas
+          sv: Första Filipinska Republikens dag
       chinese 01-0-01:
         type: optional
         name:
           en: Chinese New Year
           fil: Bagong Taon ng mga Tsino
+          sv: Kinesiskt nyår
       02-02:
         type: observance
         _name: Constitution Day
@@ -60,6 +62,7 @@ holidays:
         name:
           en: Labour Day
           fil: Araw ng mga Manggagawa
+          sv: Första maj
       # TODO - Rule missing - day in May of the full moon:
       #   type: observance
       #   name:

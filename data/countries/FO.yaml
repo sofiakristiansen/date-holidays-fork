@@ -27,6 +27,7 @@ holidays:
           fo: Flaggdagur
           da: Flagdag
           en: Flag Day
+          sv: Flaggans dag
       # 4th Friday after Easter
       easter 26:
         name:

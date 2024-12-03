@@ -37,18 +37,21 @@ holidays:
       monday before 06-20:
         name:
           en: Queen's Birthday
+          sv: Drottningens födelsedag
       monday before September:
         name:
           en: Late Summer Bank Holiday
       09-10:
         name:
           en: Gibraltar National Day
+          sv: Gibraltars nationaldag
         active:
           - to: 2015
       09-10 and if sunday, saturday then previous monday:
         substitute: true
         name:
           en: Gibraltar National Day
+          sv: Gibraltars nationaldag
         active:
           - from: 2015
         # TODO: Not sure if this rule is correct - Reference needed

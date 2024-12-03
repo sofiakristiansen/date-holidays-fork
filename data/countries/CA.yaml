@@ -7,6 +7,7 @@ holidays:
     names:
       en: Canada
       fr: Canada
+      sv: Kanada
     zones:
       - America/Toronto
       - America/St_Johns
@@ -46,6 +47,7 @@ holidays:
         name:
           en: Groundhog Day
           fr: Jour de la marmotte
+          sv: Groundhog Day
         type: observance
       02-14:
         _name: 02-14
@@ -54,6 +56,7 @@ holidays:
         name:
           en: St. Patrick’s Day
           fr: Fête de la Saint-Patrick
+          sv: St. Patrick’s Day
         type: observance
       easter -2:
         _name: easter -2
@@ -66,6 +69,7 @@ holidays:
         name:
           en: Victoria Day
           fr: Fête de la Reine
+          sv: Victorias dag
       3rd sunday after 06-01:
         _name: Fathers Day
         type: observance
@@ -73,10 +77,12 @@ holidays:
         name:
           en: Canada Day
           fr: Fête du Canada
+          sv: Kanadas dag
       monday after 08-01:
         name:
           en: Civic Holiday
           fr: Premier lundi d’août
+          sv: Första måndagen i augusti
       1st monday in September:
         _name: 05-01
       # https://www.canada.ca/en/canadian-heritage/campaigns/national-day-truth-reconciliation.html
@@ -84,19 +90,23 @@ holidays:
         name:
           en: National Day for Truth and Reconciliation
           fr: Journée nationale de la vérité et de la réconciliation
+          sv: Nationella sannings- och försoningsdagen
       2nd monday after 10-01:
         name:
           en: Thanksgiving
           fr: Action de grâce
+          sv: Tacksägelsedagen
       10-31 18:00:
         name:
           en: Halloween
           fr: l'Halloween
+          sv: Halloween
         type: observance
       11-11:
         name:
           en: Remembrance Day
           fr: Jour du Souvenir
+          sv: Stilleståndsdagen
       12-25:
         _name: 12-25
       12-26:
@@ -111,6 +121,7 @@ holidays:
             name:
               en: Family Day
               fr: Fête de la famille
+              sv: Familjedagen
           easter 1:
             _name: easter 1
             type: optional
@@ -118,6 +129,7 @@ holidays:
             name:
               en: Heritage Day
               fr: Fête du patrimoine
+              sv: Kulturarvetsdag
             type: optional
       BC:
         name: British Columbia
@@ -131,6 +143,7 @@ holidays:
             name:
               en: Family Day
               fr: Fête de la famille
+              sv: Familjedagen
             active:
               - to: 2019
           # @source https://news.gov.bc.ca/releases/2018PREM0018-000188
@@ -139,6 +152,7 @@ holidays:
             name:
               en: Family Day
               fr: Fête de la famille
+              sv: Familjedagen
             active:
               - from: 2019
       MB:
@@ -150,6 +164,7 @@ holidays:
             name:
               en: Louis Riel Day
               fr: Journée Louis Riel
+              sv: Louis Riel dag
       NB:
         name: New Brunswick
         zones:
@@ -159,6 +174,7 @@ holidays:
             name:
               en: New Brunswick Day
               fr: Jour de Nouveau Brunswick
+              sv: New Brunswick dag
       NL:
         name: Newfoundland and Labrador
         zones:
@@ -169,26 +185,31 @@ holidays:
             name:
               en: Saint Patrick's Day
               fr: Jour de la Saint-Patrick
+              sv: Saint Patrick's Day
             type: optional
           04-23:
             name:
               en: Saint George's Day
               fr: Jour de St. George
+              sv: Sankt Georgs dag
             type: optional
           06-24:
             name:
               en: Discovery Day
               fr: Journée découverte
+              sv: Upptäcktsdagen
             type: optional
           07-12:
             name:
               en: Orangemen's Day
               fr: Fête des orangistes
+              sv: Orangemen's Day
             type: optional
           11-11:
             name:
               en: Armistice Day
               fr: Jour de l'Armistice
+              sv: Armistice Day
       NS:
         name: Nova Scotia
         zones:
@@ -199,10 +220,12 @@ holidays:
             name:
               en: Heritage Day
               fr: Fête du Patrimoine
+              sv: Kulturarvetsdag
           monday after 08-01:
             name:
               en: Natal Day
               fr: Jour de la Fondation
+              sv: Stadens födelsedag
       NT:
         name: Northwest Territories
         zones:
@@ -213,6 +236,7 @@ holidays:
             name:
               en: National Indigenous Peoples Day
               fr: Journée nationale des Autochthones
+              sv: Nationella ursprungsfolkens dag
       NU:
         name: Nunavut
         zones:
@@ -241,6 +265,7 @@ holidays:
             name:
               en: Family Day
               fr: Fête de la famille
+              sv: Familjedagen
           easter 1:
             _name: easter 1
       PE:
@@ -250,6 +275,7 @@ holidays:
             name:
               en: Islander Day
               fr: Fête des Insulaires
+              sv: Öbornas dag
           easter 1:
             _name: easter 1
             type: optional
@@ -257,6 +283,7 @@ holidays:
             name:
               en: Gold Cup Parade Day
               fr: "Défilé de la Coupe d'or"
+              sv: Guldpokalsparaden
       # @source https://www.cnesst.gouv.qc.ca/en/working-conditions/leave/statutory-holidays/statutory-holidays
       QC:
         name: Quebec
@@ -275,10 +302,12 @@ holidays:
             name:
               en: National Patriots' Day
               fr: Journée nationale des patriotes
+              sv: National Patriots' Day
           06-24:
             name:
               en: National Holiday
               fr: Fête nationale du Québec
+              sv: Québecs nationaldag
           monday after 08-01: false
       SK:
         name: Saskatchewan
@@ -291,9 +320,11 @@ holidays:
             name:
               en: Family Day
               fr: Fête de la famille
+              sv: Familjedagen
           3rd monday after 08-01:
             name:
               en: Saskatchewan Day
+              sv: Saskatchewan dagen
       YT:
         name: Yukon
         zones:
@@ -306,3 +337,4 @@ holidays:
             name:
               en: Discovery Day
               fr: Jour de la Découverte
+              sv: Upptäcktsdagen

@@ -104,7 +104,7 @@ holidays:
         name:
           sq: Dita Kombëtare e Rinisë
           en: Youth Day
-          sv: Internationella dagen för unga
+          sv: Ungas dag
         substitute: true
         active:
           - from: 2010

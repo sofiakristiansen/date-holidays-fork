@@ -47,6 +47,7 @@ holidays:
           fr: Journée de la jeunesse
           ar: "عيد الشباب"
           en: Youth Day
+          sv: Ungas dag
       11-06:
         name:
           fr: La Marche verte
@@ -64,7 +65,6 @@ holidays:
         _name: 1 Shawwal
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-
 #    states:
 #      '10':
 #        name: Doukkala-Abda

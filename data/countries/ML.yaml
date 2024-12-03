@@ -20,6 +20,7 @@ holidays:
         name:
           fr: Fête de l'armée
           en: Army Day
+          sv: Arméns dag
       03-26:
         name:
           fr: Journée des Martyrs
@@ -42,7 +43,6 @@ holidays:
           fr: Fête nationale de l'indépendance
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-
 #    states:
 #      '1':
 #        name: Kayes

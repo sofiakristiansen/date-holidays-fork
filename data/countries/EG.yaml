@@ -4,6 +4,7 @@ holidays:
     names:
       ar: "جمهورية مصر العربية"
       en: Egypt
+      sv: Egypten
     langs:
       - ar
       - en
@@ -35,6 +36,7 @@ holidays:
         name:
           ar: "عيد القوات المسلحة"
           en: Armed Forces Day
+          sv: Försvarsmaktens dag
       orthodox 1:
         name:
           ar: "شم النسيم"

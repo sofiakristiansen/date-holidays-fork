@@ -4,6 +4,7 @@ holidays:
     names:
       fr: Cameroun
       en: Cameroon
+      sv: Kamerun
     dayoff: sunday
     langs:
       - fr
@@ -17,6 +18,7 @@ holidays:
         name:
           fr: Fête de la Jeunesse
           en: Youth Day
+          sv: Ungas dag
       easter -2:
         _name: easter -2
       05-01 if sunday then next monday:
@@ -25,6 +27,7 @@ holidays:
         name:
           fr: Fête nationale ou de l'unité
           en: National Day
+          sv: Nationaldagen
       easter 39:
         _name: easter 39
       08-15:

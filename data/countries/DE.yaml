@@ -4,6 +4,7 @@ holidays:
     names:
       de: Deutschland
       en: Germany
+      sv: Tyskland
     dayoff: sunday
     zones:
       - Europe/Berlin
@@ -19,11 +20,13 @@ holidays:
         name:
           de: Weiberfastnacht
           en: Women's Carnival Day
+          sv: Kvinnornas karneval
         type: observance
       easter -48:
         name:
           de: Rosenmontag
           en: Shrove Monday
+          sv: Rosenmåndagen
         type: observance
       "easter -47 14:00":
         _name: easter -47
@@ -45,6 +48,7 @@ holidays:
         _name: 05-01
         name:
           de: Maifeiertag
+          sv: Första maj
       2nd sunday in May:
         _name: Mothers Day
         type: observance
@@ -59,6 +63,7 @@ holidays:
         _name: National Holiday
         name:
           de: Tag der Deutschen Einheit
+          sv: Återföreningen av Tyskland
       11-01:
         _name: 11-01
         type: observance
@@ -75,26 +80,32 @@ holidays:
         name:
           de: Volkstrauertag
           en: Memorial Day
+          sv: Folkets sorgedag
         type: observance
       5th sunday before 12-25:
         name:
           de: Totensonntag
+          sv: De dödas söndag
         type: observance
       4th sunday before 12-25:
         name:
           de: 1. Advent
+          sv: 1. Advent
         type: observance
       3th sunday before 12-25:
         name:
           de: 2. Advent
+          sv: 2. Advent
         type: observance
       2nd sunday before 12-25:
         name:
           de: 3. Advent
+          sv: 3. Advent
         type: observance
       1st sunday before 12-25:
         name:
           de: 4. Advent
+          sv: 4. Advent
         type: observance
       "12-24 14:00 if sunday then 00:00":
         _name: 12-24
@@ -103,6 +114,7 @@ holidays:
         _name: 12-25
         name:
           de: 1. Weihnachtstag
+          sv: Juldagen
       12-26:
         _name: 12-26
       "12-31 14:00 if sunday then 00:00":
@@ -178,6 +190,7 @@ holidays:
                 name:
                   de: Augsburger Friedensfest
                   en: Augsburg Peace Festival
+                  sv: Augsburg fredsfestival
           EVANG:
             names:
               de: Überwiegend evangelische Gemeinden
@@ -291,6 +304,7 @@ holidays:
             name:
               de: Weltkindertag
               en: International Children's Day
+              sv: Internationella barnens dag
             active:
               - from: 2019
           10-31:

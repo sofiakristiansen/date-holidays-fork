@@ -6,6 +6,7 @@ holidays:
     names:
       es: Bolivia
       en: Bolivia
+      sv: Bolivia
     dayoff: sunday
     langs:
       - es
@@ -20,37 +21,45 @@ holidays:
         name:
           en: New Year's Day (substitutes)
           es: Año Nuevo (substituto)
+          sv: Nyårsdagen
       01-22:
         name:
           en: Plurinational State Foundation Day
           es: Día de la Creación del Estado Plurinacional de Bolivia
+          sv: Den plurinationella statliga stiftelsens dag
       substitutes 01-22 if sunday then next monday:
         name:
           en: Plurinational State Foundation Day (substitutes)
           es: Día de la Creación del Estado Plurinacional de Bolivia (substituto)
+          sv: Den plurinationella statliga stiftelsens dag (substitutes)
       02-02:
         name:
           en: Feast of the Virgin of Candelaria
           qu: Mamacha Candelaria
           es: Fiesta de la Virgen de Candelaria
+          sv: Jungfrun av Candelarias festival
         type: observance
       easter -48:
         _name: easter -48
         name:
           es: Lunes de Carnaval
+          sv: Blåmåndagen karneval
       easter -47:
         _name: easter -47
         name:
           es: Martes de Carnaval
+          sv: Vita tisdagen karneval
       03-19:
         name:
           en: Father's Day
           es: Día del Padre
+          sv: Fars dag
         type: observance
       03-23:
         name:
           en: Day of the Sea
           es: Día del Mar
+          sv: Havets dag
         type: observance
       easter -3:
         _name: easter -3
@@ -61,6 +70,7 @@ holidays:
         name:
           en: Children's Day
           es: Día del Niño
+          sv: Barnens dag
         type: observance
       05-01:
         _name: 05-01
@@ -69,15 +79,18 @@ holidays:
         name:
           en: Labour Day (substitutes)
           es: Día del Trabajo (substituto)
+          sv: Arbetarnas dag (substitutes)
       05-27:
         name:
           en: Mother's Day
           es: Día de la Madre
+          sv: Mors dag
         type: observance
       06-06:
         name:
           en: Teacher's Day
           es: Día del Maestro
+          sv: Lärarnas dag
         type: observance
       easter 60:
         _name: easter 60
@@ -86,41 +99,49 @@ holidays:
           en: Andean Amazonian Chaqueño New Year
           ay: Willkakuti
           es: Año Nuevo Andino Amazónico Chaqueño
+          sv: Andinska Amazonas Chaqueño nyår
       substitutes 06-21 if sunday then next monday:
         name:
           en: Andean Amazonic Chacoan New Year (substitutes)
           ay: Willkakuti (substituto)
           es: Año Nuevo Andino Amazónico Chaqueño (substituto)
+          sv: Andinska Amazonas Chaqueño nyår (substitutes)
       08-06:
         _name: Independence Day
       substitutes 08-06 if sunday then next monday:
         name:
           en: Independence Day (substitutes)
+          sv: Självständighetsdagen (substitutes)
           es: Día de la Independencia (substituto)
       08-17:
         name:
           en: Flag Day
           es: Día de la Bandera
+          sv: Flaggans dag
         type: observance
       09-21:
         name:
           en: Student's Day
           es: Día del Estudiante
+          sv: Studenternas dag
         type: observance
       10-11:
         name:
           es: Día de la Mujer Boliviana
           en: Bolivian Woman's Day
+          sv: Bolivianska kvinnodagen
         type: observance
       11-01:
         _name: 11-01
         name:
           es: Todos Santos
+          sv: Alla Helgons dag
         type: observance
       11-02:
         _name: 11-02
         name:
           es: Todos Santos
+          sv: Alla Helgons dag
       12-25:
         _name: 12-25
       substitutes 12-25 if sunday then next monday:
@@ -128,6 +149,7 @@ holidays:
         name:
           en: Christmas Day (substitutes)
           es: Navidad (substituto)
+          sv: Juldagen (substitutes)
     states:
       B:
         name: Beni
@@ -136,10 +158,12 @@ holidays:
             name:
               es: Efemérides del Beni
               en: Beni Day
+              sv: Beni dagen
           substitutes 11-18 if sunday then next monday:
             name:
               es: Efemérides del Beni (substituto)
               en: Beni Day (substitutes)
+              sv: Beni dagen (substitutes)
       C:
         name: Cochabamba
         days:
@@ -147,10 +171,12 @@ holidays:
             name:
               es: Efemérides de Cochabamba
               en: Cochabamba Day
+              sv: Cochabamba dagen
           substitutes 09-14 if sunday then next monday:
             name:
               es: Efemérides de Cochabamba (substituto)
               en: Cochabamba Day (substitutes)
+              sv: Cochabamba dagen (substitutes)
       H:
         name: Chuquisaca
         days:
@@ -158,10 +184,12 @@ holidays:
             name:
               es: Efemérides de Chuquisaca
               en: Chuquisaca Day
+              sv: Chuquisaca dagen
           substitutes 05-25 if sunday then next monday:
             name:
               es: Efemérides de Chuquisaca (substituto)
               en: Chuquisaca Day (substitutes)
+              sv: Chuquisaca dagen (substitutes)
       L:
         name: La Paz
         days:
@@ -169,10 +197,12 @@ holidays:
             name:
               es: Efemérides de La Paz
               en: La Paz Day
+              sv: La Paz dagen
           substitutes 07-16 if sunday then next monday:
             name:
               es: Efemérides de La Paz (substituto)
               en: La Paz Day (substitutes)
+              sv: La Paz dagen (substitutes)
       "N":
         name: Pando
         days:
@@ -180,10 +210,12 @@ holidays:
             name:
               es: Efemérides de Pando
               en: Pando Day
+              sv: Pando dagen
           substitutes 09-24 if sunday then next monday:
             name:
               es: Efemérides de Pando (substituto)
               en: Pando Day (substitutes)
+              sv: Pando dagen (substitutes)
       O:
         name: Oruro
         days:
@@ -191,10 +223,12 @@ holidays:
             name:
               es: Efemérides de Oruro
               en: Oruro Day
+              sv: Oruro dagen
           substitutes 02-10 if sunday then next monday:
             name:
               es: Efemérides de Oruro (substituto)
               en: Oruro Day (substitutes)
+              sv: Oruro dagen (substitutes)
       P:
         name: Potosí
         days:
@@ -202,10 +236,12 @@ holidays:
             name:
               es: Efemérides de Potosí
               en: Potosí Day
+              sv: Potosí dagen
           substitutes 11-10 if sunday then next monday:
             name:
               es: Efemérides de Potosí (substituto)
               en: Potosí Day (substitutes)
+              sv: Potosí dagen (substitutes)
       S:
         name: Santa Cruz
         days:
@@ -213,10 +249,12 @@ holidays:
             name:
               es: Efemérides de Santa Cruz
               en: Santa Cruz Day
+              sv: Santa Cruz dagen
           substitutes 09-24 if sunday then next monday:
             name:
               es: Efemérides de Santa Cruz (substituto)
               en: Santa Cruz Day (substitutes)
+              sv: Santa Cruz dagen (substitutes)
       T:
         name: Tarija
         days:
@@ -224,7 +262,9 @@ holidays:
             name:
               es: Efemérides de Tarija
               en: Tarija Day
+              sv: Tarija dagen
           substitutes 04-15 if sunday then next monday:
             name:
               es: Efemérides de Tarija (substituto)
               en: Tarija Day (substitutes)
+              sv: Tarija dagen (substitutes)

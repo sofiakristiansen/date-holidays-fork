@@ -42,6 +42,7 @@ holidays:
       12-13:
         name:
           en: National Day
+          sv: Nationaldagen
       12-25:
         _name: 12-25
       12-26:

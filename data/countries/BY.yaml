@@ -5,6 +5,7 @@ holidays:
       be: Рэспубліка Беларусь
       ru: Республика Беларусь
       en: Belarus
+      sv: Belarus
     zones:
       - Europe/Minsk
     langs:
@@ -18,20 +19,24 @@ holidays:
         _name: 12-25
         name:
           be: Каляды праваслаўныя
+          sv: Ortodoxa juldagen
       easter:
         _name: easter
         name:
           be: Вялiкдзень каталiцкi
+          sv: Påskafton
         type: observance
       orthodox:
         name:
           en: Orthodox Easter
           be: Вялiкдзень праваслаўны
+          sv: Ortodox påsk
         type: observance
       orthodox +9:
         name:
           en: Commemoration Day
           be: Радунiца
+          sv: Radonitsa
       03-08:
         _name: 03-08
       05-01:
@@ -40,6 +45,7 @@ holidays:
         name:
           en: Victory Day
           be: Дзень Перамогi
+          sv: Segerdagen 1945
       07-03:
         _name: Independence Day
         active:
@@ -48,10 +54,12 @@ holidays:
         name:
           en: October Revolution Day
           be: Дзень Кастрычніцкай рэвалюцыі
+          sv: Oktoberrevolutionen
       12-25:
         _name: 12-25
         name:
           be: Каляды каталiцкiя
+          sv: Juldagen
     # states:
     # BR:
     #   name: Brest

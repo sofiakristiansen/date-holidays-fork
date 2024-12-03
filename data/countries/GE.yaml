@@ -46,6 +46,7 @@ holidays:
         name:
           ge: ფაშიზმზე გამარჯვების დღე
           en: Victory Day
+          sv: Segerdagen
       05-12:
         name:
           ge: წმინდა ანდრია პირველწოდებულის ხსენების დღე
@@ -54,6 +55,7 @@ holidays:
         name:
           ge: დამოუკიდებლობის დღე
           en: Independence Day
+          sv: Självständighetsdagen
       08-28:
         name:
           ge: მარიამობა
@@ -66,3 +68,4 @@ holidays:
         name:
           ge: გიორგობა
           en: Saint George's Day
+          sv: Sankt Georgs dag

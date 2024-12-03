@@ -30,6 +30,7 @@ holidays:
         name:
           en: Armed Forces Day
           pt: Dia das Forças Armadas
+          sv: Försvarsmaktens dag
       09-30 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         name:

@@ -32,6 +32,7 @@ holidays:
       12-28:
         name:
           en: Republic Day
+          sv: Republikens dag
       12-31:
         _name: 12-31
       2 Shawwal:

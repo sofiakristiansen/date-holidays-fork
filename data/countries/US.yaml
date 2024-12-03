@@ -95,6 +95,7 @@ holidays:
         name:
           en: Columbus Day
           es: Descubrimiento de América
+          sv: Columbusdagen
       10-31 18:00:
         name:
           en: Halloween
@@ -173,11 +174,13 @@ holidays:
           2nd monday in October:
             name:
               en: Columbus Day
+              sv: Columbusdagen
             active:
               - to: "2017-01-01"
           "2nd monday in October #1":
             name:
               en: Indigenous Peoples' Day
+              sv: Ursprungsfolkets dag
             active:
               - from: "2017-01-01"
           10-18:
@@ -295,12 +298,14 @@ holidays:
           2nd monday in October:
             name:
               en: Columbus Day
+              sv: Columbusdagen
             active:
               - to: "2019-10-08"
             # https://www.cnn.com/2021/10/11/us/indigenous-peoples-day-2021-states-trnd/index.html
           "2nd monday in October #1":
             name:
               en: Indigenous Peoples' Day
+              sv: Ursprungsfolkets dag
             active:
               - from: "2019-10-09"
       FL:
@@ -455,11 +460,13 @@ holidays:
           2nd monday in October:
             name:
               en: Columbus Day
+              sv: Columbusdagen
             active:
               - to: "2018-10-07"
           "2nd monday in October #1":
             name:
               en: Indigenous Peoples' Day
+              sv: Ursprungsfolkets dag
             active:
               - from: "2018-10-08"
       KS:
@@ -515,6 +522,7 @@ holidays:
           "2nd monday in October #1":
             name:
               en: Indigenous Peoples' Day
+              sv: Ursprungsfolkets dag
             active:
               - from: "2019-04-26"
       MD:
@@ -531,6 +539,7 @@ holidays:
           friday after 4th thursday in November:
             name:
               en: Native American Heritage Day
+              sv: Native American kulturarvsdag
       MA:
         name: Massachusetts
         zones:
@@ -568,11 +577,13 @@ holidays:
           2nd monday in October:
             name:
               en: Columbus Day
+              sv: Columbusdagen
             active:
               - to: "2017-01-01"
           "2nd monday in October #1":
             name:
               en: Indigenous Peoples' Day
+              sv: Ursprungsfolkets dag
             active:
               - from: "2017-01-01"
       MS:
@@ -637,6 +648,7 @@ holidays:
           08-09:
             name:
               en: Indigenous Peoples' Day
+              sv: Ursprungsfolkets dag
             active:
               - from: "2017-01-01"
             type: observance
@@ -646,6 +658,7 @@ holidays:
           4th friday in November:
             name:
               en: Family Day
+              sv: Familjedagen
       NH:
         name: New Hampshire
         zones:
@@ -694,6 +707,7 @@ holidays:
           "2nd monday in October #1":
             name:
               en: Indigenous Peoples' Day
+              sv: Ursprungsfolkets dag
             active:
               - from: "2019-04-01"
           friday after 4th thursday in November:
@@ -779,6 +793,7 @@ holidays:
           06-14:
             name:
               en: Flag Day
+              sv: Flaggans dag
       RI:
         name: Rhode Island
         zones:
@@ -787,6 +802,7 @@ holidays:
           2nd monday in August:
             name:
               en: Victory Day
+              sv: Segerdagen
       SC:
         name: South Carolina
         zones:
@@ -810,6 +826,7 @@ holidays:
           2nd monday in October:
             name:
               en: Columbus Day
+              sv: Columbusdagen
             active:
               - to: "2015-01-01"
           "2nd monday in October #1":
@@ -912,11 +929,13 @@ holidays:
           2nd monday in October:
             name:
               en: Columbus Day
+              sv: Columbusdagen
             active:
               - to: "2017-09-01"
           "2nd monday in October #1":
             name:
               en: Indigenous Peoples' Day
+              sv: Ursprungsfolkets dag
             active:
               - from: "2017-09-01"
       VA:

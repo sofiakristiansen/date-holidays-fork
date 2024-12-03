@@ -98,6 +98,7 @@ holidays:
           nl: Sinterklaasavond
           en: St Nicholas' Eve
           de: Nikolausabend
+          sv: Sankt Nikolaus afton
         type: observance
       12-15:
         name:

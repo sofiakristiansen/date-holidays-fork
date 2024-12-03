@@ -4,6 +4,7 @@ holidays:
     names:
       es: Colombia
       en: Colombia
+      sv: Colombia
     dayoff: sunday
     langs:
       - es
@@ -35,6 +36,7 @@ holidays:
         name:
           es: Sagrado Corazón de Jesús
           en: Sacred Heart
+          sv: Jesu heliga hjärta
       monday after 06-29:
         _name: 06-29
       07-20:
@@ -43,18 +45,21 @@ holidays:
         name:
           en: Battle of Boyacá
           es: Batalla de Boyacá
+          sv: Slaget vid Boyacá
       monday after 08-15:
         _name: 08-15
       monday after 10-12:
         name:
           es: Día de la Raza
           en: Columbus Day
+          sv: Columbusdagen
       1st monday in November:
         _name: 11-01
       monday after 11-11:
         name:
           es: Independencia de Cartagena
           en: Independence of Cartagena
+          sv: Cartagenas självständighet
       12-08:
         _name: 12-08
       12-25:

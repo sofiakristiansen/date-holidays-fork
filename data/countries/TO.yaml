@@ -20,6 +20,7 @@ holidays:
       04-25:
         name:
           en: ANZAC Day
+          sv: Anzac dag
       06-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday:
         name:
           en: Emancipation Day

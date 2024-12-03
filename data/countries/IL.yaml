@@ -125,6 +125,7 @@ holidays:
       5 Iyyar if Friday,Saturday then previous Thursday if Monday then next Tuesday:
         name:
           en: Independence Day (Yom HaAtzmaut)
+          sv: Självständighetsdagen
           he: יום העצמאות
       10 Iyyar if Saturday then next Sunday since 2004:
         name:

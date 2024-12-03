@@ -36,6 +36,7 @@ holidays:
         name:
           en: National Day
           vi: Quốc khánh
+          sv: Nationaldagen
       02-03:
         name:
           en: Communist Party of Viet Nam Foundation Anniversary
@@ -63,11 +64,13 @@ holidays:
         name:
           en: International Children's Day
           vi: Ngày quốc tế Thiếu nhi
+          sv: Internationella barnens dag
         type: observance
       06-28:
         name:
           en: Vietnamese Family Day
           vi: Ngày Gia đình Việt Nam
+          sv: Familjedagen
         type: observance
       07-27:
         name:

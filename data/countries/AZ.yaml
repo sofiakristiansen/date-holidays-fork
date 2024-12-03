@@ -59,7 +59,7 @@ holidays:
         name:
           az: Azərbaycan Respublikasının Silahlı Qüvvələri günü
           en: Azerbaijan Armed Forces Day
-          sv: Väpnade styrkans dag
+          sv: Försvarsmaktens dag
       10-18 and if saturday,sunday then next monday:
         substitute: true
         name:

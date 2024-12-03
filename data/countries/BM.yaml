@@ -3,6 +3,7 @@ holidays:
   BM:
     names:
       en: Bermuda
+      sv: Bermuda
     langs:
       - en
     zones:
@@ -21,9 +22,11 @@ holidays:
       friday before 06-01:
         name:
           en: Bermuda Day
+          sv: Bermudadagen
       3nd monday in June:
         name:
           en: National Heroes Day
+          sv: Dag för firande av nationella hjältar
       thursday before 08-04:
         name:
           en: Emancipation Day
@@ -31,15 +34,19 @@ holidays:
       friday before 08-05:
         name:
           en: Somers' Day
+          sv: Somers' dag
       monday after 09-01:
         name:
           en: Labour Day
+          sv: Arbetarnas dag
       11-11:
         name:
           en: Remembrance Day
+          sv: Stilleståndsdagen
       substitutes 11-11 if saturday, sunday then next monday:
         name:
           en: Remembrance Day
+          sv: Stilleståndsdagen
         substitute: true
         type: bank
         note: Goverment offices close

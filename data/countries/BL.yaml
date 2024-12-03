@@ -6,6 +6,7 @@ holidays:
     names:
       fr: St. Barthélemy
       en: St. Barths
+      sv: St. Barthélemy
     langs:
       - fr
     zones:
@@ -25,6 +26,7 @@ holidays:
         name:
           fr: Mi-Carême
           en: Laetare Sunday
+          sv: Midfastosöndagen
         type: observance
       easter -2:
         _name: easter -2
@@ -36,6 +38,7 @@ holidays:
         name:
           fr: Fête de Saint Barthélemy
           en: Saint Barth
+          sv: Saint Barthélemy Festivalen
         type: observance
       10-09:
         _name: Abolition of Slavery

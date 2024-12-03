@@ -44,6 +44,7 @@ holidays:
         substitute: true
         name:
           en: Republic Day
+          sv: Republikens dag
       12-25 and if Sunday then next Tuesday:
         substitute: true
         _name: 12-25

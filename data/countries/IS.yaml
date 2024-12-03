@@ -71,6 +71,7 @@ holidays:
         name:
           is: Íslenski þjóðhátíðardagurinn
           en: Icelandic National Day
+          sv: Nationaldagen
       1st monday in August:
         name:
           # is: Verslunarmannahelgi

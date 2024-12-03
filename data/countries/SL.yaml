@@ -16,6 +16,7 @@ holidays:
         substitute: true
         name:
           en: Armed Forces Day
+          sv: Försvarsmaktens dag
       03-08 and if Sunday then next Monday:
         substitute: true
         _name: 03-08

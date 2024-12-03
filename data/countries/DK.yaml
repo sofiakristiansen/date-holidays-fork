@@ -5,6 +5,7 @@ holidays:
     names:
       da: Danmark
       en: Denmark
+      sv: Danmark
     langs:
       - da
     zones:
@@ -15,6 +16,7 @@ holidays:
       easter -48:
         name:
           da: Fastelavn
+          sv: Fastlagen
         type: observance
       easter -3:
         _name: easter -3
@@ -29,6 +31,7 @@ holidays:
           da: Store Bededag
           en: Prayer Day
           de: Buß- und Bettag
+          sv: Stora bönedagen
       easter 39:
         _name: easter 39
       05-01:

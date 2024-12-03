@@ -62,6 +62,7 @@ holidays:
         name:
           en: Columbus Day
           es: Día de la Raza
+          sv: Columbusdagen
         type: observance
       11-02:
         _name: 11-02

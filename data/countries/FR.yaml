@@ -20,6 +20,7 @@ holidays:
         name:
           fr: Fête de la Victoire 1945
           en: Victory Day
+          sv: Segerdagen 1945
       easter 39:
         _name: easter 39
       easter 49:

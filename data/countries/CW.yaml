@@ -6,6 +6,7 @@ holidays:
       nl: Curaçao
       pap: Kòrsou
       en: Curaçao
+      sv: Curaçao
     langs:
       - nl
       - pap
@@ -20,6 +21,7 @@ holidays:
         _name: easter -48
         name:
           en: Carnival Monday
+          sv: Karneval
       easter -2:
         _name: easter -2
       easter:
@@ -32,6 +34,7 @@ holidays:
           pap: Aña di Rey
           nl: Koningsdag
           en: Kings Day
+          sv: Kungens dag
       05-01 if sunday then next monday:
         _name: 05-01
       2nd sunday in May:
@@ -44,16 +47,19 @@ holidays:
         _name: easter 39
         name:
           nl: Hemelvaartsdag
+          sv: Kristi himmelfärdsdag
       07-02:
         name:
           nl: Dag van het volkslied en de Vlag
           pap: Dia di Himno i Bandera
           en: Flag Day
+          sv: Flaggans dag
       10-10:
         name:
           nl: Dag van het land Curaçao
           pap: Pais Kòrsou
           en: Curaçao Day
+          sv: Curaçaos dag
       12-25:
         _name: 12-25
       12-26:

@@ -5,6 +5,7 @@ holidays:
     names:
       pt: República de Cabo Verde
       en: Cape Verde
+      sv: Kap Verde
     langs:
       - pt
     zones:
@@ -17,10 +18,12 @@ holidays:
         name:
           pt: Dia da Democracia
           en: Democracy Day
+          sv: Demokratins dag
       01-20:
         name:
           pt: Dia dos Heróis Nacionais
           en: Heroes' Day
+          sv: Dag för firande av nationella hjältar
       easter -47:
         _name: easter -47
       easter -46:
@@ -36,16 +39,19 @@ holidays:
         name:
           pt: Dia das Crianças
           en: Children's Day
+          sv: Barnens dag
       07-05:
         _name: Independence Day
       08-15:
         _name: 08-15
         name:
           pt: Dia da Padroeira Nacional
+          sv: Nationella skyddshelgondagen
       09-12:
         name:
           pt: Dia Nacional
           en: National Day
+          sv: Nationaldagen
       11-01:
         _name: 11-01
       12-25:
@@ -91,6 +97,7 @@ holidays:
               05-19:
                 name:
                   pt: Dia do Município da Praia
+                  sv: Praias dag
           # RS:
           #   name: Ribeira Grande de Santiago
           # SD:

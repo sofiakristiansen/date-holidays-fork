@@ -4,6 +4,7 @@ holidays:
     names:
       fr: République de Côte d'Ivoire
       en: Republic of Côte d'Ivoire
+      sv: Republiken Elfenbenskusten
     langs:
       - fr
       - en
@@ -30,6 +31,7 @@ holidays:
       11-15 since 1996:
         name:
           en: National Peace Day
+          sv: Nationell fredsdag
       12-25:
         _name: 12-25
       12 Rabi al-awwal:

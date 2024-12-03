@@ -7,6 +7,7 @@ holidays:
     names:
       rar: Kūki 'Āirani
       en: Cook Islands
+      sv: Cooköarna
     langs:
       - en
       - rar
@@ -21,9 +22,11 @@ holidays:
         substitute: true
         name:
           en: Day after New Year's Day
+          sv: Dagen efter nyårsdagen
       04-25:
         name:
           en: Anzac Day
+          sv: Anzac dag
       easter -2:
         _name: easter -2
       easter 1:
@@ -31,11 +34,13 @@ holidays:
       1st Monday in June: # #k
         name:
           en: Queen's Birthday
+          sv: Drottningens födelsedag
         # same day as observed in NZ
       1st Friday in July:
         name:
           en: Ra o te Ui Ariki (House of Ariki)
           rar: Ra o te Ui Ariki
+          sv: Ra o te Ui Ariki
       08-04 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: Constitution Day
@@ -43,6 +48,7 @@ holidays:
         substitute: true
         name:
           en: National Gospel Day
+          sv: Nationella gospeldagen
       12-25 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: 12-25
@@ -58,6 +64,7 @@ holidays:
             substitute: true
             name:
               en: Aitutaki Gospel Day
+              sv: Aitutaki gospel dag
       Atiu:
         names:
           en: Atiu
@@ -66,6 +73,7 @@ holidays:
             substitute: true
             name:
               en: Atiu Gospel Day
+              sv: Atiu gospel dag
       Mangaia:
         names:
           en: Mangaia
@@ -74,6 +82,7 @@ holidays:
             substitute: true
             name:
               en: Mangaia Gospel Day
+              sv: Mangaia gospel dag
       Manihiki:
         names:
           en: Manihiki
@@ -82,6 +91,7 @@ holidays:
             substitute: true
             name:
               en: Manihiki Gospel Day
+              sv: Manihiki gospel dag
       Mitiaro:
         names:
           en: Mitiaro
@@ -90,6 +100,7 @@ holidays:
             substitute: true
             name:
               en: Mitiaro Gospel Day
+              sv: Mitiaro gospel dag
       Palmerston:
         names:
           en: Palmerston
@@ -98,6 +109,7 @@ holidays:
             substitute: true
             name:
               en: Palmerston Gospel Day
+              sv: Palmerston gospel dag
       Penrhyn:
         names:
           en: Penrhyn
@@ -106,6 +118,7 @@ holidays:
             substitute: true
             name:
               en: Penrhyn Gospel Day
+              sv: Penrhyn gospel dag
       Pukapuka:
         names:
           en: Pukapuka
@@ -114,6 +127,7 @@ holidays:
             substitute: true
             name:
               en: Pukapuka Gospel Day
+              sv: Pukapuka gospel dag
       Rakahanga:
         names:
           en: Rakahanga
@@ -122,6 +136,7 @@ holidays:
             substitute: true
             name:
               en: Rakahanga Gospel Day
+              sv: Rakahanga gospel dag
       Rarotonga:
         names:
           en: Rarotonga
@@ -130,3 +145,4 @@ holidays:
             substitute: true
             name:
               en: Rarotonga Gospel Day
+              sv: Rarotonga gospel dag

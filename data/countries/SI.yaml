@@ -30,6 +30,7 @@ holidays:
         name:
           sl: Jurjevanje
           en: St. George's Day
+          sv: Sankt Georgs dag
         type: observance
       easter -49:
         name:
@@ -48,12 +49,14 @@ holidays:
         _name: 05-01
         name:
           en: Labour Day
+          sv: Första maj
         active:
           - from: 1949
       05-02:
         _name: 05-01
         name:
           en: Labour Day
+          sv: Första maj
         active:
           - from: 1949
       easter 49:
@@ -127,6 +130,7 @@ holidays:
         name:
           sl: Miklavž
           en: Saint Nicholas Day
+          sv: Sankt Nikolaus dag
         type: observance
       12-25:
         _name: 12-25

@@ -42,6 +42,7 @@ holidays:
         name:
           uk: День перемоги над нацизмом у Другій світовій війні
           en: Victory Day
+          sv: Segerdagen
         substitute: true
       06-28 and if saturday, sunday then next monday:
         _name: Constitution Day

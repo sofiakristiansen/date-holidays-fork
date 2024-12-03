@@ -34,10 +34,12 @@ holidays:
         name:
           en: Victory Day
           tr: Zafer Bayramı
+          sv: Segerdagen
       10-29:
         name:
           en: Republic Day
           tr: Cumhuriyet Bayramı
+          sv: Republikens dag
       1 Shawwal PT90H:
         _name: 1 Shawwal
       10 Dhu al-Hijjah PT114H:

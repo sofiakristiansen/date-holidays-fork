@@ -63,6 +63,7 @@ holidays:
         name:
           en: Flag Day
           es: Día de la Bandera
+          sv: Flaggans dag
         type: observance
       09-11:
         name:

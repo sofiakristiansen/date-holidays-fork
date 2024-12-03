@@ -14,6 +14,7 @@ holidays:
         _name: 01-06
         name:
           en: Three Kings Day
+          sv: Tre kungars dag
       3rd monday in February:
         name:
           en: President's Day

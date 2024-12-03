@@ -40,6 +40,7 @@ holidays:
         substitute: true
         name:
           en: National Heroes' Day
+          sv: Dag för firande av nationella hjältar
       09-19 if Sunday then next Monday:
         substitute: true
         _name: Independence Day

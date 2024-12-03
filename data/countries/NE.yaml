@@ -32,6 +32,7 @@ holidays:
         name:
           fr: Proclamation de la République
           en: Republic Day
+          sv: Republikens dag
       12-25:
         _name: 12-25
       easter 1:
@@ -46,7 +47,6 @@ holidays:
         _name: 1 Muharram
       27 Ramadan:
         _name: 27 Ramadan
-
 #    states:
 #      '1':
 #        name: Agadez

@@ -20,6 +20,7 @@ holidays:
       05-27:
         name:
           en: Children's Day
+          sv: Barnens dag
           type: school
       05-29 prior to 2018:
         name:
@@ -37,6 +38,7 @@ holidays:
         # @source: https://allafrica.com/stories/202009030012.html
         name:
           en: National Youth Day
+          sv: Nationella ungas dag
       12-31:
         _name: 12-31
         type: observance

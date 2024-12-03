@@ -20,6 +20,7 @@ holidays:
         name:
           en: Chinese New Year
           id: Tahun Baru Imlek
+          sv: Kinesiskt nyår
       easter -2:
         _name: easter -2
       05-01:

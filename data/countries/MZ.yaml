@@ -69,5 +69,6 @@ holidays:
         name:
           pt: Dia da Família
           en: Family Day
+          sv: Familjedagen
       substitutes 12-25 if sunday then next monday:
         _name: Public Holiday

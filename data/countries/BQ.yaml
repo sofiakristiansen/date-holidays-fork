@@ -6,6 +6,7 @@ holidays:
     names:
       nl: Caribisch Nederland
       en: Caribbean Netherlands
+      sv: Karibiska Nederländerna
     dayoff: sunday
     zones:
       - America/Curacao
@@ -28,6 +29,7 @@ holidays:
           pap: Aña di Rey
           nl: Koningsdag
           en: Kings Day
+          sv: Kungens dag
       05-01 if sunday then next monday:
         substitute: true
         _name: 05-01
@@ -43,12 +45,14 @@ holidays:
         name:
           nl: Sinterklaasavond
           en: St. Nicholas' Eve
+          sv: Sankt Nikolaus afton
         type: observance
       12-15:
         name:
           pap: Dia di Reino
           nl: Koninkrijksdag
           en: Kingdom Day
+          sv: Kungarikets dag
       12-25:
         _name: 12-25
       12-26:
@@ -61,15 +65,18 @@ holidays:
             _name: easter -48
             name:
               en: Carnival Monday
+              sv: Blåmåndagen karneval
           04-30:
             name:
               en: Rincon Day
               pap: Dia di Rincon
+              sv: Rincon's dag
           09-06:
             name:
               nl: Boneiru Dag
               en: Bonaire Day
               pap: Dia di Boneiru
+              sv: Boneiru's dag
       SA:
         name: Saba
         days:
@@ -77,9 +84,11 @@ holidays:
             _name: easter -48
             name:
               en: Carnival Monday
+              sv: Blåmåndagen karneval
           1st friday in December:
             name:
               en: Saba Day
+              sv: Saba's dag
       SE:
         name: Sint Eustatius
         days:
@@ -90,3 +99,4 @@ holidays:
           11-16:
             name:
               en: Statia Day
+              sv: Statia's dag

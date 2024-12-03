@@ -31,6 +31,7 @@ holidays:
         _name: easter 1
         name:
           en: Family Day
+          sv: Familjedagen
       04-27:
         name:
           en: Freedom Day
@@ -50,6 +51,7 @@ holidays:
       06-16:
         name:
           en: Youth Day
+          sv: Ungas dag
       substitutes 06-16 if sunday then next monday:
         name:
           en: Public Holiday
@@ -69,6 +71,7 @@ holidays:
       09-24:
         name:
           en: Heritage Day
+          sv: Kulturarvetsdag
       substitutes 09-24 if sunday then next monday:
         name:
           en: Public Holiday

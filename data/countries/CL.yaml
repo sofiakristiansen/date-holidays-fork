@@ -4,6 +4,7 @@ holidays:
     names:
       es: Chile
       en: Chile
+      sv: Chile
     dayoff: sunday
     langs:
       - es
@@ -27,42 +28,51 @@ holidays:
         name:
           en: Navy Day
           es: Día de las Glorias Navales
+          sv: Marinens dag
       06-21 since 2023:
         name:
           en: Indigenous People's Day
           es: Día de los Pueblos Indígenas
+          sv: Ursprungsfolkets dag
       06-29 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         _name: 06-29
       07-16:
         name:
           en: Our Lady of Mount Carmel
           es: Virgen del Carmen
+          sv: Jungfrun av Karmel
       08-15:
         _name: 08-15
       "2022-09-16":
         name:
           es: Fiestas Patrias
           en: National Holiday
+          sv: Nationell helgdag
       09-17 on friday, monday since 2017:
         name:
           en: National holiday
           es: Feriado Adicional Fiestas Patrias
+          sv: Nationell helgdag
       09-18:
         name:
           en: National holiday
           es: Fiestas Patrias
+          sv: Nationell helgdag
       09-19:
         name:
           en: Army Day
           es: Día de las Glorias del Ejército
+          sv: Arméns dag
       09-20 on friday:
         name:
           es: Feriado Adicional Fiestas Patrias
           en: National Holiday
+          sv: Nationell helgdag
       10-12 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         name:
           en: Columbus Day
           es: Encuentro de Dos Mundos
+          sv: Columbusdagen
       10-31 if wednesday then next friday if tuesday then previous friday:
         _name: Reformation Day
       11-01:
@@ -82,6 +92,7 @@ holidays:
             name:
               en: Battle of Arica
               es: Asalto y Toma del Morro de Arica
+              sv: Slaget vid Arica
       BI:
         name: Biobío
         regions:
@@ -92,6 +103,7 @@ holidays:
                 name:
                   en: Nativity of Liberator Bernardo O'Higgins
                   es: Nacimiento del Prócer de la Independencia
+                  sv: Befriaren Bernardo O'Higgins födelse
                 active:
                   - to: "2017-08-19"
       NU:
@@ -104,6 +116,7 @@ holidays:
                 name:
                   en: Nativity of Liberator Bernardo O'Higgins
                   es: Nacimiento del Prócer de la Independencia
+                  sv: Befriaren Bernardo O'Higgins födelse
                 active:
                   - from: "2017-08-19"
       TA:
@@ -113,6 +126,7 @@ holidays:
             name:
               en: Saint Lawrence
               es: San Lorenzo de Tarapacá
+              sv: Sankt Lars
             type: observance
             disable:
               - 2015
@@ -120,6 +134,7 @@ holidays:
             name:
               en: Saint Lawrence
               es: San Lorenzo de Tarapacá
+              sv: Sankt Lars
       # AI:
       #   name: Aysén
       # AN:

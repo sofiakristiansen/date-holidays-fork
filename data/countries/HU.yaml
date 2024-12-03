@@ -30,6 +30,7 @@ holidays:
         name:
           hu: 1848-as forradalom
           en: National Day
+          sv: Nationaldagen
         type: public
       04-16:
         name:
@@ -88,6 +89,7 @@ holidays:
         name:
           hu: 1956-os forradalom
           en: National Day
+          sv: Nationaldagen
         type: public
       11-01:
         _name: 11-01

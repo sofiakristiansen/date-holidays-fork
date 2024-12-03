@@ -3,6 +3,7 @@ holidays:
   BW:
     names:
       en: Botswana
+      sv: Botswana
     dayoff: sunday
     langs:
       - en
@@ -15,10 +16,12 @@ holidays:
       01-02:
         name:
           en: New Year's Holiday
+          sv: Nyårshelg
         note: except mining industy
       substitutes 01-02 if monday then next tuesday:
         name:
           en: Public Holiday
+          sv: Röd dag
         note: except mining industy
       easter -2:
         _name: easter -2
@@ -40,6 +43,7 @@ holidays:
       substitutes 05-01 if sunday then next monday:
         name:
           en: Public Holiday
+          sv: Röd dag
         note: except mining industy
       2nd sunday in May:
         _name: Mothers Day
@@ -47,35 +51,43 @@ holidays:
       07-01:
         name:
           en: Sir Seretse Khama Day
+          sv: Sir Seretse Khama's dag
         note: except mining industy
       substitutes 07-01 if sunday then next monday:
         name:
           en: Public Holiday
+          sv: Röd dag
         note: except mining industy
       3rd monday in July:
         name:
           en: President’s Day
+          sv: Presidentens dag
         note: except mining industy
       tuesday after 3rd monday in July:
         name:
           en: President’s Day Holiday
+          sv: Presidentens dag högtid
         note: except mining industy
       09-30:
         name:
           en: Botswana Day
+          sv: Botswanas dag
       substitutes 09-30 if saturday,sunday then next monday:
         name:
           en: Public Holiday
+          sv: Röd dag
       12-25:
         _name: 12-25
       12-26:
         _name: 12-26
         name:
           en: Family Day
+          sv: Familjedagen
         note: except mining industy
       substitutes 12-26 if monday then next tuesday:
         name:
           en: Public Holiday
+          sv: Röd dag
     # states:
     # CE:
     #   name: Central

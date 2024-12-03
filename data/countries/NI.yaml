@@ -32,6 +32,7 @@ holidays:
         name:
           en: Children's Day
           es: Día del niño
+          sv: Barnens dag
       06-23:
         _name: Fathers Day
         name:

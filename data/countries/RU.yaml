@@ -59,6 +59,7 @@ holidays:
         name:
           ru: День Победы
           en: Victory Day
+          sv: Segerdagen
       06-12:
         name:
           ru: День России

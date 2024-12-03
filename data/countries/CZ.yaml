@@ -4,6 +4,7 @@ holidays:
     names:
       cz: Česká republika
       en: Czech Republic
+      sv: Tjeckien
     langs:
       - cz
     zones:
@@ -13,10 +14,12 @@ holidays:
         _name: 01-01
         name:
           cz: Nový rok a Den obnovy samostatného českého státu
+          sv: Nyår och dagen för återupprättandet av den självständiga tjeckiska staten
       easter -4:
         name:
           cz: Škaredá středa
           en: Ugly Wednesday
+          sv: Fula onsdagen
         type: observance
       easter -3:
         _name: easter -3
@@ -37,6 +40,7 @@ holidays:
         name:
           cz: Den vítězství
           en: Liberation Day
+          sv: Segerdagen
       2nd sunday in May:
         _name: Mothers Day
         type: observance
@@ -44,22 +48,27 @@ holidays:
         name:
           cz: Den slovanských věrozvěstů Cyrila a Metoděje
           en: Saints Cyril and Methodius Day
+          sv: Apostlarna Cyril och Methodius dag
       07-06:
         name:
           cz: Den upálení mistra Jana Husa
           en: Jan Hus Day
+          sv: Mästaren Jan Hus' bränning
       09-28:
         name:
           cz: Den české státnosti
           en: St. Wenceslas Day (Czech Statehood Day)
+          sv: Tjeckiska statens dag
       10-28:
         name:
           cz: Den vzniku samostatného československého státu
           en: Independent Czechoslovak State Day
+          sv: Nationaldagen
       11-17:
         name:
           cz: Den boje za svobodu a demokracii
           en: Struggle for Freedom and Democracy Day
+          sv: Dagen för kampen för frihet och demokrati
       12-24:
         _name: 12-24
       12-25:

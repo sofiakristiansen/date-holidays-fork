@@ -29,6 +29,7 @@ holidays:
         name:
           es: Día de las Fuerzas Armadas
           en: Army Day
+          sv: Arméns dag
       09-15:
         _name: Independence Day
       10-20:

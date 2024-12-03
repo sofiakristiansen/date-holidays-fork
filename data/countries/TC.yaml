@@ -24,9 +24,11 @@ holidays:
       1st Monday before 06-01:
         name:
           en: National Heroes' Day
+          sv: Dag för firande av nationella hjältar
       2nd Monday after 06-02:
         name:
           en: Queen's Birthday
+          sv: Drottningens födelsedag
       1st Monday in August:
         name:
           en: Emancipation Day
@@ -34,12 +36,15 @@ holidays:
       1st Friday before 10-01:
         name:
           en: National Youth Day
+          sv: Nationella ungas dag
       2nd Monday in October:
         name:
           en: National Heritage Day
+          sv: Nationell kulturarvsdag
       4th Friday in November:
         name:
           en: National Day of Thanksgiving
+          sv: Nationella tacksägelsedagen
       12-25 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-25

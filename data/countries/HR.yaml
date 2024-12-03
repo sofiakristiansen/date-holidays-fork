@@ -37,6 +37,7 @@ holidays:
         name:
           hr: Dan državnosti
           en: National Day
+          sv: Nationaldagen
         type: public
         active:
           - from: "2020-01-01"
@@ -59,6 +60,7 @@ holidays:
         name:
           hr: Dan neovisnosti
           en: Independence Day
+          sv: Självständighetsdagen
         type: observance
         active:
           - from: "2020-01-01"
@@ -74,6 +76,7 @@ holidays:
         name:
           hr: Dan neovisnosti
           en: Independence Day
+          sv: Självständighetsdagen
         type: public
         active:
           - to: "2020-01-01"

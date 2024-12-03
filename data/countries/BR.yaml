@@ -5,6 +5,7 @@ holidays:
     names:
       pt: Brasil
       en: Brazil
+      sv: Brasilien
     dayoff: sunday
     langs:
       - pt
@@ -32,10 +33,12 @@ holidays:
         name:
           pt: Dia de Tiradentes
           en: Tiradentes' Day
+          sv: Tiradentes' dag
       easter -50 PT110H:
         name:
           pt: Carnaval
           en: Carnival
+          sv: Karneval
         type: optional
       easter -2:
         _name: easter -2
@@ -54,6 +57,7 @@ holidays:
         name:
           pt: Dia dos Namorados
           en: Lovers' Day
+          sv: Alla hjärtans dag
         type: observance
       2nd sunday in August:
         _name: Fathers Day
@@ -64,20 +68,24 @@ holidays:
         name:
           pt: Nossa Senhora Aparecida
           en: Our Lady of Aparecida
+          sv: av Aparecida
       1st sunday in October in even years:
         name:
           pt: Dia de Eleição
           en: Election Day
+          sv: Valdag
       1st sunday before 11-01 in even years:
         name:
           pt: Dia de Eleição
           en: Election Day
+          sv: Valdag
       11-02:
         _name: 11-02
       11-15:
         name:
           pt: Proclamação da República
           en: Republic Day
+          sv: Republikens dag
       "12-24 14:00":
         _name: 12-24
         type: optional
@@ -95,26 +103,31 @@ holidays:
           01-12:
             name:
               pt: Dia do evangélico
+              sv: Evangeliska dagen
             active:
               - from: 2004-01-29
           03-08:
             name:
               pt: Alusivo ao Dia Internacional da Mulher
+              sv: Internationella kvinnodagen
             active:
               - from: 2001-09-14
           06-15:
             name:
               pt: Aniversário do estado
+              sv: Delstatens födelsedag
             active:
               - from: 1964-09-02
           09-05:
             name:
               pt: Dia da Amazônia
+              sv: Amazonasdagen
             active:
               - from: 2004-01-05
           11-17:
             name:
               pt: Assinatura do Tratado de Petrópolis
+              sv: Undertecknandet av Petrópolisfördraget
             type: optional
             active:
               - from: 2012-02-21
@@ -126,19 +139,23 @@ holidays:
           06-24:
             name:
               pt: São João
+              sv: Sankt Johannes-dagen
             active:
               - from: 1993-07-07
           06-29:
             name:
               pt: São Pedro
+              sv: Sankt Petrus-dagen
             active:
               - from: 1993-07-07
           09-16:
             name:
               pt: Emancipação política
+              sv: Politisk frigörelse
           11-20:
             name:
               pt: Morte de Zumbi dos Palmares
+              sv: Zumbi dos Palmares död
             active:
               - from: 1995-08-01
       AM:
@@ -149,11 +166,13 @@ holidays:
           09-05:
             name:
               pt: Elevação do Amazonas à categoria de província
+              sv: Amazonas erhåller provinsstatus
             active:
               - from: 1977-12-21
           11-20:
             name:
               pt: Dia da Consciência Negra
+              sv: Svarta medvetenhetsdagen
             active:
               - from: 2010-07-08
       AP:
@@ -164,12 +183,14 @@ holidays:
           03-19:
             name:
               pt: Dia de São José
+              sv: Sankt José-dagen
             note: Santo padroeiro do Estado do Amapá
             active:
               - from: 2002-04-16
           09-13:
             name:
               pt: Criação do Território Federal
+              sv: Skapandet av det federala territoriet
       BA:
         name: Bahia
         zones:
@@ -178,6 +199,7 @@ holidays:
           07-02:
             name:
               pt: Independência da Bahia
+              sv: Bahias självständighetsdag
       CE:
         name: Ceará
         zones:
@@ -186,6 +208,7 @@ holidays:
           03-25:
             name:
               pt: Data magna do estado
+              sv: Delstatens högtidsdag
             active:
               - from: 2011-12-01
       DF:
@@ -196,9 +219,11 @@ holidays:
           04-21:
             name:
               pt: Fundação de Brasília
+              sv: Brasílias grundläggningsdag
           11-30:
             name:
               pt: Dia do Evangélico
+              sv: Evangeliska dagen
             type: public
             active:
               - from: 1995-12-04
@@ -218,6 +243,7 @@ holidays:
           07-28:
             name:
               pt: Adesão do Maranhão à independência do Brasil
+              sv: Maranhão ansluter sig till Brasiliens självständighet
             active:
               - from: 1964-10-02
       MG:
@@ -228,6 +254,7 @@ holidays:
           04-21:
             name:
               pt: Data magna do estado
+              sv: Delstatens högtidsdag
         regions:
           BH:
             name: Belo Horizonte
@@ -236,6 +263,7 @@ holidays:
                 _name: 08-15
                 name:
                   pt: Assunção de Nossa Senhora
+                  sv: Jungfru Marias himmelsfärd
                 type: public
               12-08:
                 _name: 12-08
@@ -248,6 +276,7 @@ holidays:
           10-11:
             name:
               pt: Criação do estado
+              sv: Delstatens skapande
             active:
               - from: 1979-10-29
       MT:
@@ -258,6 +287,7 @@ holidays:
           11-20:
             name:
               pt: Dia da Consciência Negra
+              sv: Svarta medvetenhetsdagen
             active:
               - from: 2002-12-27
       PA:
@@ -268,6 +298,7 @@ holidays:
           08-15:
             name:
               pt: Adesão do Grão-Pará à independência do Brasil
+              sv: Grão-Pará ansluter sig till Brasiliens självständighet
             active:
               - from: 1996-09-10
       PB:
@@ -278,9 +309,11 @@ holidays:
           07-26:
             name:
               pt: Homenagem à memória do ex-presidente João Pessoa
+              sv: Hyllning till minnet av den tidigare presidenten João Pessoa
           08-05:
             name:
               pt: Nossa Senhora das Neves
+              sv: Jungfru Maria av Snö
             note: Fundação do Estado em 1585 e dia da sua padroeira
             active:
               - from: 1967-08-30
@@ -292,6 +325,7 @@ holidays:
           1st sunday in March:
             name:
               pt: Revolução Pernambucana de 1817
+              sv: Pernambuco-revolutionen 1817
             active:
               - from: 2009-07-02
         regions:
@@ -302,15 +336,18 @@ holidays:
                 name:
                   pt: São João
                   en: Saint John's Day
+                  sv: Sankt Johannes-dagen
                 type: public
               07-16:
                 name:
                   pt: Nossa Senhora do Carmo
+                  sv: Jungfru Maria av Karmel
                 type: public
               12-08:
                 _name: 12-08
                 name:
                   pt: Nossa Senhora da Conceição
+                  sv: Jungfru Maria av obefläckade avlelsen
                 type: public
       PI:
         name: Piauí
@@ -320,6 +357,7 @@ holidays:
           10-19:
             name:
               pt: Dia do Piauí
+              sv: Piauís dag
             active:
               - from: 1937-01-01
       PR:
@@ -330,6 +368,7 @@ holidays:
           12-19:
             name:
               pt: Emancipação política do estado do Paraná
+              sv: Paraná delstats politiska frigörelse
             active:
               - from: 1962-12-18
         regions:
@@ -339,6 +378,7 @@ holidays:
               09-08:
                 name:
                   pt: Nossa Senhora da Luz dos Pinhais
+                  sv: Jungfru Maria av Ljus från Pinhais
                 type: public
       RJ:
         name: Rio de Janeiro
@@ -348,21 +388,25 @@ holidays:
           easter -47:
             name:
               pt: Carnaval
+              sv: Karneval
             active:
               - from: 2008-05-14
           04-23:
             name:
               pt: Dia de São Jorge
+              sv: Sankt Georg-dagen
             active:
               - from: 2008-03-05
           3rd tuesday in October:
             name:
               pt: Dia do Comércio
+              sv: Handelsdagen
             type: observance
             note: feriado para os comerciantes e trabalhadores da construção civil
           11-20:
             name:
               pt: Dia da Consciência Negra
+              sv: Svarta medvetenhetsdagen
             active:
               - from: 2002-11-11
         regions:
@@ -372,6 +416,7 @@ holidays:
               01-20:
                 name:
                   pt: Dia de São Sebastião
+                  sv: Sankt Sebastians dag
                 type: public
                 active:
                   - from: 1988-06-27
@@ -384,6 +429,7 @@ holidays:
           10-03:
             name:
               pt: Mártires de Cunhaú e Uruaçu
+              sv: Martyrerna från Cunhaú och Uruaçu
             active:
               - from: 2006-12-06
       RO:
@@ -394,11 +440,13 @@ holidays:
           01-04:
             name:
               pt: Criação do estado
+              sv: Delstatens skapande
             active:
               - from: 2010-04-22
           06-18:
             name:
               pt: Dia do evangélico
+              sv: Evangeliska dagen
             active:
               - from: 2001-12-20
       RR:
@@ -409,6 +457,7 @@ holidays:
           10-05:
             name:
               pt: Criação do estado
+              sv: Delstatens skapande
       RS:
         name: Rio Grande do Sul
         zones:
@@ -417,6 +466,7 @@ holidays:
           09-20:
             name:
               pt: Proclamação da República Rio-Grandense
+              sv: Proklamationen av Rio Grande do Suls republik
       SC:
         name: Santa Catarina
         zones:
@@ -425,23 +475,27 @@ holidays:
           08-11:
             name:
               pt: Dia de Santa Catarina
+              sv: Sankt Katarinas dag
             active:
               - from: 2004-01-22
                 to: 2005-07-15
           08-11 if monday,tuesday,wednesday,thursday,friday,saturday then next sunday:
             name:
               pt: Dia de Santa Catarina
+              sv: Sankt Katarinas dag
             active:
               - from: 2005-07-15
           11-25:
             name:
               pt: Dia de Santa Catarina de Alexandria
+              sv: Sankt Katarinas dag i Alexandria
             active:
               - from: 1996-12-26
                 to: 2005-07-15
           11-25 if monday,tuesday,wednesday,thursday,friday,saturday then next sunday:
             name:
               pt: Dia de Santa Catarina de Alexandria
+              sv: Sankt Katarinas dag i Alexandria
             active:
               - from: 2005-07-15
       SE:
@@ -452,6 +506,7 @@ holidays:
           07-08:
             name:
               pt: Emancipação política de Sergipe
+              sv: Sergipes politiska frigörelse
       SP:
         name: São Paulo
         zones:
@@ -460,11 +515,13 @@ holidays:
           07-09:
             name:
               pt: Revolução Constitucionalista
+              sv: Den konstitutionella revolutionen
             active:
               - from: 1997-03-05
           11-20:
             name:
               pt: Dia da Consciência Negra
+              sv: Svarta medvetenhetsdagen
             active:
               - from: 2023-09-12
         regions:
@@ -478,10 +535,12 @@ holidays:
                 name:
                   pt: Aniversário da Cidade
                   en: City Birthday
+                  sv: Stadens födelsedag
                 type: public
               11-20:
                 name:
                   pt: Dia da Consciência Negra
+                  sv: Svarta medvetenhetsdagen
                 active:
                   - from: 2004-01-07
       TO:
@@ -492,16 +551,19 @@ holidays:
           10-05:
             name:
               pt: Criação do estado
+              sv: Delstatens skapande
             active:
               - from: 1989-11-17
           03-18:
             name:
               pt: Autonomia do Estado
+              sv: Delstatens autonomi
             active:
               - from: 1998-03-17
           09-08:
             name:
               pt: Nossa Senhora da Natividade
+              sv: Jungfru Maria av Nativiteten
             note: Padroeira do Estado
             active:
               - from: 1993-12-28

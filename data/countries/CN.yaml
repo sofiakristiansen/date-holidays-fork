@@ -5,6 +5,7 @@ holidays:
     names:
       en: China
       zh: 中华人民共和国
+      sv: Kina
     dayoff: sunday
     langs:
       - zh
@@ -24,29 +25,35 @@ holidays:
         name:
           en: Youth Day
           zh: 青年节
+          sv: Ungas dag
         note: Youth from the age of 14 to 28
       06-01:
         name:
           en: Children's Day
           zh: 六一儿童节
+          sv: Barnens dag
         note: Children below the age of 14
       08-01 12:00:
         name:
           en: Army Day
           zh: 建军节
+          sv: Arméns dag
         note: Military personnel in active service
       10-01:
         name:
           en: National Day
           zh: 国庆节
+          sv: Nationaldagen
       10-02:
         name:
           en: National Day
           zh: 国庆节
+          sv: Nationaldagen
       10-03:
         name:
           en: National Day
           zh: 国庆节
+          sv: Nationaldagen
       chinese 01-0-00: # Spring Festival Eve
         name:
           en: Spring Festival
@@ -130,19 +137,23 @@ holidays:
         name:
           en: National Day
           zh: 国庆节
+          sv: Nationaldagen
         note: Work on Sun September 26 and Sat October 9.
       "2021-10-05":
         name:
           en: National Day
           zh: 国庆节
+          sv: Nationaldagen
       "2021-10-06":
         name:
           en: National Day
           zh: 国庆节
+          sv: Nationaldagen
       "2021-10-07":
         name:
           en: National Day
           zh: 国庆节
+          sv: Nationaldagen
 
     # states:
     # '11':

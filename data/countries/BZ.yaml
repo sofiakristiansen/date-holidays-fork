@@ -3,6 +3,7 @@ holidays:
   BZ:
     names:
       en: Belize
+      sv: Belize
     dayoff: sunday
     langs:
       - en
@@ -14,6 +15,7 @@ holidays:
       03-09 if friday,saturday,sunday then next monday if tuesday,wednesday,thursday then previous monday:
         name:
           en: Baron Bliss Day
+          sv: Baron Bliss dag
       easter -2:
         _name: easter -2
       easter -1:
@@ -28,17 +30,21 @@ holidays:
       05-24 if friday,saturday,sunday then next monday if tuesday,wednesday,thursday then previous monday:
         name:
           en: Commonwealth Day, Sovereign's Day
+          sv: Commonwealth Day
       09-10 if sunday then next monday:
         name:
           en: Saint George's Caye Day, National Day
+          sv: Nationaldagen
       09-21 if sunday then next monday:
         _name: Independence Day
       10-12 if friday,saturday,sunday then next monday if tuesday,wednesday,thursday then previous monday:
         name:
           en: Day of the Americas
+          sv: Amerikas dag
       11-19 if sunday then next monday:
         name:
           en: Garifuna Settlement Day
+          sv: Garifunas bosättningsdag
       12-25 and if sunday then next tuesday:
         _name: 12-25
         substitute: true

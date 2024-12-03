@@ -38,6 +38,7 @@ holidays:
         name:
           en: Victory Day
           mt: Jum il-Vitorja
+          sv: Segerdagen
       09-21:
         _name: Independence Day
       12-08:
@@ -46,5 +47,6 @@ holidays:
         name:
           en: Republic Day
           mt: Jum ir-Repubblika
+          sv: Republikens dag
       12-25:
         _name: 12-25

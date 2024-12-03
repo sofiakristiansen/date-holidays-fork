@@ -60,7 +60,7 @@ holidays:
         name:
           nl: Sinterklaasavond
           en: St. Nicholas' Eve
-          sv: Sankte Nikolaus afton
+          sv: Sankt Nikolaus afton
         type: observance
       12-25:
         _name: 12-25

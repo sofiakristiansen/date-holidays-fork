@@ -39,6 +39,7 @@ holidays:
         name:
           es: Día del Golpe de Libertad
           en: Armed Forces Day
+          sv: Försvarsmaktens dag
       08-15 and if sunday then next monday:
         substitute: true
         _name: Constitution Day

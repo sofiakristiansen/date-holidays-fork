@@ -39,6 +39,7 @@ holidays:
         name:
           en: Children's Day
           es: Día del Niño
+          sv: Barnens dag
         type: observance
       09-15:
         _name: Independence Day
@@ -55,9 +56,11 @@ holidays:
         name:
           es: Día de la Raza
           en: Columbus Day
+          sv: Columbusdagen
       10-21:
         name:
           es: Día de las Fuerzas Armadas
           en: Armed forces Day
+          sv: Försvarsmaktens dag
       12-25:
         _name: 12-25

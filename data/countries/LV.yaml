@@ -41,6 +41,7 @@ holidays:
         name:
           en: Republic Day
           lv: Latvijas Republikas proklamēšanas diena
+          sv: Republikens dag
       12-24:
         _name: 12-24
       12-25:

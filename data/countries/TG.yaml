@@ -30,6 +30,7 @@ holidays:
         name:
           fr: Journée des Martyrs
           en: Day of the Martyrs
+          sv: Martyrernas dag
       08-15:
         _name: 08-15
       11-01:

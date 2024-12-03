@@ -5,6 +5,7 @@ holidays:
     names:
       bn: গণপ্রজাতন্ত্রী বাংলাদেশ
       en: People's Republic of Bangladesh
+      sv: Folkrepubliken Bangladesh
     langs:
       - bn
     zones:
@@ -18,31 +19,38 @@ holidays:
         name:
           bn: শহীদ দিবস
           en: Language Martyrs' Day
+          sv: Language Martyrs' Day
       bengali-revised 12-3:
         name:
           bn: মুজিব জয়ন
           en: Mujib's Birthday & Children's Day
+          sv: Mujib's födelsedag & Barnens dag
       bengali-revised 12-12:
         name:
           bn: স্বাধীনতা দিবস
           en: Independence Day
+          sv: Självständighetsdagen
       bengali-revised 1-1:
         name:
           bn: পহেলা বৈশাখ
           en: Bengali New Year's Day
+          sv: Pohela Boishakh
       bengali-revised 1-18:
         _name: 05-01
         name:
           bn: মে দিবস
           en: May Day
+          sv: Första maj
       bengali-revised 4-31:
         name:
           bn: জাতীয় শোক দিবস
           en: National Mourning Day
+          sv: Nationell sorgedag
       bengali-revised 9-2:
         name:
           bn: বিজয় দিবস
           en: Victory Day
+          sv: Segerdagen
 
       10 Muharram:
         _name: 10 Muharram
@@ -57,6 +65,7 @@ holidays:
         name:
           bn: বুদ্ধ পূর্ণিমা
           en: Buddha's Birthday
+          sv: Buddha's födelsedag
         enable:
           - "2016-05-21"
           - "2017-05-10"
@@ -73,6 +82,7 @@ holidays:
         name:
           bn: জন্মাষ্টমী
           en: Krishna Janmashtami
+          sv: Janmastami
         enable:
           - "2016-08-25"
           - "2017-08-14"
@@ -89,6 +99,7 @@ holidays:
         name:
           bn: দুর্গা পূজা
           en: Durga Puja
+          sv: Durga Puja
         enable:
           - "2016-10-11"
           - "2017-09-30"
@@ -108,14 +119,17 @@ holidays:
       03-25:
         name:
           en: Genocide Remembrance Day
+          sv: Folkmordets minnesdag
         type: observance
       11-21:
         name:
           en: Armed Forces Day
+          sv: Försvarsmaktens dag
         type: observance
       12-14:
         name:
           en: Martyred Intellectuals Day
+          sv: Śôhīd Buddhijībī Dibôs
         type: observance
 
     # states:

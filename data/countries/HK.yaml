@@ -77,6 +77,7 @@ holidays:
         name:
           en: National Day
           zh: 國慶日
+          sv: Nationaldagen
       chinese 09-0-09 and if Sunday then next Monday:
         substitute: true
         name:

@@ -17,6 +17,7 @@ holidays:
         name:
           nl: Chinees Nieuwjaar
           en: Chinese New Year
+          sv: Kinesiskt nyår
       02-25:
         name:
           nl: Dag van Bevrijding en Vernieuwing
@@ -40,6 +41,7 @@ holidays:
         name:
           nl: Dag der Inheemsen
           en: Indigenous People's Day
+          sv: Ursprungsfolkets dag
       10-10:
         name:
           nl: Dag van de Marrons

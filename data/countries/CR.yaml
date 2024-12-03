@@ -5,6 +5,7 @@ holidays:
     names:
       es: Costa Rica
       en: Costa Rica
+      sv: Costa Rica
     dayoff: sunday
     langs:
       - es
@@ -23,16 +24,19 @@ holidays:
       04-11:
         name:
           es: Gesta Heroica de Juan Santamaría
+          sv: Juan Santamarías hjältedåd
       05-01:
         _name: 05-01
       07-25:
         name:
           en: Guanacaste Day
           es: Anexión del Partido de Nicoya
+          sv: Guanacastedagen
       08-02:
         name:
           en: Our Lady of Los Ángeles
           es: Día de la Virgen de los Ángeles
+          sv: Jungfrun av änglarnas dag
       08-15:
         _name: Mothers Day
       09-15:
@@ -41,6 +45,7 @@ holidays:
         name:
           en: Columbus Day
           es: Día de la Raza
+          sv: Columbusdagen
       12-25:
         _name: 12-25
     # states:

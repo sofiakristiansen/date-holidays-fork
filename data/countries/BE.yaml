@@ -7,6 +7,7 @@ holidays:
       nl: België
       de: Belgien
       en: Belgium
+      sv: Belgien
     dayoff: sunday
     zones:
       - Europe/Brussels
@@ -21,6 +22,7 @@ holidays:
         _name: 01-06
         name:
           de: Erscheinung des Herrn
+          sv: Herrens uppenbarelsedag
         type: observance
       02-14:
         _name: 02-14
@@ -56,11 +58,13 @@ holidays:
           de: Waffenstillstand
           fr: Armistice
           nl: Wapenstilstand
+          sv: Vapenstillestånd
       11-15:
         name:
           nl: Koningsdag
           fr: Fête du Roi
           de: Festtag des Königs
+          sv: Kungens dag
         type: observance
       12-06:
         _name: 12-06
@@ -78,6 +82,7 @@ holidays:
             name:
               nl: Feest van de Iris
               fr: Fête de l'Iris
+              sv: Iris festival
             type: observance
       DE:
         name: Deutschsprachige Gemeinschaft
@@ -89,6 +94,7 @@ holidays:
               de: Tag der Deutschsprachigen Gemeinschaft
               fr: Jour de la Communauté Germanophone
               nl: Feestdag van de Duitstalige Gemeenschap
+              sv: Tyskspråkiga gemenskapens dag
             type: observance
       VLG:
         name: Vlaamse Gemeenschap
@@ -100,6 +106,7 @@ holidays:
               de: Festtag der Wallonischen Region
               fr: Fête de la Région wallonne
               nl: Feestdag van de Vlaamse Gemeenschap
+              sv: Valloniens högtidsdag
             type: observance
           11-02:
             _name: 11-02
@@ -110,6 +117,7 @@ holidays:
               nl: Koningsdag
               fr: Fête du Roi
               de: Festtag des Königs
+              sv: Kungens dag
             type: observance
             note: day-off for employees of the flemish government
           12-26:
@@ -137,6 +145,7 @@ holidays:
               de: Tag der Französischsprachigen Gemeinschaft
               fr: La fête de la communauté française
               nl: Feestdag van de Franse Gemeenschap
+              sv: Franskspråkiga gemenskapens dag
             type: observance
         # regions:
         # WBR:

@@ -28,6 +28,7 @@ holidays:
       2nd Monday after 06-02:
         name:
           en: Queen's Birthday Celebration
+          sv: Drottningens födelsedagsfirande
       08-01 if Saturday, Sunday then next Monday:
         name:
           en: Emancipation Day

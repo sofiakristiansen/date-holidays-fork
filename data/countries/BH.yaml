@@ -4,6 +4,7 @@ holidays:
     names:
       ar: مملكة البحرين
       en: Bahrain
+      sv: Bahrain
     langs:
       - ar
     zones:
@@ -20,10 +21,12 @@ holidays:
         name:
           ar: اليوم الوطني
           en: National Day
+          sv: Nationaldagen
       12-17:
         name:
           ar: يوم الجلوس
           en: Accession Day
+          sv: Kungens tillträdesdag
       1 Muharram:
         _name: 1 Muharram
       10 Muharram:

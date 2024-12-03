@@ -19,17 +19,21 @@ holidays:
       chinese 01-0-01:
         name:
           en: Chinese New Year
+          sv: Kinesiskt nyår
       chinese 01-0-02:
         name:
           en: Chinese New Year
+          sv: Kinesiskt nyår
       substitutes chinese 01-0-01 if sunday then next tuesday:
         substitute: true
         name:
           en: Chinese New Year
+          sv: Kinesiskt nyår
       substitutes chinese 01-0-02 if sunday then next monday:
         substitute: true
         name:
           en: Chinese New Year
+          sv: Kinesiskt nyår
       easter -2:
         _name: easter -2
       05-01:
@@ -40,10 +44,12 @@ holidays:
       08-09:
         name:
           en: National Day
+          sv: Nationaldagen
       substitutes 08-09 if sunday then next monday:
         substitute: true
         name:
           en: National Day
+          sv: Nationaldagen
       12-25:
         _name: 12-25
       substitutes 12-25 if sunday then next monday:

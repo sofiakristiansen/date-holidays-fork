@@ -28,6 +28,7 @@ holidays:
         substitute: true
         name:
           en: National Flag Day
+          sv: Nationella flaggans dag
       05-01 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: 05-01

@@ -44,10 +44,12 @@ holidays:
         name:
           ro: Ziua Copilului
           en: Children's Day
+          sv: Barnens dag
       06-26:
         name:
           ro: Ziua drapelului national
           en: Flag Day
+          sv: Flaggans dag
         type: observance
       07-29:
         name:
