@@ -3,6 +3,7 @@ holidays:
   UG:
     names:
       en: Uganda
+      sv: Uganda
     dayoff: sundays
     langs:
       - en

@@ -4,6 +4,7 @@ holidays:
     names:
       fr: République togolaise
       en: Togolese Republic
+      sv: Togo
     dayoff: sunday
     langs:
       - fr

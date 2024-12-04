@@ -4,6 +4,7 @@ holidays:
     names:
       sl: Republika Slovenija
       en: Slovenia
+      sv: Slovenien
     langs:
       - sl
     zones:

@@ -6,6 +6,7 @@ holidays:
     names:
       ru: Россия
       en: Russia
+      sv: Ryssland
     dayoff: sunday
     langs:
       - ru

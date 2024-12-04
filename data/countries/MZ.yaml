@@ -6,6 +6,7 @@ holidays:
     names:
       pt: Moçambique
       en: Mozambique
+      sv: Moçambique
     dayoff: sunday
     langs:
       - pt

@@ -4,6 +4,7 @@ holidays:
     names:
       ar: جمهورية السودان
       en: Sudan
+      sv: Sudan
     langs: []
     zones:
       - Africa/Khartoum

@@ -6,6 +6,7 @@ holidays:
     names:
       es: Guatemala
       en: Guatemala
+      sv: Guatemala
     dayoff: sunday
     langs:
       - es

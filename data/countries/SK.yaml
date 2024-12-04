@@ -4,6 +4,7 @@ holidays:
     names:
       sk: Slovenská republika
       en: Slovakia
+      sv: Slovakien
     langs:
       - sk
     zones:

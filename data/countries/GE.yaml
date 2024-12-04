@@ -4,6 +4,7 @@ holidays:
     names:
       ge: საქართველო
       en: Georgia
+      sv: Georgien
     langs:
       - ge
     zones:

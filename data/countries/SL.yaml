@@ -3,6 +3,7 @@ holidays:
   SL:
     names:
       en: Sierra Leone
+      sv: Sierra Leone
     langs:
       - en
     zones:

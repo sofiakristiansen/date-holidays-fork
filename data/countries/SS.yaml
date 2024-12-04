@@ -3,6 +3,7 @@ holidays:
   SS:
     names:
       en: South Sudan
+      sv: Sydsudan
     dayoff: sunday
     langs:
       - en

@@ -4,6 +4,7 @@ holidays:
     names:
       it: Italia
       en: Italia
+      sv: Italien
     dayoff: sunday
     zones:
       - Europe/Rome

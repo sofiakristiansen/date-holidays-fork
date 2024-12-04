@@ -3,6 +3,7 @@ holidays:
   VC:
     names:
       en: St. Vincent & Grenadines
+      sv: Saint Vincent och Grenadinerna
     langs:
       - en
     zones:

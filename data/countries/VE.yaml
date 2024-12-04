@@ -6,6 +6,7 @@ holidays:
     names:
       es: Venezuela
       en: Venezuela
+      sv: Venezuela
     dayoff: sundays
     langs:
       - es

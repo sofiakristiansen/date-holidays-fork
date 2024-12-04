@@ -4,6 +4,7 @@ holidays:
     names:
       fr: Monaco
       en: Monaco
+      sv: Monaco
     dayoff: sunday
     langs:
       - fr

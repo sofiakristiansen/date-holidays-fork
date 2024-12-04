@@ -8,6 +8,7 @@ holidays:
       ar: الجمهورية التونسية
       fr: République tunisienne
       en: Tunisia
+      sv: Tunisien
     langs:
       - ar
       - fr
@@ -51,7 +52,6 @@ holidays:
         name:
           fr: Fête de l'Évacuation
           ar: "عيد الجلاء"
-
 #    states:
 #      '11':
 #        name: Tunis

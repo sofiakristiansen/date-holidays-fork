@@ -3,6 +3,7 @@ holidays:
   LR:
     names:
       en: Liberia
+      sv: Liberia
     langs:
       - en
     zones:

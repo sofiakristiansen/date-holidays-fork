@@ -6,6 +6,7 @@ holidays:
     names:
       ro: Romania
       en: Romania
+      sv: Rumänien
     dayoff: sunday
     langs:
       - ro

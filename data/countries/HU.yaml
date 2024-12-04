@@ -4,6 +4,7 @@ holidays:
     names:
       hu: Magyarország
       en: Hungary
+      sv: Ungern
     dayoff: sunday
     langs:
       - hu

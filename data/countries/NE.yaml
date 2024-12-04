@@ -10,6 +10,7 @@ holidays:
     names:
       fr: République du Niger
       en: Republic of the Niger
+      sv: Niger
     langs:
       - fr
     zones:

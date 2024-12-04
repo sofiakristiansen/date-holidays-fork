@@ -3,6 +3,7 @@ holidays:
   PR:
     names:
       en: Puerto Rico
+      sv: Puerto Rico
     langs:
       - es
       - en

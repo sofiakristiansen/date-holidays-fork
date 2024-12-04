@@ -4,6 +4,7 @@ holidays:
     names:
       ko: 대한민국
       en: South Korea
+      sv: Sydkorea
     dayoff: sunday
     langs:
       - ko

@@ -4,6 +4,7 @@ holidays:
     names:
       it: San Marino
       en: San Marino
+      sv: San Marino
     langs:
       - it
     zones:

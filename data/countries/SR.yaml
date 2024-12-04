@@ -4,6 +4,7 @@ holidays:
   SR:
     names:
       en: Suriname
+      sv: Surinam
     langs:
       - nl
       - srn

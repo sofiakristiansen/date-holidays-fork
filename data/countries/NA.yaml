@@ -4,6 +4,7 @@ holidays:
   NA:
     names:
       en: Namibia
+      sv: Namibia
     dayoff: sunday
     langs:
       - en

@@ -4,6 +4,7 @@ holidays:
     names:
       sr: Република Србија
       en: Serbia
+      sv: Serbien
     langs:
       - sr
     zones:

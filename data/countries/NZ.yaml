@@ -5,6 +5,7 @@ holidays:
     names:
       en: New Zealand
       mi: Aotearoa
+      sv: Nya Zeeland
     dayoff: sunday
     langs:
       - en

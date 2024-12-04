@@ -6,6 +6,7 @@ holidays:
   US:
     names:
       en: United States of America
+      sv: USA
     dayoff: sunday
     zones:
       - America/New_York

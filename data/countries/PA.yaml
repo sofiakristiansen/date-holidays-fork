@@ -6,6 +6,7 @@ holidays:
     names:
       es: Panamá
       en: Panama
+      sv: Panama
     dayoff: sunday
     langs:
       - es

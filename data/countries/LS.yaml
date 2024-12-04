@@ -4,6 +4,7 @@ holidays:
     names:
       st: \'Muso oa Lesotho
       en: Lesotho
+      sv: Lesotho
     langs:
       - st
       - en

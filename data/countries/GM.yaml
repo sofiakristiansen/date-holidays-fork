@@ -3,6 +3,7 @@ holidays:
   GM:
     names:
       en: The Gambia
+      sv: Gambia
     langs:
       - en
     zones:

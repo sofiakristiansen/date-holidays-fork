@@ -4,6 +4,7 @@ holidays:
     names:
       fr: France
       en: France
+      sv: Frankrike
     dayoff: sunday
     zones:
       - Europe/Paris

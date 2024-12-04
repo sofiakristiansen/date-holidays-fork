@@ -5,6 +5,7 @@ holidays:
     names:
       uk: Україна
       en: Ukraine
+      sv: Ukraina
     langs:
       - uk
     zones:

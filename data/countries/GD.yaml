@@ -3,6 +3,7 @@ holidays:
   GD:
     names:
       en: Grenada
+      sv: Grenada
     dayoff: sunday
     langs:
       - en

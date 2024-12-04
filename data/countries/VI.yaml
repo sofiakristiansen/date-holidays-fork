@@ -3,6 +3,7 @@ holidays:
   VI:
     names:
       en: U.S. Virgin Islands
+      sv: Amerikanska Jungfruöarna
     langs:
       - en
     zones:

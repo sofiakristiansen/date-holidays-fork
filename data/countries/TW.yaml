@@ -4,6 +4,7 @@ holidays:
     names:
       zh: 中華民國
       en: Taiwan
+      sv: Taiwan
     langs:
       - zh
     zones:

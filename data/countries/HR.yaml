@@ -4,6 +4,7 @@ holidays:
     names:
       hr: Hrvatska
       en: Croatia
+      sv: Kroatien
     langs:
       - hr
     zones:

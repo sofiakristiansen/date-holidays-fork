@@ -4,6 +4,7 @@ holidays:
     names:
       fr: Réunion
       en: Réunion
+      sv: Réunion
     langs:
       - fr
     zones:

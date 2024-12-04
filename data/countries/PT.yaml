@@ -4,6 +4,7 @@ holidays:
     names:
       pt: Portugal
       en: Portugal
+      sv: Portugal
     dayoff: sunday
     langs:
       - pt

@@ -5,6 +5,7 @@ holidays:
   GY:
     names:
       en: Guyana
+      sv: Guyana
     coord:
       lat: 6.8045
       lng: -58.1553

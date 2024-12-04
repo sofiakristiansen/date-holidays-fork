@@ -3,6 +3,7 @@ holidays:
   LC:
     names:
       en: St. Lucia
+      sv: Saint Lucia
     langs:
       - en
     zones:

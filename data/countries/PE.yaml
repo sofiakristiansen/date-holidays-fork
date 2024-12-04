@@ -4,6 +4,7 @@ holidays:
     names:
       es: Perú
       en: Peru
+      sv: Peru
     dayoff: sunday
     langs:
       - es

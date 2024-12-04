@@ -10,6 +10,7 @@ holidays:
       nl: Nederland
       en: Netherlands
       de: Niederlande
+      sv: Nederländerna
     dayoff: sunday
     langs:
       - nl

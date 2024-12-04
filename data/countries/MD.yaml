@@ -6,6 +6,7 @@ holidays:
     names:
       ro: Republica Moldova
       en: Moldova
+      sv: Moldavien
     langs:
       - ro
     zones:

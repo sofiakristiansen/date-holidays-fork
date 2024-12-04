@@ -9,6 +9,7 @@ holidays:
     names:
       fr: Guinée
       en: Guinea
+      sv: Guinea
     langs:
       - fr
     zones:
@@ -43,7 +44,6 @@ holidays:
         _name: 12-25
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-
 #    states:
 #      B:
 #        name: Boké Region

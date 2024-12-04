@@ -4,6 +4,7 @@ holidays:
     names:
       mk: Република Македонија
       en: Macedonia
+      sv: Makedonien
     langs:
       - mk
     zones:

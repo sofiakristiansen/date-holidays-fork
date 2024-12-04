@@ -8,6 +8,7 @@ holidays:
       fr: République de Guinée équatoriale
       pt: República da Guiné Equatorial
       en: Republic of Equatorial Guinea
+      sv: Ekvatorialguinea
     dayoff: sunday
     weekend:
       - saturday

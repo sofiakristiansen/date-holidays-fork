@@ -4,6 +4,7 @@ holidays:
     names:
       pl: Polska
       en: Poland
+      sv: Polen
     dayoff: sunday
     langs:
       - pl

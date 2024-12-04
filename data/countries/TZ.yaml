@@ -4,6 +4,7 @@ holidays:
   TZ:
     names:
       en: Tanzania
+      sv: Tanzania
     # weekend is saturday-sunday
     dayoff: sunday
     langs:

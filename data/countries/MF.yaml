@@ -5,6 +5,7 @@ holidays:
     names:
       en: St. Martin
       fr: Saint Martin
+      sv: Saint-Martin
     langs:
       - fr
     zones:

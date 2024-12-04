@@ -5,6 +5,7 @@ holidays:
     names:
       es: El Salvador
       en: El Salvador
+      sv: El Salvador
     dayoff: sunday
     langs:
       - es

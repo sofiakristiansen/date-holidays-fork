@@ -3,6 +3,7 @@ holidays:
   TT:
     names:
       en: Trinidad & Tobago
+      sv: Trinidad och Tobago
     langs:
       - en
     zones:

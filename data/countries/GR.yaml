@@ -4,6 +4,7 @@ holidays:
     names:
       el: Ελλάδα
       en: Greece
+      sv: Grekland
     dayoff: sunday
     zones:
       - Europe/Athens

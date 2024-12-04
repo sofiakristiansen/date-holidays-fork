@@ -4,6 +4,7 @@ holidays:
     names:
       es: Nicaragua
       en: Nicaragua
+      sv: Nicaragua
     dayoff: sunday
     langs:
       - es

@@ -3,6 +3,7 @@ holidays:
   SH:
     names:
       en: St. Helena
+      sv: Sankt Helena
     langs:
       - en
     zones:

@@ -8,6 +8,7 @@ holidays:
   IE:
     names:
       en: Ireland
+      sv: Irland
     dayoff: sunday
     zones:
       - Europe/Dublin

@@ -3,6 +3,7 @@ holidays:
   MW:
     names:
       en: Malawi
+      sv: Malawi
     dayoff: sunday
     langs:
       - en

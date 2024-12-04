@@ -5,6 +5,7 @@ holidays:
     names:
       en: Indonesia
       id: Indonesia
+      sv: Indonesien
     langs:
       - id
     zones:

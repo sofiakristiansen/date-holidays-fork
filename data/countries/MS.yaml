@@ -4,6 +4,7 @@ holidays:
   MS:
     names:
       en: Montserrat
+      sv: Montserrat
     langs:
       - en
     zones:

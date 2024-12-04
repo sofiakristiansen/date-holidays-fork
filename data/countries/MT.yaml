@@ -4,6 +4,7 @@ holidays:
     names:
       mt: Malta
       en: Malta
+      sv: Malta
     dayoff: sunday
     langs:
       - mt

@@ -5,6 +5,7 @@ holidays:
       it: Stato della Città del Vaticano
       la: Status Civitatis Vaticanae
       en: Vatican City
+      sv: Vatikanstaten
     langs:
       - it
     zones:

@@ -2,6 +2,7 @@ holidays:
   IM:
     names:
       en: Isle of Man
+      sv: Isle of Man
     zones:
       - Europe/Isle_of_Man
     langs:

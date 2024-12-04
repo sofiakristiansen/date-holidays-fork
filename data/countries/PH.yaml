@@ -3,6 +3,7 @@ holidays:
   PH:
     names:
       en: Philippines
+      sv: Filippinerna
     langs:
       - en
       - fil

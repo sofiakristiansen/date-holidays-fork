@@ -4,6 +4,7 @@ holidays:
   MY:
     names:
       en: Malaysia
+      sv: Malaysia
     langs:
       - ms
     zones:

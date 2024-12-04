@@ -4,6 +4,7 @@ holidays:
     names:
       lt: Lietuva
       en: Lithuania
+      sv: Litauen
     dayoff: sunday
     langs:
       - lt

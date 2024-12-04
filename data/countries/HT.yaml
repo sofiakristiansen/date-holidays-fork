@@ -4,6 +4,7 @@ holidays:
     names:
       fr: Haïti
       en: Haiti
+      sv: Haiti
     dayoff: sunday
     langs:
       - fr

@@ -2,6 +2,7 @@ holidays:
   SJ:
     names:
       en: Svalbard & Jan Mayen
+      sv: Svalbard och Jan Mayen
     langs:
       - no
     zones:

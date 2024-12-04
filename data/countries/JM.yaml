@@ -3,6 +3,7 @@ holidays:
   JM:
     names:
       en: Jamaica
+      sv: Jamaica
     dayoff: sunday
     langs:
       - en

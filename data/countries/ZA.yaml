@@ -5,6 +5,7 @@ holidays:
   ZA:
     names:
       en: South Africa
+      sv: Sydafrika
     dayoff: sunday
     langs:
       - en

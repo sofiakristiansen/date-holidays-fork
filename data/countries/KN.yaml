@@ -3,6 +3,7 @@ holidays:
     # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Saint_Kitts_and_Nevis
     names:
       en: St. Kitts & Nevis
+      sv: Saint Kitts och Nevis
     langs:
       - en
     zones:

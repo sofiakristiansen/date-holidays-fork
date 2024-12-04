@@ -4,6 +4,7 @@ holidays:
     names:
       lv: Latvija
       en: Latvia
+      sv: Lettland
     dayoff: sunday
     langs:
       - lv

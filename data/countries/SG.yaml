@@ -5,6 +5,7 @@ holidays:
   SG:
     names:
       en: Singapore
+      sv: Singapore
     langs:
       - en
     zones:

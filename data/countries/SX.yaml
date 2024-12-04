@@ -4,6 +4,7 @@ holidays:
   SX:
     names:
       en: Sint Maarten
+      sv: Sint Maarten
     langs:
       - nl
     zones:

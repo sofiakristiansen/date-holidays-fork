@@ -3,6 +3,7 @@ holidays:
   KE:
     names:
       en: Kenya
+      sv: Kenya
     dayoff: sunday
     langs:
       - sw

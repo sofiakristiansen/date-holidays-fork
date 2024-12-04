@@ -2,6 +2,7 @@ holidays:
   GG:
     names:
       en: Guernsey
+      sv: Guernsey
     dayoff: sunday
     zones:
       - Europe/Guernsey

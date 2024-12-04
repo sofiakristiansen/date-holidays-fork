@@ -4,6 +4,7 @@ holidays:
     names:
       ss: Eswatini
       en: Swaziland
+      sv: Swaziland
     langs:
       - ss
       - en

@@ -2,6 +2,7 @@ holidays:
   JE:
     names:
       en: Jersey
+      sv: Jersey
     zones:
       - Europe/Jersey
     langs:

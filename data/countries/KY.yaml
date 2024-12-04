@@ -3,6 +3,7 @@ holidays:
     # @source https://www.gov.ky/calendar/public-holidays
     names:
       en: Cayman Islands
+      sv: Caymanöarna
     langs:
       - en
     zones:

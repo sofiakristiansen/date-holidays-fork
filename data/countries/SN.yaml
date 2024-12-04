@@ -9,6 +9,7 @@ holidays:
       fr: République du Sénégal
       wo: Réewum Senegaal
       en: Senegal
+      sv: Senegal
     langs:
       - fr
       - wo
@@ -44,7 +45,6 @@ holidays:
         _name: 10 Muharram
       18 Safar:
         name: Magal de Touba
-
 #    states:
 #      DB:
 #        name: Diourbel

@@ -5,6 +5,7 @@ holidays:
     names:
       is: Ísland
       en: Iceland
+      sv: Island
     dayoff: sunday
     zones:
       - Atlantic/Reykjavik

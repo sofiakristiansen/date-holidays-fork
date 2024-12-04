@@ -4,6 +4,7 @@ holidays:
     names:
       es: Islas Canarias
       en: Canary Islands
+      sv: Kanarieöarna
     langs:
       - es
     zones:

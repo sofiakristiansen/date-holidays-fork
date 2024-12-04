@@ -5,6 +5,7 @@ holidays:
     names:
       de: Lichtenstein
       en: Lichtenstein
+      sv: Lichtenstein
     dayoff: sunday
     langs:
       - de

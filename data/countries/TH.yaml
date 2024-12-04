@@ -3,6 +3,7 @@ holidays:
   TH:
     names:
       en: Thailand
+      sv: Thailand
     langs:
       - en
       - th

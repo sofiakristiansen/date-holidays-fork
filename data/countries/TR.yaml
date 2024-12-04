@@ -4,6 +4,7 @@ holidays:
     names:
       tr: Türkiye
       en: Turkey
+      sv: Turkiet
     # weekend is saturday-sunday
     dayoff: saturday
     langs:

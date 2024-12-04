@@ -10,6 +10,7 @@ holidays:
   VG:
     names:
       en: British Virgin Islands
+      sv: Brittiska Jungfruöarna
     langs:
       - en
     zones:

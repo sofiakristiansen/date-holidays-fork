@@ -5,6 +5,7 @@ holidays:
     names:
       am: ኢትዮጵያ
       en: Ethiopia
+      sv: Etiopien
     dayoff: sunday
     langs:
       - am

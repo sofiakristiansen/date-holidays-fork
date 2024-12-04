@@ -3,6 +3,7 @@ holidays:
   ER:
     names:
       en: Eritrea
+      sv: Eritrea
     langs:
       - ti
       - en

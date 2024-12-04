@@ -5,6 +5,7 @@ holidays:
     names:
       fr: Martinique
       en: Martinique
+      sv: Martinique
     langs:
       - fr
     zones:

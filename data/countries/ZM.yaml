@@ -4,6 +4,7 @@ holidays:
   ZM:
     names:
       en: Zambia
+      sv: Zambia
     dayoff: sunday
     langs:
       - en

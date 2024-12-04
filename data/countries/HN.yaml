@@ -4,6 +4,7 @@ holidays:
     names:
       es: Honduras
       en: Honduras
+      sv: Honduras
     dayoff: sunday
     langs:
       - es

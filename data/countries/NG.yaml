@@ -4,6 +4,7 @@ holidays:
   NG:
     names:
       en: Nigeria
+      sv: Nigeria
     langs:
       - en
     zones:

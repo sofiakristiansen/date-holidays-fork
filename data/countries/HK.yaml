@@ -10,6 +10,7 @@ holidays:
     names:
       zh: 香港
       en: Hong Kong
+      sv: Hong Kong
     langs:
       - zh
       - en

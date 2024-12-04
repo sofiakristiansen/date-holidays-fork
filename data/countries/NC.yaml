@@ -5,6 +5,7 @@ holidays:
     names:
       fr: Nouvelle-Calédonie
       en: New Caledonia
+      sv: Nya Kaledonien
     dayoff: sunday
     zones:
       - Pacific/Noumea

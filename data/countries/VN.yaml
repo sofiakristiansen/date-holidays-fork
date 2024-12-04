@@ -5,6 +5,7 @@ holidays:
     names:
       vi: Cộng hòa Xã hội chủ nghĩa Việt Nam
       en: Vietnam
+      sv: Vietnam
     dayoff: ""
     langs:
       - vi

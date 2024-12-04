@@ -4,6 +4,7 @@ holidays:
     names:
       fr: Gabon
       en: Gabon
+      sv: Gabon
     dayoff: sunday
     langs:
       - fr

@@ -4,6 +4,7 @@ holidays:
     names:
       fi: Suomi
       en: Finland
+      sv: Finland
     dayoff: sunday
     langs:
       - fi

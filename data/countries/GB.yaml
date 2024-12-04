@@ -3,6 +3,7 @@ holidays:
   GB:
     names:
       en: United Kingdom
+      sv: Storbritannien
     dayoff: sunday
     zones:
       - Europe/London

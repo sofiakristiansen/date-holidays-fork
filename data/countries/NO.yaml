@@ -11,6 +11,7 @@ holidays:
     names:
       no: Norge
       en: Norway
+      sv: Norge
     dayoff: sunday
     langs:
       - no

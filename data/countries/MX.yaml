@@ -18,6 +18,7 @@ holidays:
     names:
       es: México
       en: Mexico
+      sv: Mexico
     dayoff: sunday
     langs:
       - es

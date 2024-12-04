@@ -5,6 +5,7 @@ holidays:
     names:
       fr: Guyane
       en: French Guiana
+      sv: Franska Guyana
     langs:
       - fr
     zones:

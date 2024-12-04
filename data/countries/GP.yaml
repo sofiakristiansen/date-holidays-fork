@@ -5,6 +5,7 @@ holidays:
     names:
       fr: Guadeloupe
       en: Guadeloupe
+      sv: Guadeloupe
     langs:
       - fr
     zones:

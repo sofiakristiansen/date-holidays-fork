@@ -5,6 +5,7 @@ holidays:
   GI:
     names:
       en: Gibraltar
+      sv: Gibraltar
     langs:
       - en
     zones:

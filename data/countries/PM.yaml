@@ -2,6 +2,7 @@ holidays:
   PM:
     names:
       en: St. Pierre & Miquelon
+      sv: Saint-Pierre och Miquelon
     langs:
       - fr
     zones:
