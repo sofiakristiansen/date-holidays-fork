@@ -39,8 +39,7 @@
     "date": "2018-06-04 00:00:00",
     "start": "2018-06-03T11:00:00.000Z",
     "end": "2018-06-04T11:00:00.000Z",
-    "name": "Emancipation Day
-          sv: Emancipationsdagen",
+    "name": "Emancipation Day",
     "type": "public",
     "rule": "06-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday",
     "_weekday": "Mon"
