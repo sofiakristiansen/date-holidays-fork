@@ -13,6 +13,12 @@ holidays:
     days:
       01-01:
         _name: 01-01
+      # @source https://www.arla.se/artiklar/temadagar-kalender-med-matdagar/
+      01-01 00:01:
+        name:
+          sv: Pizzans dag
+          en: Pizza Day
+        type: observance
       01-05 12:00:
         name:
           sv: Trettondagsafton
