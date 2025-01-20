@@ -317,7 +317,7 @@ names:
       de: Sankt Martin (Faschingsbeginn)
       hu: Márton nap
       nl: Sint-Maarten
-      sv: Mårtensgås
+      sv: Mårtengås
       vi: Lễ thánh Martin
   12-06:
     name:
@@ -511,7 +511,7 @@ names:
       hu: Húshagyó kedd
       nl: Vastenavond
       pt: Carnaval
-      sv: Karneval
+      sv: Fettisdagen
       vi: Thứ ba mập béo
   easter -46: # Ash Wednesday
     name:

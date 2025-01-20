@@ -31,33 +31,96 @@ holidays:
           sv: Tjugondag Knut
           en: Saint Knut's Day
         type: observance
+      # @source https://www.arla.se/artiklar/temadagar-kalender-med-matdagar/
+      01-19:
+        name:
+          sv: Internationella popcorndagen
+          en: International Popcorn Day
+        type: observance
+      # @source https://www.arla.se/artiklar/temadagar-kalender-med-matdagar/
+      02-01:
+        name:
+          sv: Vegetariska dagen
+          en: Vegetarian Day
+        type: observance
       02-02:
         _name: 02-02
+      # @source https://en.wikipedia.org/wiki/S%C3%A1mi_National_Day
+      02-06:
+        name:
+          sv: Samernas nationaldag
+          en: Sámi National Day
+        type: observance
+      # @source https://www.un.org/en/observances/world-pulses-day
+      02-10:
+        name:
+          sv: Baljväxtens dag
+          en: World Pulses Day
+        type: observance
       02-14:
         _name: 02-14
+      # @source https://www.knackebrodsakademin.se/19-februari
+      02-19:
+        name:
+          sv: Knäckebrödets dag
+          en: Crispbread Day
+        type: observance
       easter -48:
         _name: easter -48
       easter -47:
-        name:
-          sv: Fettisdagen
-          en: Shrove Tuesday
-        type: observance
+        _name: easter -47
       easter -46:
         _name: easter -46
+      # @source https://sv.wikipedia.org/wiki/F%C3%B6ssta_tossdan_i_mass
+      1st thursday in March:
+        name:
+          sv: Fössta tossdan i mass
+          en: First thursday in March
+        type: observance
       1st sunday in March:
         name:
           sv: Vasaloppet
         type: observance
+      # @source https://sv.wikipedia.org/wiki/Dammsugare_(bakverk)
+      03-07:
+        name:
+          sv: Punschrullens dag
+          en: Punsch-roll Day
+        type: observance
       03-08:
         _name: 03-08
+      # @source https://adsk.korvakademien.se/aktuellt/fira-alla-korvars-dag-den-12-mars/
+      03-12:
+        name:
+          sv: Alla Korvars Dag
+          en: All Sausage Day
+        type: observance
       03-25:
         name:
           sv: Marie Bebådelsedag
           en: Annunciation Day
           lat: Annuntiatio Mariæ
         type: observance
+      # @source https://sv.wikipedia.org/wiki/Jungfru_Marie_beb%C3%A5delsedag
+      03-25 00:01:
+        name:
+          sv: Våffeldagen
+          en: Waffle Day
+        type: observance
       04-01:
         _name: 04-01
+      # @source https://sv.wikipedia.org/wiki/Morot
+      04-04:
+        name:
+          sv: Morotens dag
+          en: Carrot Day
+        type: observance
+      # @source https://sv.wikipedia.org/wiki/Amalia_Eriksson
+      04-20:
+        name:
+          sv: Polkagrisens dag
+          en: Polkagris Day
+        type: observance
       04-30 12:00:
         name:
           sv: Valborgsmässoafton
@@ -80,8 +143,26 @@ holidays:
         _name: easter 1
       05-01:
         _name: 05-01
+      # @source https://temadagar.se/internationella-kebabdagen/
+      05-05:
+        name:
+          sv: Internationella kebabdagen
+          en: World Kebab Day
+        type: observance
       05-09:
         _name: 05-09
+      # @source https://tunnbrodsakademin.se/tunnbrodetsdag/
+      2nd saturday in May:
+        name:
+          sv: Tunnbrödets dag
+          en: Flatbread Day
+        type: observance
+      # @source https://www.kungsornen.se/tips-tricks/teman-bakning/muffinsdagen/
+      05-27:
+        name:
+          sv: Muffinsdagen
+          en: Muffin Day
+        type: observance
       easter 39:
         _name: easter 39
       easter 48:
@@ -98,10 +179,22 @@ holidays:
       sunday before 06-01:
         _name: Mothers Day
         type: observance
+      # @source https://en.wikipedia.org/wiki/World_Milk_Day
+      06-01:
+        name:
+          sv: Mjölkens dag
+          en: World Milk Day
+        type: observance
       06-06:
         name:
           sv: Sveriges nationaldag
           en: National Day
+      # @source https://www.vastsverige.com/tjorn/se-och-gora/sillens-dag/sillens-historia/
+      06-06 00:01:
+        name:
+          sv: Sillens dag
+          en: Herring Day
+        type: observance
       friday after 06-19:
         name:
           sv: Midsommarafton
@@ -113,10 +206,107 @@ holidays:
           sv: Midsommardagen
           en: Midsummer Day
           fi: Juhannuspäivä
+      # @source https://mb.cision.com/Main/6991/9606252/259602.pdf
+      06-30:
+        name:
+          sv: Pilsnerkorvens dag
+          en: Pilsner Sausage Day
+        type: observance
+      # @source https://www.arla.se/artiklar/temadagar-kalender-med-matdagar/
+      07-13:
+        name:
+          sv: Paltdagen
+          en: Palt Day
+        type: observance
+      # @source https://www.arla.se/artiklar/temadagar-kalender-med-matdagar/
+      07-29:
+        name:
+          sv: Lasagnens dag
+          en: National Lasagna Day
+        type: observance
+      # @source https://www.arla.se/artiklar/temadagar-kalender-med-matdagar/
+      08-03:
+        name:
+          sv: Vattenmelonens dag
+          en: National Watermelon Day
+        type: observance
+      # @source https://sv.wikipedia.org/wiki/Kr%C3%A4ftpremi%C3%A4r
+      08-07:
+        name:
+          sv: Kräftpremiären
+          en: Crayfish premiere
+        type: observance
+      # @source https://www.arla.se/artiklar/temadagar-kalender-med-matdagar/
+      08-09:
+        name:
+          sv: Rulltårtans dag
+          en: Swiss roll day
+        type: observance
+      # @source https://sv.wikipedia.org/wiki/Surstr%C3%B6mming
+      3rd thursday in August:
+        name:
+          sv: Surströmmingens dag
+          en: Surströmming Day
+        type: observance
+      # @source https://www.biodlarna.se/kalender/honungens-dag/
+      08-20:
+        name:
+          sv: Honungens dag
+          en: Honey Day
+        type: observance
+      # @source https://www.arla.se/artiklar/temadagar-kalender-med-matdagar/
+      08-23:
+        name:
+          sv: Köttbullens dag
+          en: Meatball Day
+        type: observance
+      # @source https://svensktradgard.se/aktiviteter/applets-dag/
+      09-25:
+        name:
+          sv: Äpplets dag
+          en: Apple Day
+        type: observance
+      # @source https://sv.wikipedia.org/wiki/Internationella_kaffedagen
+      09-29:
+        name:
+          sv: Kaffets dag
+          en: National Coffee Day
+        type: observance
+      # @source https://sv.wikipedia.org/wiki/Vegetariska_v%C3%A4rldsdagen
+      10-01:
+        name:
+          sv: Vegetariska världsdagen
+          en: World Vegetarian Day
+        type: observance
+      # @source https://sv.wikipedia.org/wiki/Kanelbullens_dag
       10-04:
         name:
           sv: Kanelbullens dag
           en: Cinnamon Bun Day
+        type: observance
+      # @source https://en.wikipedia.org/wiki/World_Porridge_Day
+      10-10:
+        name:
+          sv: Grötens dag
+          en: World Porridge Day
+        type: observance
+      # @source https://news.cision.com/se/swedavia-ab/r/arlanda-och-goteborg-landvetter-firar-rakmackans-dag,c3902187
+      10-14:
+        name:
+          sv: Räkmackans dag
+          en: Shrimp Sandwich Day
+        type: observance
+      # @source https://www.mattanken.se/mattanken/offentligamaltidensdag.4.55169664185b310825eda083.html
+      3rd thursday in October:
+        name:
+          sv: Offentliga måltidens dag
+          en: Public Meal Day
+        type: observance
+      # @source https://sv.wikipedia.org/wiki/Potatis
+      10-26:
+        name:
+          sv: Potatisens dag
+          en: Potato Day
         type: observance
       friday after 10-30 12:00:
         name:
@@ -127,15 +317,64 @@ holidays:
         _name: 11-01
       sunday after 10-31:
         _name: 11-02
+      # @source https://sv.wikipedia.org/wiki/Gustav_Adolfsdagen
       11-06:
         name:
-          sv: Gustav-Adolf-dagen
+          sv: Gustav Adolfsdagen
           en: Gustavus Adolphus Day
         type: observance
+      # @source https://www.arla.se/artiklar/temadagar-kalender-med-matdagar/
+      11-07:
+        name:
+          sv: Kladdkakans dag
+          en: National Mud Cake Day
+        type: observance
+      # @source https://sv.wikipedia.org/wiki/M%C3%A5rtensafton
       11-11:
         name:
-          sv: Mårtensgås
+          sv: Mårtengås
           en: Saint Martin's Day
+        type: observance
+      # @source https://sv.wikipedia.org/wiki/Choklad
+      11-11 00:01:
+        name:
+          sv: Chokladens dag
+          en: National Chocolate Day
+        type: observance
+      2nd sunday in November:
+        name:
+          sv: Fars dag
+          en: Fathers Day
+        type: observance
+      # @source https://pagen.se/inspiration/smorgastarta/smorgastartans-historia/
+      11-13:
+        name:
+          sv: Smörgåstårtans dag
+          en: Smörgåstårta Day
+        type: observance
+      # @source https://kultursmakarna.se/den-mangkulturella-matdagen/
+      11-16:
+        name:
+          sv: Mångkulturella matdagen
+          en: Multicultural Food Day
+        type: observance
+      # @source https://raggmunksakademien.se/historia/akademiens-historia
+      3rd tuesday in November:
+        name:
+          sv: Raggmunkens dag
+          en: Potato Pancake Day
+        type: observance
+      # @source https://sv.wikipedia.org/wiki/K%C3%A5ldolmens_dag
+      11-30:
+        name:
+          sv: Kåldolmens dag
+          en: Day of the Cabbage Roll
+        type: observance
+      # @source https://sv.wikipedia.org/wiki/Pepparkaka
+      12-09:
+        name:
+          sv: Pepparkakans dag
+          en: Gingersnap Day
         type: observance
       12-10:
         name:
