@@ -46,28 +46,32 @@ holidays:
         name:
           en: Motherhood and Beauty Day
           hy: Մայրության, գեղեցկության եւ սիրո տոն
-          sv: Moderskapets och skönhetens dag
+          sv: Mors dag
         type: observance
       04-24:
-        _name: Mothers Day
+        name:
+          en: Armenian Genocide Remembrance Day
+          hy: Ցեղասպանության զոհերի հիշատակի օր
+          sv: Armeniska folkmordet (minnesdag)
+        type: observance
       05-01:
         _name: 05-01
       05-08:
         name:
           en: Yerkrapah Day
           hy: Երկրապահի օր
-          sv: Yerkrapah landets försvarare dagen
+          sv: Yerkrapah (Veteran dag)
         type: observance
       05-09:
         name:
           en: Victory and Peace Day
           hy: Հաղթանակի եւ Խաղաղության տոն
-          sv: Segern och fredens dag
+          sv: Segerdagen 1945
       05-28:
         name:
-          en: Republic Day
+          en: Republic Day (Armenia)
           hy: Հանրապետության օր
-          sv: Republikens dag
+          sv: Republikens dag (Armenien)
       06-01:
         name:
           en: The day of protection of children rights
@@ -83,7 +87,11 @@ holidays:
           sv: Dag för kunskap, skrivande och utbildning
         type: observance
       09-21:
-        _name: Independence Day
+        name:
+          en: Independence Day (Armenia)
+          hy: Հայաստանի Անկախության օրը
+          sv: Armeniens nationaldag
+        type: observance
       2nd saturday in October:
         name:
           en: Translator's Day
