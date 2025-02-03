@@ -31,7 +31,7 @@ holidays:
       05-30:
         name:
           en: Anguilla Day
-          sv: Anguilladagen
+          sv: Anguillas nationaldag
       easter 49:
         _name: easter 49
         type: observance
