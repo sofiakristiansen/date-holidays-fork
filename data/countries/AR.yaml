@@ -49,7 +49,7 @@ holidays:
         _name: easter -2
       04-02:
         name:
-          en: Day of the veterans and the fallen in Malvinas War
+          en: Day of the Veterans and Fallen of the Malvinas War
           es: Día del Veterano y de los Caídos en la Guerra de Malvinas
           sv: Veteranernas och de fallnas i Malvinas krig dag
       substitutes 04-02 if tuesday then previous monday if thursday then next friday:
@@ -60,9 +60,9 @@ holidays:
         _name: Bridge Day
       05-25:
         name:
-          en: Day of the First National Government
+          en: First National Government (anniversary)
           es: Primer Gobierno Patrio
-          sv: Den första nationella regeringens dag
+          sv: Första nationella regeringen (årsdag)
       substitutes 05-25 if tuesday then previous monday if thursday then next friday:
         _name: Bridge Day
       06-20:
