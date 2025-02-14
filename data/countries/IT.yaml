@@ -23,6 +23,7 @@ holidays:
         name:
           it: Anniversario della Liberazione
           en: Liberation Day
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       2nd sunday in May:
@@ -47,7 +48,7 @@ holidays:
         name:
           it: Festa Nazionale 2011
           en: National Day 2011
-          sv: Nationaldagen 2011
+          sv: MANUAL OPERATION REQUIRED
     states:
       # '21':
       #   name: Piedmont
@@ -97,6 +98,7 @@ holidays:
                 name:
                   it: Sant'Ambrogio
                   en: Saint Ambrose
+                  sv: Ambrosius av Milano
           # MN:
           #   name: Mantua
           # PV:

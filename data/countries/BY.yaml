@@ -19,24 +19,24 @@ holidays:
         _name: 12-25
         name:
           be: Каляды праваслаўныя
-          sv: Ortodoxa juldagen
+          sv: MANUAL OPERATION REQUIRED
       easter:
         _name: easter
         name:
           be: Вялiкдзень каталiцкi
-          sv: Påskafton
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       orthodox:
         name:
           en: Orthodox Easter
+          sv: Påsk
           be: Вялiкдзень праваслаўны
-          sv: Ortodox påsk
         type: observance
       orthodox +9:
         name:
           en: Commemoration Day
+          sv: MANUAL OPERATION REQUIRED
           be: Радунiца
-          sv: Radonitsa
       03-08:
         _name: 03-08
       05-01:
@@ -52,7 +52,7 @@ holidays:
           - from: 1996
       11-07:
         name:
-          en: October Revolution Day
+          en: October Revolution
           be: Дзень Кастрычніцкай рэвалюцыі
           sv: Oktoberrevolutionen
       12-25:

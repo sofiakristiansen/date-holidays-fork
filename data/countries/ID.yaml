@@ -4,8 +4,8 @@ holidays:
   ID:
     names:
       en: Indonesia
-      id: Indonesia
       sv: Indonesien
+      id: Indonesia
     langs:
       - id
     zones:
@@ -20,8 +20,8 @@ holidays:
       chinese 01-0-01:
         name:
           en: Chinese New Year
-          id: Tahun Baru Imlek
           sv: Kinesiskt nyår
+          id: Tahun Baru Imlek
       easter -2:
         _name: easter -2
       05-01:
@@ -31,6 +31,7 @@ holidays:
       06-01:
         name:
           en: Pancasila Day
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Lahir Pancasila
       08-17:
         _name: Independence Day
@@ -54,74 +55,92 @@ holidays:
       "2009-03-26":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2010-03-16":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2011-03-05":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2012-03-23":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2013-03-12":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2014-03-31":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2015-03-21":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2016-03-09":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2017-03-28":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2018-03-17":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2019-03-07":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2020-03-25":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2021-03-14":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2022-03-03":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2023-03-22":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2024-03-11":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2025-03-29":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       "2026-03-19":
         name:
           en: Nyepi
+          sv: MANUAL OPERATION REQUIRED
           id: Hari Raya Nyepi
       # Vesak
       # @attrib https://en.wikipedia.org/wiki/Vesak#Dates_of_observance

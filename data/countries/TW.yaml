@@ -17,6 +17,7 @@ holidays:
         name:
           zh: 中華民國開國紀念日 / 元旦
           en: Founding of the Republic of China
+          sv: MANUAL OPERATION REQUIRED
       chinese 01-0-00:
         name:
           en: Chinese New Year's Eve
@@ -25,64 +26,69 @@ holidays:
       chinese 01-0-01:
         name:
           en: Chinese New Year
-          zh: 農曆年初一
           sv: Kinesiskt nyår
+          zh: 農曆年初一
       chinese 01-0-01 if Monday then next Friday if Tuesday then next Saturdayif Wednesday then next Sunday if Thursday then next Monday if Friday then next Tuesday if Saturday then next Wednesday if Sunday then next Thursday:
         name:
           en: Chinese New Year Holiday
+          sv: Kinesiskt nyår
           zh: 农历新年假期
-          sv: Kinesiskt nyårshelg
       chinese 01-0-02:
         name:
           en: The second day of the Chinese New Year
+          sv: Kinesiskt nyår
           zh: 農曆年初二
-          sv: Kinesiskt nyår (2a dagen)
       chinese 01-0-03:
         name:
           en: The third day of the Chinese New Year
+          sv: Kinesiskt nyår
           zh: 農曆年初三
-          sv: Kinesiskt nyår (3e dagen)
       chinese 01-0-04:
         name:
           en: The forth day of the Chinese New Year
+          sv: Kinesiskt nyår
           zh: 農曆年初四
-          sv: Kinesiskt nyår (4e dagen)
       02-28 and if Sunday then next Monday:
         substitute: true
         name:
           en: Peace Memorial Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 228和平紀念日
       04-04 and if Sunday then next Monday:
         substitute: true
         name:
           en: Children's Day
+          sv: Internationella barndagen
           zh: 兒童節
-          sv: Barnens dag
       chinese 5-01 solarterm and if Sunday then next Monday:
         substitute: true
         name:
           en: Tomb Sweeping Day
+          sv: Qingmingfesten
           zh: 淸明節
       chinese 05-0-05 and if Sunday then next Monday:
         substitute: true
         name:
           en: Dragon Boat Festival
+          sv: Drakbåtsfesten
           zh: 端午節
       chinese 08-0-15 and if Sunday then next Monday:
         substitute: true
         name:
           en: Mid-Autumn Festival
+          sv: Månfesten
           zh: 中秋節
       10-10 and if Sunday then next Monday:
         substitute: true
         name:
           en: National Day / Double Tenth Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 國慶日 / 雙十節
-          sv: Nationaldagen
       # observed
       02-04:
         name:
           en: Farmer's Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 農民節
         type: observance
       03-08:
@@ -91,13 +97,14 @@ holidays:
       03-12:
         name:
           en: Arbor Day
+          sv: Arbor Day
           zh: 國父逝世紀念日
         type: observance
       03-29:
         name:
           en: Youth Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 靑年節
-          sv: Ungas dag
         type: observance
       05-01 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
@@ -109,6 +116,7 @@ holidays:
       05-04:
         name:
           en: Literary Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 文藝節
         type: observance
       2nd Sunday in May:
@@ -119,6 +127,7 @@ holidays:
       06-03:
         name:
           en: Opium Suppression Movement Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 禁菸節
         type: observance
       08-08:
@@ -129,108 +138,128 @@ holidays:
       09-01:
         name:
           en: Journalist' Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 記者節
         type: observance
       09-03:
         name:
           en: Armed Forces Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 軍人節
-          sv: Försvarsmaktens dag
         type: observance
       09-28:
         name:
           en: Teachers' Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 孔子誕辰紀念日
         type: observance
       10-21:
         name:
           en: Overseas Chinese Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 華僑節
         type: observance
       10-25:
         name:
           en: Taiwan Retrocession Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 臺灣光復節
         type: observance
       11-12:
         name:
           en: Sun Yat-sen's Birthday
+          sv: Sun Yat-sen
           zh: 國父誕辰紀念日
         note: Also Doctors' Day and Cultural Renaissance Day
         type: observance
       december solstice:
         name:
           en: Dongzhi Festival
+          sv: Dongjinal
           zh: 冬至
         type: observance
       12-25:
         name:
           en: Constitution Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 行憲紀念日
         type: observance
       chinese 01-0-15:
         name:
           en: Lantern Festival
+          sv: MANUAL OPERATION REQUIRED
           zh: 元宵節
         type: observance
       "chinese 01-0-15 #1":
         name:
           en: Tourism Day
+          sv: Världsturismdagen
           zh: 觀光節
         type: observance
       chinese 02-0-02:
         name:
           en: Earth God's Birthday
+          sv: Traditionella kinesiska högtider
           zh: 土地公誕辰
         type: observance
       chinese 02-0-19:
         name:
           en: Kuan Yin's Birthday
+          sv: Guanyin
           zh: 觀音誕辰
         type: observance
       chinese 03-0-15:
         name:
           en: God of Medicine's Birthday
+          sv: Traditionella kinesiska högtider
           zh: 保生大帝誕辰
         type: observance
       chinese 03-0-23:
         name:
           en: Matsu's Birthday
+          sv: Traditionella kinesiska högtider
           zh: 媽祖誕辰
         type: observance
       chinese 04-0-08:
         name:
           en: Buddha's Birthday
+          sv: Buddhas födelsedag
           zh: 佛誕日
         type: observance
       chinese 05-0-13:
         name:
           en: Kuan Kung's Birthday
+          sv: Guan Yu
           zh: 關公誕辰
         type: observance
       "chinese 05-0-13 #1":
         name:
           en: Cheng Huang's Birthday
+          sv: Traditionella kinesiska högtider
           zh: 城隍爺誕辰
         type: observance
       chinese 07-0-07:
         name:
           en: Qixi Festival
+          sv: Qixifesten
           zh: 七夕
         type: observance
       chinese 07-0-15:
         name:
           en: Ghost Festival
+          sv: Spökfesten
           zh: 中元節
         type: observance
       chinese 09-0-09:
         name:
           en: Double Ninth Festival
+          sv: MANUAL OPERATION REQUIRED
           zh: 重陽節
         type: observance
       chinese 10-0-15:
         name:
           en: Saisiat Festival
+          sv: Traditionella kinesiska högtider
           zh: 賽夏節
         type: observance
 

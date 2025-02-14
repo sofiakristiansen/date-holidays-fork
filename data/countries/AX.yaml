@@ -2,8 +2,8 @@
 holidays:
   AX:
     names:
-      sv: Landskapet Åland
       en: Åland Islands
+      sv: Åland
     dayoff: sunday
     zones:
       - Europe/Helsinki
@@ -34,8 +34,8 @@ holidays:
         type: observance
       06-09:
         name:
-          sv: Självstyrelsedagen
           en: Autonomy Day
+          sv: Ålands självstyrelsedag
       friday after 06-19:
         name:
           sv: Midsommarafton

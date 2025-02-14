@@ -22,8 +22,8 @@ holidays:
       01-02 and if sunday then next monday:
         name:
           en: 2nd day of the New Year
+          sv: MANUAL OPERATION REQUIRED
           bs: Drugi dan Nove Godine
-          sv: Andra dagen på det nya året
         substitute: true
       05-01 and if sunday then next tuesday:
         _name: 05-01
@@ -31,8 +31,8 @@ holidays:
       05-02 and if sunday then next monday:
         name:
           en: 2nd day of the Labour Day
+          sv: MANUAL OPERATION REQUIRED
           bs: Drugi dan Dana rada
-          sv: Andra dagen av arbetarnas dag
         substitute: true
       # Catholic
       # note: public holiday in counties and municipalities in which Croats are majority
@@ -84,8 +84,8 @@ holidays:
           11-25:
             name:
               en: Statehood Day
+              sv: MANUAL OPERATION REQUIRED
               bs: Dan državnosti
-              sv: Nationaldag
         regions:
           W:
             name: Western Herzegovina
@@ -98,22 +98,22 @@ holidays:
           03-08:
             name:
               en: Day of the Establishment of the District
-              sv: Dagen för distriktets etablering
+              sv: MANUAL OPERATION REQUIRED
       SRP:
         name: Republika Srpska
         days:
           01-09:
             name:
               en: Republic Day
-              bs: Dan Republike
               sv: Republikens dag
+              bs: Dan Republike
           05-09:
             name:
               en: Victory Day
               bs: Dan pobjede
-              sv: Segerdagen
+              sv: Segerdagen 1945
           11-21:
             name:
               en: Dayton Agreement Day
+              sv: MANUAL OPERATION REQUIRED
               bs: Dan uspostave Opšteg okvirnog sporazuma za mir u Bosni i Hercegovini
-              sv: Daytonavtalets dag

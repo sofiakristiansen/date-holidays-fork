@@ -22,11 +22,11 @@ holidays:
         substitute: true
         name:
           en: Day after New Year's Day
-          sv: Dagen efter nyårsdagen
+          sv: MANUAL OPERATION REQUIRED
       04-25:
         name:
           en: Anzac Day
-          sv: Anzac dag
+          sv: Anzac Day
       easter -2:
         _name: easter -2
       easter 1:
@@ -34,13 +34,13 @@ holidays:
       1st Monday in June: # #k
         name:
           en: Queen's Birthday
-          sv: Drottningens födelsedag
+          sv: Kungens officiella födelsedag
         # same day as observed in NZ
       1st Friday in July:
         name:
           en: Ra o te Ui Ariki (House of Ariki)
+          sv: MANUAL OPERATION REQUIRED
           rar: Ra o te Ui Ariki
-          sv: Ra o te Ui Ariki
       08-04 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: Constitution Day
@@ -48,7 +48,7 @@ holidays:
         substitute: true
         name:
           en: National Gospel Day
-          sv: Nationella gospeldagen
+          sv: MANUAL OPERATION REQUIRED
       12-25 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: 12-25
@@ -59,90 +59,100 @@ holidays:
       Aitutaki:
         names:
           en: Aitutaki
+          sv: Aitutaki
         days:
           10-26 and if Saturday, Sunday then next Monday:
             substitute: true
             name:
               en: Aitutaki Gospel Day
-              sv: Aitutaki gospel dag
+              sv: MANUAL OPERATION REQUIRED
       Atiu:
         names:
           en: Atiu
+          sv: Atiu
         days:
           07-19 and if Saturday, Sunday then next Monday:
             substitute: true
             name:
               en: Atiu Gospel Day
-              sv: Atiu gospel dag
+              sv: MANUAL OPERATION REQUIRED
       Mangaia:
         names:
           en: Mangaia
+          sv: Mangaia
         days:
           06-15 and if Saturday, Sunday then next Monday:
             substitute: true
             name:
               en: Mangaia Gospel Day
-              sv: Mangaia gospel dag
+              sv: MANUAL OPERATION REQUIRED
       Manihiki:
         names:
           en: Manihiki
+          sv: Manihiki
         days:
           08-08 and if Saturday, Sunday then next Monday:
             substitute: true
             name:
               en: Manihiki Gospel Day
-              sv: Manihiki gospel dag
+              sv: MANUAL OPERATION REQUIRED
       Mitiaro:
         names:
           en: Mitiaro
+          sv: Mitiaro
         days:
           07-21 and if Saturday, Sunday then next Monday:
             substitute: true
             name:
               en: Mitiaro Gospel Day
-              sv: Mitiaro gospel dag
+              sv: MANUAL OPERATION REQUIRED
       Palmerston:
         names:
           en: Palmerston
+          sv: Palmerston
         days:
           05-25 and if Saturday, Sunday then next Monday:
             substitute: true
             name:
               en: Palmerston Gospel Day
-              sv: Palmerston gospel dag
+              sv: MANUAL OPERATION REQUIRED
       Penrhyn:
         names:
           en: Penrhyn
+          sv: MANUAL OPERATION REQUIRED
         days:
           05-13 and if Saturday, Sunday then next Monday:
             substitute: true
             name:
               en: Penrhyn Gospel Day
-              sv: Penrhyn gospel dag
+              sv: MANUAL OPERATION REQUIRED
       Pukapuka:
         names:
           en: Pukapuka
+          sv: Pukapuka
         days:
           12-06 and if Saturday, Sunday then next Monday:
             substitute: true
             name:
               en: Pukapuka Gospel Day
-              sv: Pukapuka gospel dag
+              sv: MANUAL OPERATION REQUIRED
       Rakahanga:
         names:
           en: Rakahanga
+          sv: Rakahanga
         days:
           08-15 and if Saturday, Sunday then next Monday:
             substitute: true
             name:
               en: Rakahanga Gospel Day
-              sv: Rakahanga gospel dag
+              sv: MANUAL OPERATION REQUIRED
       Rarotonga:
         names:
           en: Rarotonga
+          sv: Rarotonga
         days:
           07-25 and if Saturday, Sunday then next Monday:
             substitute: true
             name:
               en: Rarotonga Gospel Day
-              sv: Rarotonga gospel dag
+              sv: MANUAL OPERATION REQUIRED

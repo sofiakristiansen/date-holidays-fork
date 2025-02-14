@@ -19,23 +19,23 @@ holidays:
         name:
           el: Καθαρά Δευτέρα
           en: Ash Sunday
-          sv: Ren måndag
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       orthodox -47:
         name:
           el: Καθαρά Δευτέρα
           en: Clean Monday
-          sv: Ren måndag
+          sv: MANUAL OPERATION REQUIRED
       03-25:
         name:
           el: Ευαγγελισμός, Εθνική Εορτή
           en: Annunciation, Anniversary of 1821 Revolution
-          sv: Befrielsens dag
+          sv: Grekiska frihetskriget
       04-01:
         name:
           en: Cyprus National Day
+          sv: Cyperns självständighetsdag
           el: Κύπρος Εθνική Εορτή
-          sv: Nationaldagen
       orthodox -2:
         _name: easter -2
       orthodox:
@@ -54,13 +54,13 @@ holidays:
       10-01:
         name:
           en: Cyprus Independence Day
-          el: Ημέρα της Ανεξαρτησίας Κύπρος
           sv: Cyperns självständighetsdag
+          el: Ημέρα της Ανεξαρτησίας Κύπρος
       10-28:
         _name: National Holiday
         name:
           el: Επέτειος του Όχι
-          sv: Ochi-dagen
+          sv: Ochidagen
       12-25:
         _name: 12-25
       12-26:

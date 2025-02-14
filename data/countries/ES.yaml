@@ -168,6 +168,7 @@ holidays:
         names:
           es: Castilla y León
           en: Castile and León
+          sv: Kastilien och León
         days:
           04-23:
             name: Fiesta de Castilla y León
@@ -194,6 +195,7 @@ holidays:
         names:
           es: Islas Canarias
           en: Canary Islands
+          sv: Kanarieöarna
         zones:
           - Atlantic/Canary
         dayoff: sunday
@@ -254,6 +256,7 @@ holidays:
           ca: Catalunya
           es: Cataluña
           en: Catalonia
+          sv: Katalonien
         days:
           09-11:
             name:
@@ -309,6 +312,7 @@ holidays:
         names:
           es: Illes Balears
           en: Balearic Islands
+          sv: Balearerna
         days:
           03-01:
             name:
@@ -363,6 +367,7 @@ holidays:
         names:
           es: Comunidad Foral de Navarra
           en: Navarra Chartered Community
+          sv: Navarra
         days:
           easter 1:
             _name: easter 1
@@ -375,6 +380,7 @@ holidays:
         names:
           es: País Vasco
           en: Basque Country
+          sv: Baskien (autonom region)
         days:
           easter 1:
             _name: easter 1
@@ -394,6 +400,7 @@ holidays:
         names:
           es: Comunitat Valenciana
           en: Valencian Community
+          sv: Valencia (autonom region)
         days:
           03-19:
             _name: 03-19

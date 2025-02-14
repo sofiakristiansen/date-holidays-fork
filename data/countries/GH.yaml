@@ -32,13 +32,16 @@ holidays:
         substitute: true
         name:
           en: Founders Day
+          sv: MANUAL OPERATION REQUIRED
       09-21 and if Saturday, Sunday then next Monday:
         substitute: true
         name:
           en: Kwame Nkrumah Memorial Day
+          sv: Kwame Nkrumah
       1st Friday in December since 1988:
         name:
           en: Farmers Day
+          sv: MANUAL OPERATION REQUIRED
       12-25 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-25

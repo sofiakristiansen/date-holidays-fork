@@ -24,7 +24,7 @@ holidays:
         name:
           az: Qara Yanvar
           en: Martyrs' Day
-          sv: Martyrernas dag
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       03-08 and if saturday,sunday then next monday:
         substitute: true
@@ -40,8 +40,8 @@ holidays:
         substitute: true
         name:
           az: Faşizm üzərində qələbə günü
-          en: Day of Victory over Fascism
-          sv: Dagen för seger över fascismen
+          en: Victory Day (9 May)
+          sv: Segerdagen 1945
       05-28 and if saturday,sunday then next monday:
         substitute: true
         name:
@@ -53,19 +53,19 @@ holidays:
         name:
           az: Azərbaycan xalqının Milli Qurtuluş günü
           en: National Salvation Day
-          sv: Nationella befrielsedagen
+          sv: Helgdagar i Azerbajdzjan
       06-26 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Azərbaycan Respublikasının Silahlı Qüvvələri günü
           en: Azerbaijan Armed Forces Day
-          sv: Försvarsmaktens dag
+          sv: Azerbajdzjans försvarsmakts dag
       10-18 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Dövlət Müstəqilliyi günü
           en: Independence Day
-          sv: Självständighetsdagen
+          sv: MANUAL OPERATION REQUIRED
       11-09 and if saturday,sunday then next monday:
         substitute: true
         name:
@@ -76,18 +76,18 @@ holidays:
         name:
           az: Konstitusiya günü
           en: Constitution Day
-          sv: Konstitutionsdagen
+          sv: MANUAL OPERATION REQUIRED
       11-17:
         name:
           az: Milli Dirçəliş günü
           en: National Revival Day
-          sv: National Revival Day
+          sv: MANUAL OPERATION REQUIRED
       12-31 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Dünya azərbaycanlıların həmrəyliyi günü
           en: International Solidarity Day of Azerbaijanis
-          sv: Världsdagen för solidaritet
+          sv: MANUAL OPERATION REQUIRED
       1 Shawwal and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 1 Shawwal

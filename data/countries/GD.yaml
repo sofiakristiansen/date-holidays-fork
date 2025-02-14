@@ -24,6 +24,7 @@ holidays:
       04-24 P3D:
         name:
           en: Carriacou Maroon and String Band Music Festival
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       05-01:
         _name: 05-01
@@ -37,27 +38,33 @@ holidays:
       1st monday in August:
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       2nd monday in August:
         name:
           en: Carnival Monday
+          sv: MANUAL OPERATION REQUIRED
       tuesday after 2nd monday in August:
         name:
           en: Carnival Tuesday
+          sv: Fettisdagen
       09-01:
         name:
           en: Kirani Day
+          sv: Kirani James
         type: observance
       10-15 P5D:
         name:
           en: Aunty Tek Spice Word Festival
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       10-25:
         name:
           en: Thanksgiving Day
+          sv: Thanksgiving
       12-04 P3D:
         name:
           en: Camerhogne Folk Festival
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       12-25:
         _name: 12-25

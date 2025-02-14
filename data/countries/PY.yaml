@@ -23,6 +23,7 @@ holidays:
           - "2017-02-27"
         name:
           en: Heroes' Day
+          sv: MANUAL OPERATION REQUIRED
           es: Dia de los héroes
       easter -3:
         _name: easter -3
@@ -31,6 +32,7 @@ holidays:
       04-30:
         name:
           en: Teacher's Day
+          sv: MANUAL OPERATION REQUIRED
           es: Día del Maestro
         type: optional
         note: Affects educational institutions
@@ -44,6 +46,7 @@ holidays:
         # @source http://www.gacetaoficial.gov.py/index/detalle_publicacion/61071
         name:
           en: Chaco Armistice
+          sv: Chacokriget
           es: Día de la Paz del Chaco
         disable:
           - "2020-06-12"
@@ -62,11 +65,13 @@ holidays:
           - "2017-10-02"
         name:
           en: Boqueron Battle Victory Day
+          sv: MANUAL OPERATION REQUIRED
           es: Victoria de Boquerón
       12-08:
         _name: 12-08
         name:
           en: Virgin of Caacupe
+          sv: Caacupé
           es: Virgen de Caacupé
       12-25:
         _name: 12-25

@@ -16,10 +16,12 @@ holidays:
       02-16:
         name:
           en: Day of Restoration of the State of Lithuania
+          sv: MANUAL OPERATION REQUIRED
           lt: Lietuvos valstybės atkūrimo diena
       03-11:
         name:
           en: Day of Restoration of Independence of Lithuania
+          sv: MANUAL OPERATION REQUIRED
           lt: Lietuvos nepriklausomybės atkūrimo diena
       easter:
         _name: easter
@@ -36,10 +38,12 @@ holidays:
       06-24:
         name:
           en: St. John's Day
+          sv: MANUAL OPERATION REQUIRED
           lt: Joninės, Rasos
       07-06:
         name:
           en: Statehood Day
+          sv: MANUAL OPERATION REQUIRED
           lt: Valstybės diena
       08-15:
         _name: 08-15

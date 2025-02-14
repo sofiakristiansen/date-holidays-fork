@@ -16,8 +16,8 @@ holidays:
       02-04:
         name:
           pt: Dia do Início da Luta Armada de Libertação Nacional
-          en: Liberation Day
-          sv: Befrielsedagen
+          en: Angolan War of Independence
+          sv: Angolanska självständighetskriget
       easter -47:
         _name: easter -47
       03-08:
@@ -44,7 +44,7 @@ holidays:
         name:
           pt: Fundador da Nação e Dia dos Heróis Nacionais
           en: National Hero Day
-          sv: Dag för firande av nationella hjältar
+          sv: MANUAL OPERATION REQUIRED
       11-02:
         _name: 11-02
       11-11:

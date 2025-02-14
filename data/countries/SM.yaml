@@ -21,6 +21,7 @@ holidays:
         name:
           it: Festa di Sant’Agata
           en: Feast of Saint Agatha
+          sv: MANUAL OPERATION REQUIRED
       easter:
         _name: easter
       easter 1:
@@ -29,10 +30,12 @@ holidays:
         name:
           it: Anniversario dell'Arengo
           en: Anniversary of the Arengo
+          sv: MANUAL OPERATION REQUIRED
       04-01:
         name:
           it: Cerimonia di investitura dei Capitani Reggenti
           en: Inauguration Ceremony
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       2nd sunday in May:
@@ -44,12 +47,14 @@ holidays:
         name:
           it: Anniversario della caduta del Fascismo e Festa della Libertà
           en: Liberation from Fascism
+          sv: MANUAL OPERATION REQUIRED
       08-15:
         _name: 08-15
       09-03:
         name:
           it: Festa di San Marino e di Fondazione della Repubblica
           en: The Feast of San Marino and the Republic
+          sv: MANUAL OPERATION REQUIRED
       10-01:
         name:
           it: Cerimonia di investitura dei Capitani Reggenti
@@ -61,6 +66,7 @@ holidays:
         name:
           it: Commemorazione dei defunti
           en: Commemoration of the deceased
+          sv: Alla själars dag
       12-08:
         _name: 12-08
       12-25:

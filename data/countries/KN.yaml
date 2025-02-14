@@ -16,6 +16,7 @@ holidays:
       01-02:
         name:
           en: Carnival Day
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       easter:
@@ -33,15 +34,16 @@ holidays:
       1st Monday in August:
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       1st Tuesday in August:
         name:
           en: Culturama Day
+          sv: MANUAL OPERATION REQUIRED
       09-16 and if Sunday then next Monday:
         substitute: true
         name:
           en: National Heroes' Day
-          sv: Dag för firande av nationella hjältar
+          sv: MANUAL OPERATION REQUIRED
       09-19 if Sunday then next Monday:
         substitute: true
         _name: Independence Day

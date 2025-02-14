@@ -30,15 +30,17 @@ holidays:
       05-05:
         name:
           en: Arrival Day
+          sv: MANUAL OPERATION REQUIRED
       05-26:
         _name: Independence Day
       monday after 07-01:
         name:
           en: CARICOM Day
+          sv: Karibiska gemenskapen
       08-01:
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
       12-26:
@@ -48,6 +50,7 @@ holidays:
         _name: 12 Rabi al-awwal
         name:
           en: Youman Nabi
+          sv: Mawlid
         note: tentative
         disable:
           - "2016-12-11"
@@ -61,6 +64,7 @@ holidays:
         _name: 10 Dhu al-Hijjah
         name:
           en: Eid Ul Adha
+          sv: Id al-adha
         note: tentative
         disable:
           - "2015-09-23"
@@ -71,74 +75,96 @@ holidays:
       "2015-03-05":
         name:
           en: Phagwah
+          sv: Holi
       "2016-03-23":
         name:
           en: Phagwah
+          sv: Holi
       "2017-03-12":
         name:
           en: Phagwah
+          sv: Holi
       "2017-03-13":
         substitute: true
         name:
           en: Phagwah
+          sv: Holi
       "2018-03-02":
         name:
           en: Phagwah
+          sv: Holi
       "2019-03-21":
         name:
           en: Phagwah
+          sv: Holi
       "2020-03-10":
         name:
           en: Phagwah
+          sv: Holi
       "2021-03-29":
         name:
           en: Phagwah
+          sv: Holi
       "2022-03-18":
         name:
           en: Phagwah
+          sv: Holi
       "2023-03-07":
         name:
           en: Phagwah
+          sv: Holi
       "2024-03-25":
         name:
           en: Phagwah
+          sv: Holi
       # Deepavali Day 5
       # substitute if Sunday then next Monday
       "2015-11-11":
         name:
           en: Deepavali
+          sv: Diwali
       "2017-10-18":
         name:
           en: Deepavali
+          sv: Diwali
       "2018-11-07":
         name:
           en: Deepavali
+          sv: Diwali
       "2019-10-27":
         name:
           en: Deepavali
+          sv: Diwali
       "2019-10-28":
         substitute: true
         name:
           en: Deepavali
+          sv: Diwali
       "2020-11-14":
         name:
           en: Deepavali
+          sv: Diwali
       "2021-11-04":
         name:
           en: Deepavali
+          sv: Diwali
       "2022-10-24":
         name:
           en: Deepavali
+          sv: Diwali
       "2023-11-12":
         name:
           en: Deepavali
+          sv: Diwali
       "2023-11-13":
         substitute: true
         name:
           en: Deepavali
+          sv: Diwali
       "2024-10-31":
         name:
           en: Deepavali
+          sv: Diwali
 
     # states:
     # BA:

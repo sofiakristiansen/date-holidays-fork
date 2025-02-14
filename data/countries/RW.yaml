@@ -4,9 +4,9 @@ holidays:
   RW:
     names:
       en: Rwanda
+      sv: Rwanda
       fr: République du Rwanda
       rw: Repubulika y'u Rwanda
-      sv: Rwanda
     dayoff: sunday
     langs:
       - en
@@ -22,12 +22,14 @@ holidays:
       02-01:
         name:
           en: Heroes Day
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       04-07:
         name:
           fr: Jour de Mémorial du Génocide
           en: Genocide Memorial Day
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       07-01:
@@ -36,6 +38,7 @@ holidays:
         name:
           fr: Jour de la Libération
           en: Liberation Day
+          sv: MANUAL OPERATION REQUIRED
       08-15:
         _name: 08-15
       1st friday in August:
@@ -43,6 +46,7 @@ holidays:
           rw: Umuganura
           fr: Journée nationale de récolte
           en: National Harvest Day
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
       12-26:

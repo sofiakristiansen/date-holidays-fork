@@ -25,11 +25,12 @@ holidays:
         substitute: true
         name:
           en: Birthday of King Mswati III
+          sv: Mswati III
       04-25 and if Saturday, Sunday then next Monday:
         substitute: true
         name:
           en: National Flag Day
-          sv: Nationella flaggans dag
+          sv: Flaggans dag
       05-01 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: 05-01
@@ -39,10 +40,12 @@ holidays:
         substitute: true
         name:
           en: Birthday of the late King Sobhuza
+          sv: MANUAL OPERATION REQUIRED
       1st Monday in September:
         name:
           ss: Umhlanga Reed Dance
           en: Umhlanga Reed Dance
+          sv: Umhlanga
       09-06 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: Independence Day
@@ -57,6 +60,7 @@ holidays:
         name:
           ss: Incwala
           en: Incwala Festival
+          sv: MANUAL OPERATION REQUIRED
 
     # states:
     #   HH:

@@ -27,56 +27,57 @@ holidays:
       05-21:
         name:
           en: Navy Day
+          sv: MANUAL OPERATION REQUIRED
           es: Día de las Glorias Navales
-          sv: Marinens dag
       06-21 since 2021 prior to 2022:
         name:
           en: Indigenous People's Day
+          sv: MANUAL OPERATION REQUIRED
           es: Día de los Pueblos Indígenas
       june solstice in America/Santiago since 2022:
         name:
           en: Indigenous People's Day
+          sv: MANUAL OPERATION REQUIRED
           es: Día de los Pueblos Indígenas
-          sv: Ursprungsfolkets dag
       06-29 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         _name: 06-29
       07-16:
         name:
           en: Our Lady of Mount Carmel
+          sv: Vår Fru av berget Karmel
           es: Virgen del Carmen
-          sv: Jungfrun av Karmel
       08-15:
         _name: 08-15
       "2022-09-16":
         name:
           es: Fiestas Patrias
           en: National Holiday
-          sv: Nationell helgdag
+          sv: MANUAL OPERATION REQUIRED
       09-17 on friday, monday since 2017:
         name:
           en: National holiday
+          sv: MANUAL OPERATION REQUIRED
           es: Feriado Adicional Fiestas Patrias
-          sv: Nationell helgdag
       09-18:
         name:
           en: National holiday
+          sv: MANUAL OPERATION REQUIRED
           es: Fiestas Patrias
-          sv: Nationell helgdag
       09-19:
         name:
           en: Army Day
+          sv: MANUAL OPERATION REQUIRED
           es: Día de las Glorias del Ejército
-          sv: Arméns dag
       09-20 on friday:
         name:
           es: Feriado Adicional Fiestas Patrias
           en: National Holiday
-          sv: Nationell helgdag
+          sv: MANUAL OPERATION REQUIRED
       10-12 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         name:
           en: Columbus Day
-          es: Encuentro de Dos Mundos
           sv: Columbusdagen
+          es: Encuentro de Dos Mundos
       10-31 if wednesday then next friday if tuesday then previous friday:
         _name: Reformation Day
       11-01:
@@ -95,8 +96,8 @@ holidays:
           06-07:
             name:
               en: Battle of Arica
+              sv: MANUAL OPERATION REQUIRED
               es: Asalto y Toma del Morro de Arica
-              sv: Slaget vid Arica
       BI:
         name: Biobío
         regions:
@@ -106,8 +107,8 @@ holidays:
               08-20:
                 name:
                   en: Nativity of Liberator Bernardo O'Higgins
+                  sv: MANUAL OPERATION REQUIRED
                   es: Nacimiento del Prócer de la Independencia
-                  sv: Befriaren Bernardo O'Higgins födelse
                 active:
                   - to: "2017-08-19"
       NU:
@@ -119,8 +120,8 @@ holidays:
               08-20:
                 name:
                   en: Nativity of Liberator Bernardo O'Higgins
+                  sv: MANUAL OPERATION REQUIRED
                   es: Nacimiento del Prócer de la Independencia
-                  sv: Befriaren Bernardo O'Higgins födelse
                 active:
                   - from: "2017-08-19"
       TA:
@@ -129,16 +130,16 @@ holidays:
           08-10:
             name:
               en: Saint Lawrence
-              es: San Lorenzo de Tarapacá
               sv: Sankt Lars
+              es: San Lorenzo de Tarapacá
             type: observance
             disable:
               - 2015
           "2015-08-10":
             name:
               en: Saint Lawrence
-              es: San Lorenzo de Tarapacá
               sv: Sankt Lars
+              es: San Lorenzo de Tarapacá
       # AI:
       #   name: Aysén
       # AN:

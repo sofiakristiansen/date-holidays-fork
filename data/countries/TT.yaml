@@ -24,12 +24,14 @@ holidays:
         substitute: true
         name:
           en: Spiritual Baptist Liberation Day
+          sv: MANUAL OPERATION REQUIRED
       easter 60:
         _name: easter 60
       05-30 and if Sunday then next Monday:
         substitute: true
         name:
           en: Indian Arrival Day
+          sv: MANUAL OPERATION REQUIRED
       06-19 and if Sunday then next Monday:
         substitute: true
         _name: 05-01
@@ -37,7 +39,7 @@ holidays:
         substitute: true
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       08-31 and if Sunday then next Monday:
         substitute: true
         _name: Independence Day

@@ -19,10 +19,12 @@ holidays:
         name:
           el: Καθαρά Δευτέρα
           en: Ash Sunday
+          sv: Askonsdagen
       03-25:
         name:
           el: Ευαγγελισμός, Εθνική Εορτή
           en: Annunciation, Anniversary of 1821 Revolution
+          sv: Grekiska frihetskriget
       orthodox -2:
         _name: easter -2
       orthodox:

@@ -29,7 +29,7 @@ holidays:
           pap: Aña di Rey
           nl: Koningsdag
           en: Kings Day
-          sv: Kungens dag
+          sv: MANUAL OPERATION REQUIRED
       05-01 if sunday then next monday:
         substitute: true
         _name: 05-01
@@ -45,14 +45,14 @@ holidays:
         name:
           nl: Sinterklaasavond
           en: St. Nicholas' Eve
-          sv: Sankt Nikolaus afton
+          sv: Sinterklaas
         type: observance
       12-15:
         name:
           pap: Dia di Reino
           nl: Koninkrijksdag
           en: Kingdom Day
-          sv: Kungarikets dag
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
       12-26:
@@ -65,18 +65,18 @@ holidays:
             _name: easter -48
             name:
               en: Carnival Monday
-              sv: Blåmåndagen karneval
+              sv: MANUAL OPERATION REQUIRED
           04-30:
             name:
               en: Rincon Day
+              sv: MANUAL OPERATION REQUIRED
               pap: Dia di Rincon
-              sv: Rincon's dag
           09-06:
             name:
               nl: Boneiru Dag
               en: Bonaire Day
+              sv: MANUAL OPERATION REQUIRED
               pap: Dia di Boneiru
-              sv: Boneiru's dag
       SA:
         name: Saba
         days:
@@ -84,19 +84,19 @@ holidays:
             _name: easter -48
             name:
               en: Carnival Monday
-              sv: Blåmåndagen karneval
+              sv: MANUAL OPERATION REQUIRED
           1st friday in December:
             name:
               en: Saba Day
-              sv: Saba's dag
+              sv: MANUAL OPERATION REQUIRED
       SE:
         name: Sint Eustatius
         days:
           08-01:
             name:
               en: Emancipation Day
-              sv: Emancipationsdagen
+              sv: MANUAL OPERATION REQUIRED
           11-16:
             name:
               en: Statia Day
-              sv: Statia's dag
+              sv: MANUAL OPERATION REQUIRED

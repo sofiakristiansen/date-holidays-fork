@@ -19,7 +19,7 @@ holidays:
         name:
           fr: Soulèvement populaire
           en: Anniversary of the 1966 Upper Voltan coup d'état
-          sv: Årsdagen för 1966 Övre Volta statskupp
+          sv: MANUAL OPERATION REQUIRED
       03-08:
         _name: 03-08
       easter:
@@ -42,7 +42,7 @@ holidays:
         name:
           fr: Fête nationale
           en: Proclamation of the Republic
-          sv: Nationaldag
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
       12 Rabi al-awwal:

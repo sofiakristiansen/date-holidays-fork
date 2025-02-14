@@ -34,24 +34,27 @@ holidays:
       06-11:
         name:
           en: Pupil's Day
+          sv: MANUAL OPERATION REQUIRED
           es: Día del Estudiante
         type: observance
       09-10:
         name:
           en: Children's Day
+          sv: Internationella barndagen
           es: Día del Niño
-          sv: Barnens dag
         type: observance
       09-15:
         _name: Independence Day
       09-17:
         name:
           en: Teacher's Day
+          sv: MANUAL OPERATION REQUIRED
           es: Día del Maestro
         type: observance
       10-03:
         name:
           en: Soldier's Day
+          sv: MANUAL OPERATION REQUIRED
           es: Día del Soldado
       10-12:
         name:
@@ -62,6 +65,6 @@ holidays:
         name:
           es: Día de las Fuerzas Armadas
           en: Armed forces Day
-          sv: Försvarsmaktens dag
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25

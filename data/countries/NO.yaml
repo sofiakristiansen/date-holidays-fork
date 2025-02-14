@@ -24,11 +24,13 @@ holidays:
         name:
           no: H.K.H. prinsesse Ingrid Alexandra
           en: Birthday of Princess Ingrid Alexandra
+          sv: Ingrid Alexandra av Norge
         type: observance
       02-06:
         name:
           no: Samefolkets dag
           en: Day of the Sami people
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       2nd sunday in February:
         _name: Mothers Day
@@ -40,11 +42,13 @@ holidays:
         name:
           no: H.M. kong Harald V
           en: Birthday of King Harald V
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       easter -49:
         name:
           no: Fastelavn
           en: Carnival
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       easter -46:
         _name: easter -46
@@ -83,36 +87,43 @@ holidays:
         name:
           no: Unionsoppløsningen
           en: Union Dissolution Day
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       06-23:
         name:
           no: Sankthansaften
           en: Midsummar Eve
+          sv: Midsommarafton
         type: observance
       07-04:
         name:
           no: H.M. dronning Sonja
           en: Birthday of Queen Sonja
+          sv: Drottning Sonja av Norge
         type: observance
       07-20:
         name:
           no: H.K.H. kronprins Haakon Magnus
           en: Birthday of Crown Prince Haakon Magnus
+          sv: Haakon av Norge
         type: observance
       07-29:
         name:
           no: Olsok
           en: Olsok
+          sv: Olofsmässa
         type: optional
       08-19:
         name:
           no: H.K.H. kronprinsesse Mette-Marit
           en: Birthday of Crown Princess Mette-Marit
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       1st sunday in November:
         name:
           no: Allehelgensaften
           en: All Saints' Day
+          sv: Alla helgons dag
         type: observance
       2nd sunday in November:
         _name: Fathers Day
@@ -121,21 +132,25 @@ holidays:
         name:
           no: Første søndag i advent
           en: First Sunday of Advent
+          sv: Första söndagen i advent
         type: observance
       3rd sunday before 12-25:
         name:
           no: Andre søndag i advent
           en: Second Sunday of Advent
+          sv: Advent
         type: observance
       2nd sunday before 12-25:
         name:
           no: Tredje søndag i advent
           en: Third Sunday of Advent
+          sv: Första söndagen i advent
         type: observance
       1st sunday before 12-25:
         name:
           no: Fjerde søndag i advent
           en: Fourth Sunday of Advent
+          sv: Advent
         type: observance
       12-24:
         _name: 12-24

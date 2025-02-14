@@ -4,7 +4,7 @@ holidays:
     names:
       fr: République démocratique du Congo
       en: Democratic Republic of the Congo
-      sv: Demokratiska republiken Kongo
+      sv: Kongo-Kinshasa
     dayoff: sunday
     langs:
       - fr
@@ -20,19 +20,19 @@ holidays:
         name:
           fr: Martyrs de l'Indépendance
           en: Day of the Martyrs
-          sv: Martyrernas dag
+          sv: MANUAL OPERATION REQUIRED
       01-16 and if sunday then next tuesday:
         substitute: true
         name:
           fr: Journée du Héro National Laurent Désiré Kabila
           en: Anniversary of President Laurent Kabila
-          sv: Årsdag för president Laurent Désiré Kabila
+          sv: MANUAL OPERATION REQUIRED
       01-17 and if sunday then next monday:
         substitute: true
         name:
           fr: Journée du Héro National Patrice Emery Lumumba
           en: Anniversary of Prime Minister Patrice Emery Lumumba
-          sv: Årsdag för premiärminister Patrice Emery Lumumba
+          sv: Patrice Lumumba
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
@@ -41,19 +41,19 @@ holidays:
         name:
           fr: Journée de la Révolution et des Forces Armées
           en: Liberation Day
-          sv: Liberation Day
+          sv: MANUAL OPERATION REQUIRED
       06-30 and if sunday then next monday:
         substitute: true
         _name: Independence Day
         name:
           fr: Anniversaire de Indépendance
-          sv: Årsdag för självständighet
+          sv: MANUAL OPERATION REQUIRED
       08-01 and if sunday then next monday:
         substitute: true
         name:
           fr: Fête des parents
           en: Parents' Day
-          sv: Föräldrarnas dag
+          sv: MANUAL OPERATION REQUIRED
       12-25 and if sunday then next monday:
         substitute: true
         _name: 12-25

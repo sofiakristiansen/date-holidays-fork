@@ -15,6 +15,7 @@ holidays:
       01-02:
         name:
           en: Second New Year's Day
+          sv: MANUAL OPERATION REQUIRED
       02-22:
         _name: Independence Day
       easter -2:
@@ -33,17 +34,19 @@ holidays:
       1st Friday after 07-10 P4D:
         name:
           en: Carnival
+          sv: Karneval
       08-01:
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       1st Monday in October:
         name:
           en: Thanksgiving
+          sv: Thanksgiving
       12-13:
         name:
           en: National Day
-          sv: Nationaldagen
+          sv: Nationaldag
       12-25:
         _name: 12-25
       12-26:

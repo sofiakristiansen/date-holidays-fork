@@ -30,13 +30,13 @@ holidays:
       07-25:
         name:
           en: Guanacaste Day
-          es: Anexión del Partido de Nicoya
           sv: Guanacastedagen
+          es: Anexión del Partido de Nicoya
       08-02:
         name:
           en: Our Lady of Los Ángeles
+          sv: MANUAL OPERATION REQUIRED
           es: Día de la Virgen de los Ángeles
-          sv: Jungfrun av änglarnas dag
       08-15:
         _name: Mothers Day
       09-15:
@@ -44,8 +44,8 @@ holidays:
       10-12 if monday then previous friday:
         name:
           en: Columbus Day
-          es: Día de la Raza
           sv: Columbusdagen
+          es: Día de la Raza
       12-25:
         _name: 12-25
     # states:

@@ -28,20 +28,24 @@ holidays:
         name:
           sw: Siku ya Madaraka
           en: Madaraka Day
+          sv: MANUAL OPERATION REQUIRED
       10-10 and if sunday then next monday:
         substitute: true
         name:
           en: Moi Day
+          sv: MANUAL OPERATION REQUIRED
       10-20 and if sunday then next monday:
         substitute: true
         name:
           sw: Siku ya Mashujaa
           en: Mashujaa Day
+          sv: MANUAL OPERATION REQUIRED
       12-12 and if sunday then next monday:
         substitute: true
         name:
           sw: Siku ya Jamhuri
           en: Jamhuri Day
+          sv: Jamhuridagen
       12-25 and if sunday then next tuesday:
         substitute: true
         _name: 12-25

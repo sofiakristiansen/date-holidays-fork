@@ -6,7 +6,7 @@ holidays:
     names:
       fr: St. Barthélemy
       en: St. Barths
-      sv: St. Barthélemy
+      sv: Saint-Barthélemy
     langs:
       - fr
     zones:
@@ -38,7 +38,7 @@ holidays:
         name:
           fr: Fête de Saint Barthélemy
           en: Saint Barth
-          sv: Saint Barthélemy Festivalen
+          sv: Saint-Barthélemy
         type: observance
       10-09:
         _name: Abolition of Slavery

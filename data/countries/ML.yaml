@@ -21,11 +21,12 @@ holidays:
         name:
           fr: Fête de l'armée
           en: Army Day
-          sv: Arméns dag
+          sv: MANUAL OPERATION REQUIRED
       03-26:
         name:
           fr: Journée des Martyrs
           en: Martyrs' Day
+          sv: MANUAL OPERATION REQUIRED
       easter 1:
         _name: easter 1
       05-01:

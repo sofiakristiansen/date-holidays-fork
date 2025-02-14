@@ -15,14 +15,17 @@ holidays:
       01-01:
         name:
           en: Solemnity of Mary, Mother of God
+          sv: Maria, Guds moders högtid
           it: Maria Santissima Madre di Dio
       01-06:
         name:
           en: Epiphany
+          sv: Epiphany
           it: Epifania del Signore
       02-11:
         name:
           en: Anniversary of the foundation of Vatican City
+          sv: Vatikanstaten och eurosamarbetet
           it: Anniversario della istituzione dello Stato della Città del Vaticano
       03-19:
         _name: 03-19
@@ -40,6 +43,7 @@ holidays:
         _name: 05-01
         name:
           en: Saint Joseph the Worker
+          sv: Josef från Nasaret
           it: San Giuseppe lavoratore
       06-29:
         _name: 06-29
@@ -50,6 +54,7 @@ holidays:
       09-08:
         name:
           en: Nativity of Mary
+          sv: Jungfru Marie födelse
           it: Festa della natività della madonna
       11-01:
         _name: 11-01
@@ -63,6 +68,7 @@ holidays:
       10-16:
         name:
           en: Anniversary of the election of Pope John Paul II
+          sv: MANUAL OPERATION REQUIRED
           it: Anniversario dell'Elezione del Santo Padre
         active:
           - from: 1978
@@ -70,6 +76,7 @@ holidays:
       11-04:
         name:
           en: Saint Charles Borromeo - Name day of the Holy Father
+          sv: Carlo Borromeo
           it: San Carlo Borromeo - Onomastico del Santo Padre
         note: Name day of Pope John Paul II (Karol Józef Wojtyła)
         active:
@@ -79,6 +86,7 @@ holidays:
       04-19:
         name:
           en: Anniversary of the election of Pope Benedict XVI
+          sv: Benedictus XVI
           it: Anniversario dell'Elezione del Santo Padre
         active:
           - from: 2005
@@ -86,6 +94,7 @@ holidays:
       "03-19#1":
         name:
           en: Saint Joseph - Name day of the Holy Father
+          sv: MANUAL OPERATION REQUIRED
           it: San Giuseppe - Onomastico del Santo Padre
         note: Name day of Pope Benedict XVI (Josef Ratzinger)
         active:
@@ -95,12 +104,14 @@ holidays:
       03-13:
         name:
           en: Anniversary of the election of Pope Francis
+          sv: Franciskus (påve)
           it: Anniversario dell'Elezione del Santo Padre
         active:
           - from: 2013
       04-23:
         name:
           en: Saint George - Name day of the Holy Father
+          sv: Sankt Göran
           it: San Giorgio - Onomastico del Santo Padre
         note: Name day of Pope Francis (Jorge Mario Bergoglio)
         active:

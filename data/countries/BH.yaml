@@ -21,12 +21,12 @@ holidays:
         name:
           ar: اليوم الوطني
           en: National Day
-          sv: Nationaldagen
+          sv: Nationaldag
       12-17:
         name:
           ar: يوم الجلوس
           en: Accession Day
-          sv: Kungens tillträdesdag
+          sv: MANUAL OPERATION REQUIRED
       1 Muharram:
         _name: 1 Muharram
       10 Muharram:

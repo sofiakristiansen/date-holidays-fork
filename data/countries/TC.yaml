@@ -15,6 +15,7 @@ holidays:
       2nd Monday in March:
         name:
           en: Commonwealth Day
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       easter:
@@ -25,27 +26,27 @@ holidays:
       1st Monday before 06-01:
         name:
           en: National Heroes' Day
-          sv: Dag för firande av nationella hjältar
+          sv: MANUAL OPERATION REQUIRED
       2nd Monday after 06-02:
         name:
           en: Queen's Birthday
-          sv: Drottningens födelsedag
+          sv: Kungens officiella födelsedag
       1st Monday in August:
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       1st Friday before 10-01:
         name:
           en: National Youth Day
-          sv: Nationella ungas dag
+          sv: MANUAL OPERATION REQUIRED
       2nd Monday in October:
         name:
           en: National Heritage Day
-          sv: Nationell kulturarvsdag
+          sv: MANUAL OPERATION REQUIRED
       4th Friday in November:
         name:
           en: National Day of Thanksgiving
-          sv: Nationella tacksägelsedagen
+          sv: Thanksgiving
       12-25 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-25

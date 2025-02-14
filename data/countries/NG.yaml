@@ -18,28 +18,32 @@ holidays:
         _name: 05-01
         name:
           en: Worker's Day
+          sv: Första maj
       05-27:
         name:
           en: Children's Day
-          sv: Barnens dag
+          sv: Internationella barndagen
           type: school
       05-29 prior to 2018:
         name:
           en: Democracy Day
+          sv: MANUAL OPERATION REQUIRED
       06-12 prior to 2018:
         name:
           en: M.K.O Abiola Day
+          sv: Moshood Abiola
       06-12 and if Saturday then next Monday since 2018:
         substitute: true
         name:
           en: Democracy Day
+          sv: MANUAL OPERATION REQUIRED
       10-01:
         _name: Independence Day
       11-01 since 2020:
         # @source: https://allafrica.com/stories/202009030012.html
         name:
           en: National Youth Day
-          sv: Nationella ungas dag
+          sv: MANUAL OPERATION REQUIRED
       12-31:
         _name: 12-31
         type: observance
@@ -62,10 +66,12 @@ holidays:
         _name: 1 Shawwal
         name:
           en: Id el Fitr
+          sv: Id al-fitr
       10 Dhu al-Hijjah P2D:
         _name: 10 Dhu al-Hijjah
         name:
           en: Id el Kabir
+          sv: Id al-adha
     # states:
     #   AB:
     #     name: Abia

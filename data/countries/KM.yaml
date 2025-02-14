@@ -26,6 +26,7 @@ holidays:
         name:
           fr: Journée de Cheikh Al Maarouf
           en: Cheikh Al Maarouf Day
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       07-06:
@@ -34,6 +35,7 @@ holidays:
         name:
           fr: Journée Maoré
           en: Maore Day
+          sv: MANUAL OPERATION REQUIRED
       1 Muharram:
         _name: 1 Muharram
       12 Rabi al-awwal:

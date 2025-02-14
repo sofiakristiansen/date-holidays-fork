@@ -20,6 +20,7 @@ holidays:
         substitute: true
         name:
           en: Martyrs' Day
+          sv: MANUAL OPERATION REQUIRED
           es: Día de los Mártires Caídos en la Gesta Patriótica
       easter -48:
         _name: easter -48
@@ -34,10 +35,12 @@ holidays:
       07-01 every 5 years since 2014:
         name:
           en: Presidential Inauguration
+          sv: Installation av USA:s president
       11-03 and if sunday then next monday:
         substitute: true
         name:
           en: Separation Day (from Columbia)
+          sv: MANUAL OPERATION REQUIRED
           es: Día de la Separación (de Colombia)
       11-10 and if sunday then next monday:
         substitute: true

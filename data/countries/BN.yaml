@@ -19,25 +19,25 @@ holidays:
       02-23:
         name:
           en: National Day
+          sv: Nationaldag
           ms: Hari Kebangsaan
-          sv: Nationaldagen
       03-31:
         name:
           en: Armed Forces Day
+          sv: MANUAL OPERATION REQUIRED
           ms: Hari Angkatan Bersenjata Diraja Brunei
-          sv: Försvarsmaktens dag
       07-15:
         name:
           en: Sultan's Birthday
+          sv: MANUAL OPERATION REQUIRED
           ms: Hari Keputeraan KDYMM Sultan Brunei
-          sv: Sultanens födelsedag
       1 Ramadan:
         _name: 1 Ramadan
       17 Ramadan:
         name:
           en: Nuzul Al-Quran
+          sv: Mab'ath
           ms: Hari Nuzul Al-Quran
-          sv: Nuzul Al-Quran
       1 Shawwal P3D:
         _name: 1 Shawwal
       10 Dhu al-Hijjah:
@@ -53,8 +53,8 @@ holidays:
       chinese 01-0-01:
         name:
           en: Chinese New Year
-          ms: Tahun Baru Cina
           sv: Kinesiskt nyår
+          ms: Tahun Baru Cina
     # states:
     # BE:
     #   name: Belait

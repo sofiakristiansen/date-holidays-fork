@@ -33,6 +33,7 @@ holidays:
       05-25:
         name:
           en: Africa Day
+          sv: MANUAL OPERATION REQUIRED
       2nd sunday in May:
         _name: Mothers Day
         type: observance
@@ -42,12 +43,15 @@ holidays:
       2nd monday in August:
         name:
           en: Heroes' Day
+          sv: MANUAL OPERATION REQUIRED
       2nd tuesday in August:
         name:
           en: Defence Forces Day
+          sv: MANUAL OPERATION REQUIRED
       12-22:
         name:
           en: Unity Day
+          sv: Tag der Deutschen Einheit
       12-25:
         _name: 12-25
       12-26:

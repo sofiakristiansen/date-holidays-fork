@@ -4,8 +4,8 @@ holidays:
   CN:
     names:
       en: China
-      zh: 中华人民共和国
       sv: Kina
+      zh: 中华人民共和国
     dayoff: sunday
     langs:
       - zh
@@ -24,59 +24,65 @@ holidays:
       05-04 12:00:
         name:
           en: Youth Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 青年节
-          sv: Ungas dag
         note: Youth from the age of 14 to 28
       06-01:
         name:
           en: Children's Day
+          sv: Internationella barndagen
           zh: 六一儿童节
-          sv: Barnens dag
         note: Children below the age of 14
       08-01 12:00:
         name:
           en: Army Day
+          sv: MANUAL OPERATION REQUIRED
           zh: 建军节
-          sv: Arméns dag
         note: Military personnel in active service
       10-01:
         name:
           en: National Day
+          sv: Nationaldag
           zh: 国庆节
-          sv: Nationaldagen
       10-02:
         name:
           en: National Day
+          sv: Nationaldag
           zh: 国庆节
-          sv: Nationaldagen
       10-03:
         name:
           en: National Day
+          sv: Nationaldag
           zh: 国庆节
-          sv: Nationaldagen
       chinese 01-0-00: # Spring Festival Eve
         name:
           en: Spring Festival
+          sv: MANUAL OPERATION REQUIRED
           zh: 春节
       chinese 01-0-01: # 1st day of 1st lunar month
         name:
           en: Spring Festival
+          sv: MANUAL OPERATION REQUIRED
           zh: 春节
       chinese 01-0-02:
         name:
           en: Spring Festival
+          sv: MANUAL OPERATION REQUIRED
           zh: 春节
       chinese 5-01 solarterm: # Tomb-Sweeping Day
         name:
           en: Qingming Festival
+          sv: Qingmingfesten
           zh: 清明节 清明節
       chinese 05-0-05: # 5th day of 5th lunar month
         name:
           en: Dragon Boat Festival
+          sv: Drakbåtsfesten
           zh: 端午节
       chinese 08-0-15: # 15th day of 8th lunar month
         name:
           en: Mid-Autumn Festival
+          sv: Månfesten
           zh: 中秋节
       "2021-01-02":
         _name: 01-01
@@ -85,27 +91,33 @@ holidays:
       "2021-02-14":
         name:
           en: Spring Festival
+          sv: MANUAL OPERATION REQUIRED
           zh: 春节
         note: Work on Sun February 7 and Sat February 20.
       "2021-02-15":
         name:
           en: Spring Festival
+          sv: MANUAL OPERATION REQUIRED
           zh: 春节
       "2021-02-16":
         name:
           en: Spring Festival
+          sv: MANUAL OPERATION REQUIRED
           zh: 春节
       "2021-02-17":
         name:
           en: Spring Festival
+          sv: MANUAL OPERATION REQUIRED
           zh: 春节
       "2021-04-03":
         name:
           en: Qingming Festival
+          sv: Qingmingfesten
           zh: 清明节 清明節
       "2021-04-05":
         name:
           en: Qingming Festival
+          sv: Qingmingfesten
           zh: 清明节 清明節
       "2021-05-02":
         _name: 05-01
@@ -119,41 +131,45 @@ holidays:
       "2021-06-12":
         name:
           en: Dragon Boat Festival
+          sv: Drakbåtsfesten
           zh: 端午节
       "2021-06-13":
         name:
           en: Dragon Boat Festival
+          sv: Drakbåtsfesten
           zh: 端午节
       "2021-09-19":
         name:
           en: Mid-Autumn Festival
+          sv: Månfesten
           zh: 中秋节
         note: Work on Sat September 18.
       "2021-09-20":
         name:
           en: Mid-Autumn Festival
+          sv: Månfesten
           zh: 中秋节
       "2021-10-04":
         name:
           en: National Day
+          sv: Nationaldag
           zh: 国庆节
-          sv: Nationaldagen
         note: Work on Sun September 26 and Sat October 9.
       "2021-10-05":
         name:
           en: National Day
+          sv: Nationaldag
           zh: 国庆节
-          sv: Nationaldagen
       "2021-10-06":
         name:
           en: National Day
+          sv: Nationaldag
           zh: 国庆节
-          sv: Nationaldagen
       "2021-10-07":
         name:
           en: National Day
+          sv: Nationaldag
           zh: 国庆节
-          sv: Nationaldagen
 
     # states:
     # '11':

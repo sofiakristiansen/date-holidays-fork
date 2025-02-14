@@ -21,6 +21,7 @@ holidays:
         name:
           ti: ፈንቅል
           en: Fenkil Day
+          sv: MANUAL OPERATION REQUIRED
       03-08:
         _name: 03-08
       orthodox -2:
@@ -34,23 +35,28 @@ holidays:
       06-20:
         name:
           en: Martyrs' Day
+          sv: MANUAL OPERATION REQUIRED
           ti: መዓልቲ ስውኣት
       09-01:
         _name: Revolution Day
       09-11 in non-leap years:
         name:
           en: Geez New Year
+          sv: Ge'ez
           ti: ግዕዝ አዲስ ዓመት
       09-12 in leap years:
         name:
           en: Geez New Year
+          sv: Ge'ez
           ti: ግዕዝ አዲስ ዓመት
       09-27 in non-leap years:
         name:
           en: Meskel
+          sv: MANUAL OPERATION REQUIRED
       09-28 in leap years:
         name:
           en: Meskel
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
       12 Rabi al-awwal:

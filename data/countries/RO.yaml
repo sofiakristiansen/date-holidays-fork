@@ -19,6 +19,7 @@ holidays:
         name:
           ro: Ziua Unirii
           en: Unification Day
+          sv: MANUAL OPERATION REQUIRED
       03-08:
         name:
           ro: Ziua Mamei
@@ -45,7 +46,7 @@ holidays:
         name:
           ro: Ziua Copilului
           en: Children's Day
-          sv: Barnens dag
+          sv: Internationella barndagen
       06-26:
         name:
           ro: Ziua drapelului national
@@ -56,6 +57,7 @@ holidays:
         name:
           ro: Ziua Imnului național
           en: National Anthem Day
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       08-15:
         _name: 08-15
@@ -63,10 +65,12 @@ holidays:
         name:
           ro: Sfântul Andrei
           en: St Andrew's Day
+          sv: MANUAL OPERATION REQUIRED
       12-01:
         name:
           ro: Ziua națională, Ziua Marii Uniri
           en: National holiday
+          sv: MANUAL OPERATION REQUIRED
       12-08:
         _name: Constitution Day
         type: observance

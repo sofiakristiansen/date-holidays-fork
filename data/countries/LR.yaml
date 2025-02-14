@@ -15,19 +15,23 @@ holidays:
       02-11:
         name:
           en: Armed Forces Day
-          sv: Försvarsmaktens dag
+          sv: MANUAL OPERATION REQUIRED
       2nd Wednesday in March:
         name:
           en: Decoration Day
+          sv: Memorial Day
       03-15:
         name:
           en: J. J. Robert's Day
+          sv: Robert Oppenheimer
       2nd Friday in April:
         name:
           en: Fast and Prayer Day
+          sv: MANUAL OPERATION REQUIRED
       05-14:
         name:
           en: National Unification Day
+          sv: MANUAL OPERATION REQUIRED
       07-26:
         _name: Independence Day
       08-24:
@@ -37,9 +41,11 @@ holidays:
       1st Thursday in November:
         name:
           en: Thanksgiving
+          sv: Thanksgiving
       11-29:
         name:
           en: William Tubman's Birthday
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
     # states:

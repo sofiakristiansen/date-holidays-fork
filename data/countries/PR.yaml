@@ -19,38 +19,46 @@ holidays:
         name:
           es: Natalicio de Eugenio María de Hostos
           en: Birthday of Eugenio María de Hostos
+          sv: MANUAL OPERATION REQUIRED
       02-18:
         name:
           es: Natalicio de Luis Muñoz Marín
           en: Birthday of Luis Muñoz Marín
+          sv: MANUAL OPERATION REQUIRED
       03-02 since 2017:
         name:
           es: Día de la Ciudadanía Americana
           en: American Citizenship Day
+          sv: MANUAL OPERATION REQUIRED
       # Saint Patrick's Day is not observed
       03-17: false
       03-22:
         name:
           es: Día de la Abolición de Esclavitud
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       04-16:
         name:
           es: Natalicio de José de Diego
           en: Birthday of José de Diego
+          sv: MANUAL OPERATION REQUIRED
       3rd Monday in July:
         name:
           es: Natalicio de Don Luis Muñoz Rivera
           en: Birthday of Don Luis Muñoz Rivera
+          sv: MANUAL OPERATION REQUIRED
       07-25:
         name:
           es: Constitución de Puerto Rico
           en: Puerto Rico Constitution Day
+          sv: MANUAL OPERATION REQUIRED
       07-27:
         name:
           es: Natalicio de Dr. José Celso Barbosa
           en: Birthday of Dr. José Celso Barbosa
+          sv: MANUAL OPERATION REQUIRED
       11-19:
         name:
           es: Día del Descubrimiento de Puerto Rico
           en: Discovery of Puerto Rico
+          sv: MANUAL OPERATION REQUIRED

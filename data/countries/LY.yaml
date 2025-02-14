@@ -19,6 +19,7 @@ holidays:
         name:
           ar: يوم الشهداء
           en: Martyrs' Day
+          sv: MANUAL OPERATION REQUIRED
       10-23:
         _name: Liberation Day
       12-24:

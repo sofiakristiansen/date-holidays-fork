@@ -21,10 +21,12 @@ holidays:
         name:
           sr: Дан државности Србије
           en: Statehood Day
+          sv: MANUAL OPERATION REQUIRED
       02-16 if sunday then next monday:
         name:
           sr: Дан државности Србије
           en: Statehood Day
+          sv: MANUAL OPERATION REQUIRED
       orthodox -2:
         _name: orthodox -2
       orthodox:
@@ -39,6 +41,7 @@ holidays:
         name:
           sr: Дан примирја
           en: Armistice Day
+          sv: MANUAL OPERATION REQUIRED
 
       easter -2:
         _name: easter -2
@@ -75,27 +78,31 @@ holidays:
         name:
           sr: Свети Сава
           en: Saint Sava Day
+          sv: Sankt Sava
         type: observance
       04-22:
         name:
           sr: Дан сећања на жртве холокауста
           en: Holocaust Remembrance Day
+          sv: Förintelsens minnesdag
         type: observance
       05-09:
         name:
           sr: Дан победе
           en: Victory Day
-          sv: Segerdagen
+          sv: Segerdagen 1945
         type: observance
       julian 06-15:
         name:
           sr: Видовдан
           en: Saint Vitus Day
+          sv: Vitus
         type: observance
       10-21:
         name:
           sr: Дан сећања на српске жртве у Другом светском рату
           en: World War II Serbian Victims Remembrance Day
+          sv: Stilleståndsdagen
         type: observance
     # states:
     # '10':

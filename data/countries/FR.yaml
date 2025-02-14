@@ -36,6 +36,7 @@ holidays:
         name:
           fr: Fête Nationale de la France
           en: Bastille Day
+          sv: Frankrikes nationaldag
       08-15:
         _name: 08-15
       11-01:
@@ -44,6 +45,7 @@ holidays:
         name:
           fr: Armistice 1918
           en: Armistice Day
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
     states:

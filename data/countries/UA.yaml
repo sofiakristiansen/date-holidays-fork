@@ -18,11 +18,13 @@ holidays:
         _name: 01-01
         name:
           en: New Year
+          sv: Nyår
         substitute: true
       01-02 and if saturday, sunday then next monday:
         _name: 01-01
         name:
           en: New Year
+          sv: Nyår
         substitute: true
       julian 12-25 and if saturday, sunday then next monday prior to 2023:
         _name: julian 12-25
@@ -43,7 +45,7 @@ holidays:
         name:
           uk: День перемоги над нацизмом у Другій світовій війні
           en: Victory Day
-          sv: Segerdagen
+          sv: Segerdagen 1945
         substitute: true
       06-28 and if saturday, sunday then next monday:
         _name: Constitution Day
@@ -51,10 +53,12 @@ holidays:
       07-15 and if saturday, sunday then next monday since 2023:
         name:
           en: Statehood Day
+          sv: MANUAL OPERATION REQUIRED
           uk: День Української Державності
       07-28 and if saturday, sunday then next monday prior to 2023:
         name:
           en: Statehood Day
+          sv: MANUAL OPERATION REQUIRED
           uk: День Української Державності
       08-24 and if saturday, sunday then next monday:
         _name: Independence Day
@@ -63,11 +67,13 @@ holidays:
         name:
           uk: День захисника України
           en: Defenders of Ukraine Day
+          sv: Dagen för Ukrainas försvarare
         substitute: true
       10-01 and if saturday, sunday then next monday since 2023:
         name:
           uk: День захисників і захисниць України
           en: Defenders of Ukraine Day
+          sv: Dagen för Ukrainas försvarare
         substitute: true
       12-25 and if saturday, sunday then next monday since 2017:
         _name: 12-25

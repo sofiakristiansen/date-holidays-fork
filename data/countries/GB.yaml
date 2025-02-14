@@ -31,6 +31,7 @@ holidays:
       1st monday in May:
         name:
           en: Early May bank holiday
+          sv: MANUAL OPERATION REQUIRED
         disable:
           - "2020-05-04"
       # applies to GG, JE, IM as well
@@ -39,6 +40,7 @@ holidays:
       1st monday before 06-01:
         name:
           en: Spring bank holiday
+          sv: Bankfridag
         disable:
           - "2022-05-30" # was moved to 2022-06-02
         enable:
@@ -56,22 +58,27 @@ holidays:
       "2012-06-05":
         name:
           en: Queen’s Diamond Jubilee
+          sv: MANUAL OPERATION REQUIRED
       "2020-05-08":
         name:
           en: Early May bank holiday (VE day)
+          sv: Bankfridag
       # @source https://www.gov.uk/government/news/extra-bank-holiday-to-mark-the-queens-platinum-jubilee-in-2022
       "2022-06-03":
         name:
           en: Queen’s Platinum Jubilee
+          sv: MANUAL OPERATION REQUIRED
       # @source https://www.gov.uk/government/news/bank-holiday-announced-for-her-majesty-queen-elizabeth-iis-state-funeral-on-monday-19-september
       # @source https://gov.gg/monarch
       "2022-09-19":
         name:
           en: Queen Elizabeth's Funeral Day
+          sv: Elizabeth II:s död och begravning
       # @source https://www.gov.uk/government/news/bank-holiday-proclaimed-in-honour-of-the-coronation-of-his-majesty-king-charles-iii
       "2023-05-08":
         name:
           en: King Charles III's Coronation
+          sv: Kröningen av Charles III
       3rd sunday in June:
         _name: Fathers Day
         type: observance
@@ -84,12 +91,14 @@ holidays:
           12-15:
             name:
               en: Homecoming Day
+              sv: Hemvändardag
       ENG:
         name: England
         days:
           1st monday before 09-01:
             name:
               en: Summer bank holiday
+              sv: MANUAL OPERATION REQUIRED
         # regions:
         # BAS:
         #   name: Bath and North East Somerset
@@ -403,28 +412,35 @@ holidays:
           03-17:
             name:
               en: "St Patrick's Day"
+              sv: Saint Patrick’s Day
           substitutes 03-17 if saturday then next monday:
             substitute: true
             name:
               en: "St Patrick's Day"
+              sv: Saint Patrick’s Day
           substitutes 03-17 if sunday then next monday:
             substitute: true
             name:
               en: "St Patrick's Day"
+              sv: Saint Patrick’s Day
           07-12:
             name:
               en: "Battle of the Boyne, Orangemen’s Day"
+              sv: MANUAL OPERATION REQUIRED
           substitutes 07-12 if saturday then next monday:
             substitute: true
             name:
               en: Battle of the Boyne
+              sv: Slaget vid Boyne
           substitutes 07-12 if sunday then next monday:
             substitute: true
             name:
               en: Battle of the Boyne
+              sv: Slaget vid Boyne
           1st monday before 09-01:
             name:
               en: Summer bank holiday
+              sv: MANUAL OPERATION REQUIRED
         # regions:
         # ABC:
         #   name: 'Armagh, Banbridge and Craigavon'
@@ -462,22 +478,27 @@ holidays:
           01-02:
             name:
               en: January 2nd
+              sv: 2 januari
           substitutes 01-02 if saturday then next monday:
             substitute: true
             name:
               en: January 2nd
+              sv: 2 januari
           substitutes 01-02 if sunday then next monday:
             substitute: true
             name:
               en: January 2nd
+              sv: 2 januari
           easter 1:
             _name: easter 1
           1st monday in August:
             name:
               en: Summer bank holiday
+              sv: MANUAL OPERATION REQUIRED
           11-30:
             name:
               en: St Andrew’s Day
+              sv: MANUAL OPERATION REQUIRED
         # regions:
         # ABD:
         #   name: Aberdeenshire
@@ -549,6 +570,7 @@ holidays:
           1st monday before 09-01:
             name:
               en: Summer bank holiday
+              sv: MANUAL OPERATION REQUIRED
         regions: {}
         # AGY:
         #   name: Anglesey

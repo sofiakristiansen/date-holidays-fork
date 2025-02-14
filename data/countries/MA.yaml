@@ -26,6 +26,7 @@ holidays:
           fr: Manifeste de l'indépendance
           ar: "ذكرى تقديم وثيقة الاستقلال"
           en: Anniversary of the Independence Manifesto
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       07-30:
@@ -33,27 +34,31 @@ holidays:
           fr: Fête du trône
           ar: "عيد العرش"
           en: Feast of the Throne
+          sv: MANUAL OPERATION REQUIRED
       08-14:
         name:
           fr: Journée de Oued Ed-Dahab
           ar: "يوم وادي الذهب"
           en: Anniversary of the Recovery Oued Ed-Dahab
+          sv: MANUAL OPERATION REQUIRED
       08-20:
         name:
           fr: Fête de la révolution du roi et du peuple
           ar: "ثورة الملك والشعب"
           en: Anniversary of the Revolution of the King and the People
+          sv: MANUAL OPERATION REQUIRED
       08-21:
         name:
           fr: Journée de la jeunesse
           ar: "عيد الشباب"
           en: Youth Day
-          sv: Ungas dag
+          sv: MANUAL OPERATION REQUIRED
       11-06:
         name:
           fr: La Marche verte
           ar: "المسيرة الخضراء"
           en: Anniversary of the Green March
+          sv: MANUAL OPERATION REQUIRED
       11-18:
         _name: Independence Day
         name:

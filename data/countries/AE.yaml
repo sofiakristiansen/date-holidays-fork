@@ -3,8 +3,8 @@ holidays:
   AE:
     names:
       en: United Arab Emirates
-      ar: "دولة الإمارات العربية المتحدة"
       sv: Förenade arabemiraten
+      ar: "دولة الإمارات العربية المتحدة"
     langs:
       - ar
     zones:
@@ -18,8 +18,8 @@ holidays:
       12-02:
         name:
           en: National Day
+          sv: Nationaldag
           ar: اليوم الوطني
-          sv: Nationaldagen
       1 Muharram:
         _name: 1 Muharram
       1 Shawwal P3D:

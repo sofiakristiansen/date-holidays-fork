@@ -29,23 +29,26 @@ holidays:
         name:
           ro: Paştele Blăjinilor
           en: Memorial Day
+          sv: Memorial Day
       05-01:
         _name: 05-01
       05-09:
         name:
           ro: Ziua Victoriei
           en: Victory Day
-          sv: Segerdagen
+          sv: Segerdagen 1945
       08-27:
         _name: Independence Day
       08-31:
         name:
           ro: Limba noastră
           en: National Language Day
+          sv: MANUAL OPERATION REQUIRED
       1st saturday in October P2D:
         name:
           ro: Ziua vinului
           en: Wine Day
+          sv: MANUAL OPERATION REQUIRED
         type: observance
         active:
           - from: 2013
@@ -72,6 +75,7 @@ holidays:
             name:
               ro: Ziua Cahul
               en: Cahul Day
+              sv: Cahul rajon
       # CL:
       #   name: Călărași
       # CM:
@@ -89,6 +93,7 @@ holidays:
             name:
               ro: Ziua capitalului
               en: Capital's Day
+              sv: MANUAL OPERATION REQUIRED
       # DO:
       #   name: Dondușeni
       # DR:

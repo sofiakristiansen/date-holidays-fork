@@ -19,6 +19,7 @@ holidays:
         name:
           fr: Journée des droits de la femme
           en: Women's Day
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       easter 50:

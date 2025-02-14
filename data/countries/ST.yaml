@@ -4,7 +4,7 @@ holidays:
     names:
       pt: São Tomé & Príncipe
       en: São Tomé & Príncipe
-      sv: São Tomé & Príncipe
+      sv: São Tomé och Príncipe
     langs:
       - pt
       - en
@@ -19,6 +19,7 @@ holidays:
         substitute: true
         name:
           en: Martyrs' Day
+          sv: MANUAL OPERATION REQUIRED
           pt: Dia dos Mártires
       05-01 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
@@ -30,17 +31,19 @@ holidays:
         substitute: true
         name:
           en: Armed Forces Day
+          sv: MANUAL OPERATION REQUIRED
           pt: Dia das Forças Armadas
-          sv: Försvarsmaktens dag
       09-30 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         name:
           en: Agricultural Reform Day
+          sv: MANUAL OPERATION REQUIRED
           pt: Dia da Reforma Agrária
       12-21 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         name:
           en: São Tomé Day
+          sv: MANUAL OPERATION REQUIRED
           pt: Dia de São Tomé
       12-25 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true

@@ -24,16 +24,19 @@ holidays:
       01-02:
         name:
           en: January 2nd
+          sv: 2 januari
           jp: 銀行休業日
         type: bank
       01-03:
         name:
           en: January 3rd
+          sv: 3 januari
           jp: 銀行休業日
         type: bank
       01-15:
         name:
           en: Coming of Age Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 成人の日
         active:
           - from: 1948-07-20
@@ -42,6 +45,7 @@ holidays:
         substitute: true
         name:
           en: Coming of Age Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 成人の日
         active:
           - from: 1973-04-12
@@ -49,12 +53,14 @@ holidays:
       2nd monday in January:
         name:
           en: Coming of Age Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 成人の日
         active:
           - from: 2000-01-01
       02-11:
         name:
           en: Foundation Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 建国記念の日
         active:
           - from: 1967-01-01
@@ -62,6 +68,7 @@ holidays:
         substitute: true
         name:
           en: Foundation Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 建国記念の日
         active:
           - from: 1973-04-12
@@ -69,16 +76,19 @@ holidays:
         substitute: true
         name:
           en: Emperor's Birthday
+          sv: MANUAL OPERATION REQUIRED
           jp: 天皇誕生日
         active:
           - from: 2020-01-01
       "1989-02-24":
         name:
           en: State Funeral of Emperor Showa
+          sv: MANUAL OPERATION REQUIRED
           jp: 大喪の礼
       march equinox in +09:00:
         name:
           en: Spring Equinox Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 春分の日
         active:
           - from: 1948-07-20
@@ -86,16 +96,19 @@ holidays:
         substitute: true
         name:
           en: Spring Equinox Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 春分の日
         active:
           - from: 1973-04-12
       "1959-04-10":
         name:
           en: Marriage of Crown Prince Akihito
+          sv: MANUAL OPERATION REQUIRED
           jp: 結婚の儀
       04-29:
         name:
           en: Emperor's Birthday
+          sv: MANUAL OPERATION REQUIRED
           jp: 天皇誕生日
         active:
           - from: 1948-07-20
@@ -104,6 +117,7 @@ holidays:
         substitute: true
         name:
           en: Emperor's Birthday
+          sv: MANUAL OPERATION REQUIRED
           jp: 天皇誕生日
         active:
           - from: 1973-04-12
@@ -112,6 +126,7 @@ holidays:
         substitute: true
         name:
           en: Greenery Day
+          sv: MANUAL OPERATION REQUIRED
           jp: みどりの日
         active:
           - from: 1989-01-01
@@ -120,20 +135,24 @@ holidays:
         substitute: true
         name:
           en: Showa Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 昭和の日
         active:
           - from: 2007-01-01
       "2019-04-30":
         name:
           en: Citizens' Holiday
+          sv: MANUAL OPERATION REQUIRED
           jp: 国民の休日
       "2019-05-01":
         name:
           en: Coronation Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 即位の日
       "2019-05-02":
         name:
           en: Citizens' Holiday
+          sv: MANUAL OPERATION REQUIRED
           jp: 国民の休日
       05-03:
         _name: Constitution Day
@@ -151,6 +170,7 @@ holidays:
       05-04 not on sunday, monday:
         name:
           en: Citizens' Holiday
+          sv: MANUAL OPERATION REQUIRED
           jp: 国民の休日
         active:
           - from: 1986-01-01
@@ -159,29 +179,32 @@ holidays:
         substitute: true
         name:
           en: Greenery Day
+          sv: MANUAL OPERATION REQUIRED
           jp: みどりの日
         active:
           - from: 2007-01-01
       05-05:
         name:
           en: Children's Day
+          sv: Internationella barndagen
           jp: こどもの日
-          sv: Barnens dag
       substitutes 05-05 if sunday then next monday:
         substitute: true
         name:
           en: Children's Day
+          sv: Internationella barndagen
           jp: こどもの日
-          sv: Barnens dag
         active:
           - from: 1973-04-12
       "1993-06-09":
         name:
           en: Marriage of Crown Prince Naruhito
+          sv: MANUAL OPERATION REQUIRED
           jp: 結婚の儀
       07-20:
         name:
           en: Marine Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 海の日
         active:
           - from: 1996-01-01
@@ -190,6 +213,7 @@ holidays:
         substitute: true
         name:
           en: Marine Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 海の日
         active:
           - from: 1996-01-01
@@ -197,6 +221,7 @@ holidays:
       3rd monday in July:
         name:
           en: Marine Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 海の日
         disable:
           - "2020-07-20"
@@ -210,11 +235,13 @@ holidays:
         substitute: true
         name:
           en: Mountain Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 山の日
       substitutes 08-11 and if sunday then next monday:
         substitute: true
         name:
           en: Mountain Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 山の日
         disable:
           - "2020-08-11"
@@ -226,6 +253,7 @@ holidays:
       09-15:
         name:
           en: Respect-for-the-Aged Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 敬老の日
         active:
           - from: 1966-01-01
@@ -234,6 +262,7 @@ holidays:
         substitute: true
         name:
           en: Respect-for-the-Aged Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 敬老の日
         active:
           - from: 1973-04-12
@@ -241,16 +270,19 @@ holidays:
       3rd monday in September:
         name:
           en: Respect-for-the-Aged Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 敬老の日
         active:
           - from: 2003-01-01
       09-22 if 09-21 and 09-23 is public holiday:
         name:
           en: Citizens' Holiday
+          sv: MANUAL OPERATION REQUIRED
           jp: 国民の休日
       september equinox in +09:00:
         name:
           en: Autumnal Equinox Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 秋分の日
         active:
           - from: 1948-07-20
@@ -258,12 +290,14 @@ holidays:
         substitute: true
         name:
           en: Autumnal Equinox Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 秋分の日
         active:
           - from: 1973-04-12
       10-10:
         name:
           en: Sports Day
+          sv: Idrottsdag
           jp: 体育の日
         active:
           - from: 1966-01-01
@@ -272,6 +306,7 @@ holidays:
         substitute: true
         name:
           en: Sports Day
+          sv: Idrottsdag
           jp: 体育の日
         active:
           - from: 1973-04-12
@@ -279,6 +314,7 @@ holidays:
       "2nd monday in October #1":
         name:
           en: Sports Day
+          sv: Idrottsdag
           jp: 体育の日
         active:
           - from: 2000-01-01
@@ -286,6 +322,7 @@ holidays:
       "2nd monday in October #2":
         name:
           en: Sports Day
+          sv: Idrottsdag
           jp: スポーツの日
         disable:
           - "2020-10-12"
@@ -298,11 +335,13 @@ holidays:
       "2019-10-22":
         name:
           en: Enthronement Ceremony Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 即位礼正殿の儀
       11-03:
         substitute: true
         name:
           en: Culture Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 文化の日
         active:
           - from: 1948-07-20
@@ -310,21 +349,25 @@ holidays:
         substitute: true
         name:
           en: Culture Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 文化の日
         active:
           - from: 1973-04-12
       "1990-11-12":
         name:
           en: Official Enthronement Ceremony of Emperor Heisei (Akihito)
+          sv: MANUAL OPERATION REQUIRED
           jp: 即位礼正殿の儀
       11-15:
         name:
           en: Seven-Five-Three Festival
+          sv: Shichi-go-san
           jp: 七五三
         type: observance
       11-23:
         name:
           en: Labor Thanksgiving Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 勤労感謝の日
         active:
           - from: 1948-07-20
@@ -332,6 +375,7 @@ holidays:
         substitute: true
         name:
           en: Labor Thanksgiving Day
+          sv: MANUAL OPERATION REQUIRED
           jp: 勤労感謝の日
         active:
           - from: 1973-04-12
@@ -339,6 +383,7 @@ holidays:
         substitute: true
         name:
           en: Emperor's Birthday
+          sv: MANUAL OPERATION REQUIRED
           jp: 天皇誕生日
         active:
           - from: 1989-01-01

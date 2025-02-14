@@ -18,6 +18,7 @@ holidays:
       01-02:
         name:
           en: Zanzibar Revolution Day
+          sv: Revolutionen i Zanzibar
       easter -2:
         _name: easter -2
       easter:
@@ -28,20 +29,25 @@ holidays:
       04-07:
         name:
           en: Karume Day
+          sv: MANUAL OPERATION REQUIRED
       04-26:
         name:
           en: Union Day
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       07-07:
         name:
           en: Saba Saba Day
+          sv: MANUAL OPERATION REQUIRED
       08-08:
         name:
           en: Nane Nane Day
+          sv: MANUAL OPERATION REQUIRED
       10-14:
         name:
           en: Nyerere Day
+          sv: MANUAL OPERATION REQUIRED
       12-09:
         _name: Independence Day
       12-25:
@@ -56,3 +62,4 @@ holidays:
         _name: 12 Rabi al-awwal
         name:
           en: Maulid Day
+          sv: Mawlid

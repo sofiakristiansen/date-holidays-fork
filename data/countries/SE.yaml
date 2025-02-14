@@ -187,8 +187,8 @@ holidays:
         type: observance
       06-06:
         name:
-          sv: Sveriges nationaldag
           en: National Day
+          sv: Nationaldag
       # @source https://www.vastsverige.com/tjorn/se-och-gora/sillens-dag/sillens-historia/
       06-06 00:01:
         name:
@@ -332,8 +332,8 @@ holidays:
       # @source https://sv.wikipedia.org/wiki/M%C3%A5rtensafton
       11-11:
         name:
-          sv: Mårtengås
           en: Saint Martin's Day
+          sv: Mårtensafton
         type: observance
       # @source https://sv.wikipedia.org/wiki/Choklad
       11-11 00:01:

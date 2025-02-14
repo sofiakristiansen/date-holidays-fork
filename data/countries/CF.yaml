@@ -20,7 +20,7 @@ holidays:
         name:
           fr: Décès du Fondateur Barthélémy Boganda
           en: Boganda Day
-          sv: Boganda dagen
+          sv: MANUAL OPERATION REQUIRED
       easter 1:
         _name: easter 1
       05-01:
@@ -33,7 +33,7 @@ holidays:
         name:
           fr: Journée de prière
           en: General Prayer Day
-          sv: Bönedagen
+          sv: MANUAL OPERATION REQUIRED
       08-13:
         _name: Independence Day
       08-15:

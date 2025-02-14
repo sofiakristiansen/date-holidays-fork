@@ -37,6 +37,7 @@ holidays:
       05-07:
         name:
           en: Soldier's Day
+          sv: MANUAL OPERATION REQUIRED
           es: Día del Soldado
         type: observance
       05-10:

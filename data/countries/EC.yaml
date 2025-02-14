@@ -17,8 +17,8 @@ holidays:
       easter -48:
         name:
           en: Carnival
-          es: Carnaval
           sv: Karneval
+          es: Carnaval
       easter -47:
         _name: easter -47
       easter -3:
@@ -33,37 +33,37 @@ holidays:
       05-24:
         name:
           en: The Battle of Pichincha
+          sv: MANUAL OPERATION REQUIRED
           es: Batalla del Pichincha
-          sv: Slaget vid Pichincha
       07-24:
         name:
           en: The Birthday of Simón Bolívar
+          sv: MANUAL OPERATION REQUIRED
           es: El Natalicio de Simón Bolívar
-          sv: Simón Bolívars födelsedag
         type: observance
       08-10:
         name:
           en: Declaration of Independence of Quito
+          sv: MANUAL OPERATION REQUIRED
           es: Día del Primer Grito de Independencia de Quito
-          sv: Quitos självständighetsdag
       09-10:
         name:
           en: Independence of Guayaquil
+          sv: MANUAL OPERATION REQUIRED
           es: Independencia de Guayaquil
-          sv: Guayaquils självständighetsdag
       10-31:
         name:
           en: Flag Day
-          es: Dia de La Bandera
           sv: Flaggans dag
+          es: Dia de La Bandera
         type: observance
       11-02:
         _name: 11-02
       11-03:
         name:
           en: Independence of Cuenca
+          sv: MANUAL OPERATION REQUIRED
           es: Independencia de Cuenca
-          sv: Cuencas självständighetsdag
       12-25:
         _name: 12-25
       12-31:
@@ -79,8 +79,8 @@ holidays:
               12-06:
                 name:
                   en: Foundation of Quito
+                  sv: MANUAL OPERATION REQUIRED
                   es: Aniversario de la fundación de Quito
-                  sv: Quitos grundande
                 type: observance
       # A:
       #   name: Azuay

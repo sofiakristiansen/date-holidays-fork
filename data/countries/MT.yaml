@@ -16,12 +16,14 @@ holidays:
       02-10:
         name:
           en: Feast of Saint Paul's Shipwreck in Malta
+          sv: MANUAL OPERATION REQUIRED
           mt: Nawfraġju ta' San Pawl
       03-19:
         _name: 03-19
       03-31:
         name:
           en: Freedom Day
+          sv: MANUAL OPERATION REQUIRED
           mt: Jum il-Ħelsien
       easter -2:
         _name: easter -2
@@ -31,6 +33,7 @@ holidays:
         name:
           mt: Sette Giugno
           en: June 7th
+          sv: MANUAL OPERATION REQUIRED
       06-29:
         _name: 06-29
       08-15:
@@ -38,8 +41,8 @@ holidays:
       09-08:
         name:
           en: Victory Day
+          sv: MANUAL OPERATION REQUIRED
           mt: Jum il-Vitorja
-          sv: Segerdagen
       09-21:
         _name: Independence Day
       12-08:
@@ -47,7 +50,7 @@ holidays:
       12-13:
         name:
           en: Republic Day
-          mt: Jum ir-Repubblika
           sv: Republikens dag
+          mt: Jum ir-Repubblika
       12-25:
         _name: 12-25

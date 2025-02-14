@@ -51,7 +51,7 @@ holidays:
       07-01:
         name:
           en: Sir Seretse Khama Day
-          sv: Sir Seretse Khama's dag
+          sv: MANUAL OPERATION REQUIRED
         note: except mining industy
       substitutes 07-01 if sunday then next monday:
         name:
@@ -61,17 +61,17 @@ holidays:
       3rd monday in July:
         name:
           en: President’s Day
-          sv: Presidentens dag
+          sv: MANUAL OPERATION REQUIRED
         note: except mining industy
       tuesday after 3rd monday in July:
         name:
           en: President’s Day Holiday
-          sv: Presidentens dag högtid
+          sv: MANUAL OPERATION REQUIRED
         note: except mining industy
       09-30:
         name:
           en: Botswana Day
-          sv: Botswanas dag
+          sv: MANUAL OPERATION REQUIRED
       substitutes 09-30 if saturday,sunday then next monday:
         name:
           en: Public Holiday
@@ -82,7 +82,7 @@ holidays:
         _name: 12-26
         name:
           en: Family Day
-          sv: Familjedagen
+          sv: MANUAL OPERATION REQUIRED
         note: except mining industy
       substitutes 12-26 if monday then next tuesday:
         name:

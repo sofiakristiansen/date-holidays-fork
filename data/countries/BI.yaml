@@ -21,12 +21,12 @@ holidays:
         name:
           fr: Jour de l'Unité
           en: Unity Day
-          sv: Försoningsdagen
+          sv: MANUAL OPERATION REQUIRED
       04-06:
         name:
           fr: Jour de Ntaryamira
           en: Ntaryamira Day
-          sv: Ntaryamiras dag
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       easter 39:
@@ -39,12 +39,12 @@ holidays:
         name:
           fr: Jour de Rwagasore
           en: Rwagasore Day
-          sv: Rwagasores dag
+          sv: MANUAL OPERATION REQUIRED
       10-21:
         name:
           fr: Jour de Ndadaye
           en: Ndadaye Day
-          sv: Ndadayes dag
+          sv: Melchior Ndadaye
       11-01:
         _name: 11-01
       12-25:

@@ -17,7 +17,7 @@ holidays:
         substitute: true
         name:
           en: Majority Rule Day
-          sv: Majority Rule dagen
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       easter:
@@ -37,19 +37,19 @@ holidays:
         _name: 05-01
         name:
           en: Randol Fawkes Labour Day
-          sv: Randol Fawkes arbetarnas dag
+          sv: MANUAL OPERATION REQUIRED
       07-10 and if saturday,sunday then next monday:
         substitute: true
         _name: Independence Day
       1st monday in August:
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       10-12 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: National Heroes' Day
-          sv: Dag för firande av nationella hjältar
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
       12-26:

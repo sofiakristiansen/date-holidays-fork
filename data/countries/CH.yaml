@@ -56,14 +56,14 @@ holidays:
           de: Bundesfeiertag
           fr: Fête nationale
           it: Giorno festivo federale
-          sv: Federal helgdag
+          sv: MANUAL OPERATION REQUIRED
       3rd sunday after 09-01:
         name:
           de: Eidg. Dank-, Buss- und Bettag
           fr: Jeûne fédéral
           it: Digiuno federale
           en: Federal Day of Thanksgiving, Repentance and Prayer
-          sv: Federala tacksägelse-, bot- och bönedagen
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
         name:
@@ -81,6 +81,7 @@ holidays:
           fr: Canton de Zurich
           it: Canton Zurigo
           en: Canton of Zürich
+          sv: Zürich (kanton)
         days:
           01-02:
             name:
@@ -103,6 +104,7 @@ holidays:
           fr: Canton de Berne
           it: Canton Berna
           en: Canton of Bern
+          sv: Bern (kanton)
         days:
           01-02:
             name:
@@ -114,6 +116,7 @@ holidays:
           fr: Canton de Lucerne
           it: Canton Lucerna
           en: Canton of Lucerne
+          sv: Luzern (kanton)
         days:
           01-02:
             name:
@@ -144,6 +147,7 @@ holidays:
           fr: Canton d'Uri
           it: Canton Uri
           en: Canton of Uri
+          sv: Uri
         days:
           01-06:
             _name: 01-06
@@ -166,6 +170,7 @@ holidays:
           fr: Canton de Schwytz
           it: Canton Svitto
           en: Canton of Schwyz
+          sv: Schwyz (kanton)
         days:
           01-06:
             _name: 01-06
@@ -185,6 +190,7 @@ holidays:
           fr: Canton d'Obwald
           it: Canton Obvaldo
           en: Canton of Obwalden
+          sv: Obwalden
         days:
           01-02:
             name:
@@ -207,7 +213,7 @@ holidays:
               de: Bruderklausenfest
               fr: Saint-Nicholas-de-Flüe
               en: Saint Nicholas of Flüe
-              sv: Sankt Nicholas av Flüe
+              sv: Nikolaus av Flüe
           11-01:
             _name: 11-01
           12-08:
@@ -221,6 +227,7 @@ holidays:
           fr: Canton de Nidwald
           it: Canton Nidvaldo
           en: Canton of Nidwalden
+          sv: Nidwalden
         days:
           01-02:
             name:
@@ -255,6 +262,7 @@ holidays:
           fr: Canton de Glaris
           it: Canton Glarona
           en: Canton of Glarus
+          sv: Glarus (kanton)
         days:
           01-02:
             name:
@@ -281,6 +289,7 @@ holidays:
           fr: Canton de Zoug
           it: Canton Zugo
           en: Canton of Zug
+          sv: Zug (kanton)
         days:
           01-02:
             name:
@@ -311,6 +320,7 @@ holidays:
           de: Kanton Freiburg
           it: Canton Friburgo
           en: Canton of Fribourg
+          sv: Fribourg (kanton)
         langs:
           - fr
           - de-ch
@@ -354,6 +364,7 @@ holidays:
           fr: Canton de Soleure
           it: Canton Soletta
           en: Canton of Solothurn
+          sv: Solothurn (kanton)
         days:
           01-02:
             name:
@@ -391,6 +402,7 @@ holidays:
           fr: Canton de Bâle-Ville
           it: Canton Basilea Città
           en: Canton of Basel-City
+          sv: Basel-Stadt
         days:
           05-01:
             _name: 05-01
@@ -400,6 +412,7 @@ holidays:
           fr: Canton de Bâle-Campagne
           it: Canton Basilea Campagna
           en: Canton of Basel-Country
+          sv: Basel-Landschaft
         days:
           05-01:
             _name: 05-01
@@ -412,6 +425,7 @@ holidays:
           fr: Canton de Schaffhouse
           it: Canton Sciaffusa
           en: Canton of Schaffhausen
+          sv: Schaffhausen (kanton)
         days:
           01-02:
             name:
@@ -427,6 +441,7 @@ holidays:
           fr: Canton d'Appenzell Rhodes-Extérieures
           it: Canton Appenzello Esterno
           en: Canton of Appenzell Outer Rhodes
+          sv: Appenzell Ausserrhoden
         days:
           12-26: false
           12-26 not on monday:
@@ -437,6 +452,7 @@ holidays:
           fr: Canton d'Appenzell Rhodes-Intérieures
           it: Canton Appenzello Interno
           en: Canton of Appenzell Inner-Rhodes
+          sv: Appenzell Innerrhoden
         days:
           easter 60:
             _name: easter 60
@@ -459,6 +475,7 @@ holidays:
           fr: Canton de Saint-Gall
           it: Canton San Gallo
           en: Canton of St. Gallen
+          sv: Sankt Gallen (kanton)
         days:
           11-01:
             _name: 11-01
@@ -468,6 +485,7 @@ holidays:
           it: Cantone dei Grigioni
           fr: Canton des Grisons
           en: Canton of Grisons
+          sv: Graubünden
         langs:
           - de-ch
           - de
@@ -501,6 +519,7 @@ holidays:
           fr: Canton d'Argovie
           it: Canton Argovia
           en: Canton of Aargau
+          sv: Aargau
         days:
           01-02:
             name:
@@ -523,6 +542,7 @@ holidays:
           fr: Canton de Thurgovie
           it: Canton Turgovia
           en: Canton of Thurgau
+          sv: Thurgau
         days:
           01-02:
             name:
@@ -537,6 +557,7 @@ holidays:
           de: Kanton Tessin
           fr: Canton du Tessin
           en: Canton of Ticino
+          sv: Ticino
         langs:
           - it
           - de-ch
@@ -578,6 +599,7 @@ holidays:
           de: Kanton Waadt
           it: Canton Vaud
           en: Canton of Vaud
+          sv: Vaud
         langs:
           - fr
           - de-ch
@@ -594,7 +616,7 @@ holidays:
               de: Bettagsmontag
               fr: Lundi du Jeûne Fédéral
               en: Monday after Federal Day of Thanksgiving, Repentance and Prayer
-              sv: Måndagen efter federala tacksägelse-, bot- och bönedagen
+              sv: MANUAL OPERATION REQUIRED
           12-26: false
       # @source https://www.vs.ch/fr/web/srh/plan-de-travail
       VS:
@@ -603,6 +625,7 @@ holidays:
           de: Kanton Wallis
           it: Canton Vallese
           en: Canton of Valais
+          sv: Valais
         langs:
           - fr
           - de-ch
@@ -634,7 +657,7 @@ holidays:
               de: Bettagsmontag
               fr: Lundi du Jeûne Fédéral
               en: Monday after Federal Day of Thanksgiving, Repentance and Prayer
-              sv: Måndagen efter federala tacksägelse-, bot- och bönedagen
+              sv: MANUAL OPERATION REQUIRED
             type: bank
           11-01:
             _name: 11-01
@@ -650,6 +673,7 @@ holidays:
           de: Kanton Neuenburg
           it: Canton Neuchâtel
           en: Canton of Neuchâtel
+          sv: Neuchâtel (kanton)
         langs:
           - fr
           - de-ch
@@ -686,7 +710,7 @@ holidays:
               de: Bettagsmontag
               fr: Lundi du Jeûne Fédéral
               en: Monday after Federal Day of Thanksgiving, Repentance and Prayer
-              sv: Måndagen efter federala tacksägelse-, bot- och bönedagen
+              sv: MANUAL OPERATION REQUIRED
             type: optional
           12-26:
             type: observance
@@ -698,6 +722,7 @@ holidays:
           de: Kanton Genf
           it: Canton Ginevra
           en: Canton of Geneva
+          sv: Genève (kanton)
         langs:
           - fr
           - de-ch
@@ -722,7 +747,7 @@ holidays:
               de: Wiederherstellung der Republik
               fr: Restauration de la République
               en: Restoration of the Republic
-              sv: Restaurering av republiken
+              sv: MANUAL OPERATION REQUIRED
           3rd sunday after 09-01: false
       JU:
         names:
@@ -730,6 +755,7 @@ holidays:
           de: Kanton Jura
           it: Canton Giura
           en: Canton of Jura
+          sv: Jura (kanton)
         langs:
           - fr
           - de-ch
@@ -750,7 +776,7 @@ holidays:
               fr: Plébiscite jurassien
               en: Jura Plebiscite
               de: Fest der Unabhängigkeit
-              sv: Självständighetsfestival
+              sv: MANUAL OPERATION REQUIRED
           08-15:
             _name: 08-15
           11-01:

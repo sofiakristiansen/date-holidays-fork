@@ -26,6 +26,7 @@ holidays:
         name:
           pt: Dia da Liberdade
           en: Liberty Day
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       1st sunday in May:
@@ -37,6 +38,7 @@ holidays:
         name:
           pt: Dia de Portugal
           en: Portugal Day
+          sv: Portugaldagen
       08-15:
         _name: 08-15
       10-05:

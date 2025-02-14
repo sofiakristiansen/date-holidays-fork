@@ -25,6 +25,7 @@ holidays:
         substitute: true
         name:
           en: Restoration of Independence day
+          sv: MANUAL OPERATION REQUIRED
           lv: Latvijas Republikas Neatkarības atjaunošanas diena
       2nd sunday in May:
         _name: Mothers Day
@@ -32,17 +33,19 @@ holidays:
       06-23:
         name:
           en: Midsummer Eve
+          sv: Midsommarafton
           lv: Līgo Diena
       06-24:
         name:
           en: Midsummer
+          sv: Midsommar
           lv: Jāņi
       11-18 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: Republic Day
-          lv: Latvijas Republikas proklamēšanas diena
           sv: Republikens dag
+          lv: Latvijas Republikas proklamēšanas diena
       12-24:
         _name: 12-24
       12-25:
@@ -55,4 +58,5 @@ holidays:
       "2023-05-29":
         name:
           en: Bronze medal of the Latvian hockey team at the 2023 World Hockey Championship
+          sv: Juniorvärldsmästerskapet i ishockey 2023 MANUAL OPERATION REQUIRED
           lv: Latvijas hokeja komandas 2023. gada Pasaules hokeja čempionātā bronzas medaļa

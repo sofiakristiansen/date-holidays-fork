@@ -17,6 +17,7 @@ holidays:
         name:
           pt: Dia dos heróis
           en: Heroes Day
+          sv: MANUAL OPERATION REQUIRED
       03-08:
         _name: 03-08
       05-01:
@@ -30,6 +31,7 @@ holidays:
         name:
           pt: Dia do Movimento de Reajustamento
           en: Readjustment Movement Day
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
       1 Shawwal:

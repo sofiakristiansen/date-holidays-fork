@@ -17,6 +17,7 @@ holidays:
         name:
           fr: Jour de la libération
           en: Liberation Day
+          sv: MANUAL OPERATION REQUIRED
       04-27:
         _name: Independence Day
       easter 1:
@@ -31,7 +32,7 @@ holidays:
         name:
           fr: Journée des Martyrs
           en: Day of the Martyrs
-          sv: Martyrernas dag
+          sv: MANUAL OPERATION REQUIRED
       08-15:
         _name: 08-15
       11-01:

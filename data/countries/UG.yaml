@@ -16,9 +16,11 @@ holidays:
       01-26:
         name:
           en: Liberation Day
+          sv: MANUAL OPERATION REQUIRED
       02-16:
         name:
           en: Archbishop Janan Luwum Day
+          sv: MANUAL OPERATION REQUIRED
       03-08:
         _name: 03-08
       easter -46:
@@ -35,9 +37,11 @@ holidays:
       06-03:
         name:
           en: Martyr's Day
+          sv: MANUAL OPERATION REQUIRED
       06-09:
         name:
           en: National Heroes Day
+          sv: MANUAL OPERATION REQUIRED
       10-09:
         _name: Independence Day
       12-25:

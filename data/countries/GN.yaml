@@ -24,12 +24,14 @@ holidays:
         name:
           fr: Fête Nationale de la deuxième République
           en: National Holiday
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       05-25:
         name:
           fr: Anniversaire de l'Organisation de l'unité africaine (OUA)
           en: Africa Day
+          sv: MANUAL OPERATION REQUIRED
       27 Ramadan:
         _name: 27 Ramadan
       1 Shawwal:

@@ -21,24 +21,28 @@ holidays:
       04-25:
         name:
           en: ANZAC Day
-          sv: Anzac dag
+          sv: Anzac Day
       06-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday:
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       07-04:
         name:
           en: Official Birthday of His Majesty King Tupou VI
+          sv: MANUAL OPERATION REQUIRED
       09-17 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday:
         name:
           en: Birthday of His Royal Highness The Crown Prince Tupotoʻa-ʻUlukalala
+          sv: MANUAL OPERATION REQUIRED
       11-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday:
         _name: Constitution Day
         name:
           en: Constitutional Day
+          sv: MANUAL OPERATION REQUIRED
       12-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday:
         name:
           en: Tupou I Day
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
       12-26:

@@ -17,6 +17,7 @@ holidays:
       03-11:
         name:
           en: Moshoeshoe Day
+          sv: Moshoeshoe I
       easter -2:
         _name: easter -2
       easter 1:
@@ -25,14 +26,17 @@ holidays:
         _name: 05-01
         name:
           en: Workers' Day
+          sv: Första maj
       easter 39:
         _name: easter 39
       05-25:
         name:
           en: Africa Day/ Heroes' Day
+          sv: MANUAL OPERATION REQUIRED
       07-17:
         name:
           en: King Letsie III's Birthday
+          sv: MANUAL OPERATION REQUIRED
       10-04:
         _name: Independence Day
       12-25:

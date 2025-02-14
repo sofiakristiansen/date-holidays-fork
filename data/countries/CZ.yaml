@@ -19,7 +19,7 @@ holidays:
         name:
           cz: Škaredá středa
           en: Ugly Wednesday
-          sv: Fula onsdagen
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       easter -3:
         _name: easter -3
@@ -40,7 +40,7 @@ holidays:
         name:
           cz: Den vítězství
           en: Liberation Day
-          sv: Segerdagen
+          sv: Segerdagen 1945
       2nd sunday in May:
         _name: Mothers Day
         type: observance
@@ -48,27 +48,27 @@ holidays:
         name:
           cz: Den slovanských věrozvěstů Cyrila a Metoděje
           en: Saints Cyril and Methodius Day
-          sv: Apostlarna Cyril och Methodius dag
+          sv: MANUAL OPERATION REQUIRED
       07-06:
         name:
           cz: Den upálení mistra Jana Husa
           en: Jan Hus Day
-          sv: Mästaren Jan Hus' bränning
+          sv: Jan Hus
       09-28:
         name:
           cz: Den české státnosti
           en: St. Wenceslas Day (Czech Statehood Day)
-          sv: Tjeckiska statens dag
+          sv: Wenzel av Böhmen (Tjeckiska statens dag)
       10-28:
         name:
           cz: Den vzniku samostatného československého státu
           en: Independent Czechoslovak State Day
-          sv: Nationaldagen
+          sv: Nationaldag
       11-17:
         name:
           cz: Den boje za svobodu a demokracii
           en: Struggle for Freedom and Democracy Day
-          sv: Dagen för kampen för frihet och demokrati
+          sv: MANUAL OPERATION REQUIRED
       12-24:
         _name: 12-24
       12-25:

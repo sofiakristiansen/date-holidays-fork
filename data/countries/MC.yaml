@@ -17,6 +17,7 @@ holidays:
         substitute: true
         name:
           en: Saint Devota's Day
+          sv: MANUAL OPERATION REQUIRED
           fr: Sainte Dévote
       easter -2:
         _name: easter -2
@@ -45,6 +46,7 @@ holidays:
         substitute: true
         name:
           en: H.S.H. the Sovereign Prince's Day
+          sv: MANUAL OPERATION REQUIRED
           fr: La Fête du Prince
       12-08:
         _name: 12-08

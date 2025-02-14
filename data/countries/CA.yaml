@@ -46,8 +46,8 @@ holidays:
       02-02:
         name:
           en: Groundhog Day
-          fr: Jour de la marmotte
           sv: Groundhog Day
+          fr: Jour de la marmotte
         type: observance
       02-14:
         _name: 02-14
@@ -55,8 +55,8 @@ holidays:
       03-17:
         name:
           en: St. Patrick’s Day
+          sv: Saint Patrick’s Day
           fr: Fête de la Saint-Patrick
-          sv: St. Patrick’s Day
         type: observance
       easter -2:
         _name: easter -2
@@ -68,45 +68,45 @@ holidays:
       monday before 05-25:
         name:
           en: Victoria Day
+          sv: MANUAL OPERATION REQUIRED
           fr: Fête de la Reine
-          sv: Victorias dag
       3rd sunday after 06-01:
         _name: Fathers Day
         type: observance
       07-01:
         name:
           en: Canada Day
+          sv: Kanadadagen
           fr: Fête du Canada
-          sv: Kanadas dag
       monday after 08-01:
         name:
           en: Civic Holiday
+          sv: MANUAL OPERATION REQUIRED
           fr: Premier lundi d’août
-          sv: Första måndagen i augusti
       1st monday in September:
         _name: 05-01
       # https://www.canada.ca/en/canadian-heritage/campaigns/national-day-truth-reconciliation.html
       09-30 since 2021:
         name:
           en: National Day for Truth and Reconciliation
+          sv: MANUAL OPERATION REQUIRED
           fr: Journée nationale de la vérité et de la réconciliation
-          sv: Nationella sannings- och försoningsdagen
       2nd monday after 10-01:
         name:
           en: Thanksgiving
+          sv: Thanksgiving
           fr: Action de grâce
-          sv: Tacksägelsedagen
       10-31 18:00:
         name:
           en: Halloween
-          fr: l'Halloween
           sv: Halloween
+          fr: l'Halloween
         type: observance
       11-11:
         name:
           en: Remembrance Day
-          fr: Jour du Souvenir
           sv: Stilleståndsdagen
+          fr: Jour du Souvenir
       12-25:
         _name: 12-25
       12-26:
@@ -120,16 +120,16 @@ holidays:
           3rd monday after 02-01:
             name:
               en: Family Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Fête de la famille
-              sv: Familjedagen
           easter 1:
             _name: easter 1
             type: optional
           monday after 08-01:
             name:
               en: Heritage Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Fête du patrimoine
-              sv: Kulturarvetsdag
             type: optional
       BC:
         name: British Columbia
@@ -142,8 +142,8 @@ holidays:
           2nd monday after 02-01:
             name:
               en: Family Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Fête de la famille
-              sv: Familjedagen
             active:
               - to: 2019
           # @source https://news.gov.bc.ca/releases/2018PREM0018-000188
@@ -151,8 +151,8 @@ holidays:
           3rd monday after 02-01:
             name:
               en: Family Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Fête de la famille
-              sv: Familjedagen
             active:
               - from: 2019
       MB:
@@ -163,8 +163,8 @@ holidays:
           3rd monday after 02-01:
             name:
               en: Louis Riel Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Journée Louis Riel
-              sv: Louis Riel dag
       NB:
         name: New Brunswick
         zones:
@@ -173,8 +173,8 @@ holidays:
           monday after 08-01:
             name:
               en: New Brunswick Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Jour de Nouveau Brunswick
-              sv: New Brunswick dag
       NL:
         name: Newfoundland and Labrador
         zones:
@@ -184,32 +184,32 @@ holidays:
           03-17:
             name:
               en: Saint Patrick's Day
+              sv: Saint Patrick’s Day
               fr: Jour de la Saint-Patrick
-              sv: Saint Patrick's Day
             type: optional
           04-23:
             name:
               en: Saint George's Day
+              sv: Sankt Georgsdagen
               fr: Jour de St. George
-              sv: Sankt Georgs dag
             type: optional
           06-24:
             name:
               en: Discovery Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Journée découverte
-              sv: Upptäcktsdagen
             type: optional
           07-12:
             name:
               en: Orangemen's Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Fête des orangistes
-              sv: Orangemen's Day
             type: optional
           11-11:
             name:
               en: Armistice Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Jour de l'Armistice
-              sv: Armistice Day
       NS:
         name: Nova Scotia
         zones:
@@ -219,13 +219,13 @@ holidays:
           3rd monday after 02-01:
             name:
               en: Heritage Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Fête du Patrimoine
-              sv: Kulturarvetsdag
           monday after 08-01:
             name:
               en: Natal Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Jour de la Fondation
-              sv: Stadens födelsedag
       NT:
         name: Northwest Territories
         zones:
@@ -235,8 +235,8 @@ holidays:
           06-21:
             name:
               en: National Indigenous Peoples Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Journée nationale des Autochthones
-              sv: Nationella ursprungsfolkens dag
       NU:
         name: Nunavut
         zones:
@@ -250,6 +250,7 @@ holidays:
           07-09:
             name:
               en: Nunavut Day
+              sv: MANUAL OPERATION REQUIRED
             type: bank
       ON:
         name: Ontario
@@ -264,8 +265,8 @@ holidays:
           3rd monday after 02-01:
             name:
               en: Family Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Fête de la famille
-              sv: Familjedagen
           easter 1:
             _name: easter 1
       PE:
@@ -274,16 +275,16 @@ holidays:
           3rd monday after 02-01:
             name:
               en: Islander Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Fête des Insulaires
-              sv: Öbornas dag
           easter 1:
             _name: easter 1
             type: optional
           3rd friday after 08-01:
             name:
               en: Gold Cup Parade Day
+              sv: MANUAL OPERATION REQUIRED
               fr: "Défilé de la Coupe d'or"
-              sv: Guldpokalsparaden
       # @source https://www.cnesst.gouv.qc.ca/en/working-conditions/leave/statutory-holidays/statutory-holidays
       QC:
         name: Quebec
@@ -301,13 +302,13 @@ holidays:
           monday before 05-25:
             name:
               en: National Patriots' Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Journée nationale des patriotes
-              sv: National Patriots' Day
           06-24:
             name:
               en: National Holiday
+              sv: MANUAL OPERATION REQUIRED
               fr: Fête nationale du Québec
-              sv: Québecs nationaldag
           monday after 08-01: false
       SK:
         name: Saskatchewan
@@ -319,12 +320,12 @@ holidays:
           3rd monday after 02-01:
             name:
               en: Family Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Fête de la famille
-              sv: Familjedagen
           3rd monday after 08-01:
             name:
               en: Saskatchewan Day
-              sv: Saskatchewan dagen
+              sv: MANUAL OPERATION REQUIRED
       YT:
         name: Yukon
         zones:
@@ -336,5 +337,5 @@ holidays:
           3rd monday after 08-01:
             name:
               en: Discovery Day
+              sv: MANUAL OPERATION REQUIRED
               fr: Jour de la Découverte
-              sv: Upptäcktsdagen

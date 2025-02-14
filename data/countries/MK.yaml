@@ -29,11 +29,13 @@ holidays:
         name:
           mk: Св. Кирил и Методиј
           en: Saints Cyril and Methodius Day
+          sv: MANUAL OPERATION REQUIRED
       08-02 and if sunday then next monday:
         substitute: true
         name:
           mk: Ден на Републиката
           en: Day of the Republic
+          sv: MANUAL OPERATION REQUIRED
       09-08 and if sunday then next monday:
         substitute: true
         _name: Independence Day
@@ -42,16 +44,19 @@ holidays:
         name:
           mk: Ден на востанието
           en: Revolution Day
+          sv: MANUAL OPERATION REQUIRED
       10-23 and if sunday then next monday:
         substitute: true
         name:
           mk: Ден на македонската револуционерна борба
           en: Day of the Macedonian Revolutionary Struggle
+          sv: MANUAL OPERATION REQUIRED
       12-08 and if sunday then next monday:
         substitute: true
         name:
           mk: Св. Климент Охридски
           en: Saint Clement of Ohrid Day
+          sv: Klemens av Ohrid
       1 Shawwal and if sunday then next monday:
         substitute: true
         _name: 1 Shawwal
@@ -72,6 +77,7 @@ holidays:
         name:
           mk: петок пред Духовден
           en: Friday before Pentecost
+          sv: Fredagen innan Pingst
         type: optional
         note: Orthodox believers
       orthodox 49:
@@ -110,36 +116,42 @@ holidays:
         name:
           mk: Ден на Албанската азбука
           en: Day of the Albanian Alphabet
+          sv: Albanska alfabetet
         type: optional
         note: For members of the Albanian community
       12-21:
         name:
           mk: Ден на настава на турски јазик
           en: Turkish Language Day
+          sv: MANUAL OPERATION REQUIRED
         type: optional
         note: For members of the the Turkish community
       01-27:
         name:
           mk: Свети Сава
           en: St. Sava
+          sv: Sankt Sava
         type: optional
         note: For members of the Serbian community
       04-08:
         name:
           mk: Меѓународен ден на Ромите
           en: International Roma Day
+          sv: Minnesdagen för folkmordet på romer
         type: optional
         note: For members of the the Roma community
       05-23:
         name:
           mk: Национален ден на Властите
           en: National Day of Authorities
+          sv: Nationaldag
         type: optional
         note: For members of the Vlach community
       09-28:
         name:
           mk: Меѓународен ден на Бошњаците
           en: International Day of Bosniaks
+          sv: MANUAL OPERATION REQUIRED
         type: optional
         note: For Members of the Bosniak community.
 

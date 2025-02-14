@@ -16,50 +16,62 @@ holidays:
       04-06:
         name:
           en: Chakri Memorial Day
+          sv: MANUAL OPERATION REQUIRED
           th: วันจักรี
       04-13:
         name:
           en: Songkran Festival
+          sv: Songkran
           th: วันสงกรานต์
       04-14:
         name:
           en: Songkran Festival
+          sv: Songkran
           th: วันสงกรานต์
       04-15:
         name:
           en: Songkran Festival
+          sv: Songkran
           th: วันสงกรานต์
       05-04:
         name:
           en: Coronation Day
+          sv: MANUAL OPERATION REQUIRED
           th: วันฉัตรมงคล
       06-03:
         name:
           en: Queen Suthida's Birthday
+          sv: Suthida
           th: วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี
       07-28:
         name:
           en: King's Birthday
+          sv: MANUAL OPERATION REQUIRED
           th: วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว
       08-12:
         name:
           en: The Queen Mother's Birthday
+          sv: MANUAL OPERATION REQUIRED
           th: วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง
       10-13:
         name:
           en: King Bhumibol Adulyadej Memorial Day
+          sv: MANUAL OPERATION REQUIRED
           th: วันคล้ายวันสวรรคตพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร
       10-23:
         name:
           en: King Chulalongkorn Day
+          sv: Chulalongkorn
           th: วันปิยมหาราช
       12-05:
         name:
           en: King Bhumibol Adulyadej's Birthday
+          sv: Bhumibol Adulyadej
           th: วันคล้ายวันพระบรมราชสมภพ พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร
       12-10:
         name:
           en: Constitution Day
+          sv: MANUAL OPERATION REQUIRED
           th: วันรัฐธรรมนูญ
       12-31:
         _name: 12-31

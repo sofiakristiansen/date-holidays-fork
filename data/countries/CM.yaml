@@ -18,7 +18,7 @@ holidays:
         name:
           fr: Fête de la Jeunesse
           en: Youth Day
-          sv: Ungas dag
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       05-01 if sunday then next monday:
@@ -27,7 +27,7 @@ holidays:
         name:
           fr: Fête nationale ou de l'unité
           en: National Day
-          sv: Nationaldagen
+          sv: Nationaldag
       easter 39:
         _name: easter 39
       08-15:

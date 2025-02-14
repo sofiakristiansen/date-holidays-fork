@@ -30,6 +30,7 @@ holidays:
         name:
           sk: Deň víťazstva nad fašizmom
           en: Day of victory over fascism
+          sv: MANUAL OPERATION REQUIRED
       2nd sunday in May:
         _name: Mothers Day
         type: observance
@@ -37,22 +38,26 @@ holidays:
         name:
           sk: Sviatok svätého Cyrila a Metoda
           en: Saints Cyril and Methodius Day
+          sv: MANUAL OPERATION REQUIRED
       08-29:
         name:
           sk: Výročie Slovenského národného povstania
           en: Slovak National Uprising anniversary
+          sv: MANUAL OPERATION REQUIRED
       09-01:
         _name: Constitution Day
       09-15:
         name:
           sk: Sviatok Panny Márie Sedembolestnej
           en: Day of Our Lady of the Seven Sorrows
+          sv: Jungfru Marie smärtor
       11-01:
         _name: 11-01
       11-17:
         name:
           sk: Deň boja za slobodu a demokraciu
           en: Struggle for Freedom and Democracy Day
+          sv: MANUAL OPERATION REQUIRED
       12-24:
         _name: 12-24
       12-25:

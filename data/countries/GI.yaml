@@ -16,12 +16,14 @@ holidays:
       2nd monday in March:
         name:
           en: Commonwealth Day
+          sv: MANUAL OPERATION REQUIRED
       easter:
         _name: easter
         type: observance
       04-28:
         name:
           en: Workers Memorial Day
+          sv: MANUAL OPERATION REQUIRED
         disable:
           - "2015-04-28"
         enable:
@@ -30,18 +32,21 @@ holidays:
         substitute: true
         name:
           en: May Day
+          sv: MANUAL OPERATION REQUIRED
       1st monday in May: false
       # @source https://www.gibraltar.gov.gi/press-releases/additional-bank-holiday-in-2020-to-mark-the-anniversary-of-ve-day-7602019-5366
       "2020-05-08":
         name:
           en: Victory in Europe Day (VE Day)
+          sv: MANUAL OPERATION REQUIRED
       monday before 06-20:
         name:
           en: Queen's Birthday
-          sv: Drottningens födelsedag
+          sv: Kungens officiella födelsedag
       monday before September:
         name:
           en: Late Summer Bank Holiday
+          sv: Bankfridag
       09-10:
         name:
           en: Gibraltar National Day

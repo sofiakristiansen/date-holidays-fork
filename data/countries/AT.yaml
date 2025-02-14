@@ -87,7 +87,7 @@ holidays:
         names:
           de: Niederösterreich
           en: Lower Austria
-          sv: Nedre Österrike
+          sv: Niederösterreich
         days:
           # @source https://kurier.at/chronik/niederoesterreich/leopoldi-alle-feiern-nicht-alle-haben-frei/400673546
           11-15:
@@ -100,7 +100,7 @@ holidays:
         names:
           de: Oberösterreich
           en: Upper Austria
-          sv: Övre Österrike
+          sv: Oberösterreich
         days:
           05-04:
             name:

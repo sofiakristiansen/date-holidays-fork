@@ -25,6 +25,7 @@ holidays:
         name:
           is: Konudagur
           en: Woman's Day
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       easter -48:
         name:
@@ -52,6 +53,7 @@ holidays:
         name:
           is: Sumardagurinn fyrsti
           en: First Day of Summer
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       2nd sunday in May:
@@ -67,32 +69,37 @@ holidays:
         name:
           is: Sjómannadagurinn
           en: The Seamen's Day
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       06-17:
         name:
           is: Íslenski þjóðhátíðardagurinn
           en: Icelandic National Day
-          sv: Nationaldagen
+          sv: Islands nationaldag
       1st monday in August:
         name:
           # is: Verslunarmannahelgi
           is: Frídagur verslunarmanna
           en: Commerce Day
+          sv: MANUAL OPERATION REQUIRED
       saturday after 10-21:
         name:
           is: Fyrsti vetrardagur
           en: First Day of Winter
+          sv: Calixtusdagen
         type: observance
       11-16:
         # since 1996
         name:
           is: Dagur íslenskrar tungu
           en: Icelandic Language Day
+          sv: Isländska
         type: observance
       12-23:
         name:
           is: Þorláksmessa
           en: St Þorlákur's Day
+          sv: Torlak (helgon)
         type: observance
       "12-24 13:00 if sunday then 00:00":
         _name: 12-24

@@ -39,6 +39,7 @@ holidays:
         name:
           ru: Новогодние каникулы
           en: New Year Holiday
+          sv: Juletider
       # Orthodox christmas
       julian 12-25:
         _name: 12-25
@@ -46,26 +47,31 @@ holidays:
         name:
           ru: Новогодние каникулы
           en: New Year Holiday
+          sv: Juletider
       02-23:
         name:
           ru: День защитника Отечества
           en: Defender of the Fatherland Day
+          sv: Fäderneslandsförsvararens dag
       03-08:
         _name: 03-08
       05-01:
         name:
           ru: День весны и труда
           en: Spring and Labour Day
+          sv: MANUAL OPERATION REQUIRED
       05-09:
         name:
           ru: День Победы
           en: Victory Day
-          sv: Segerdagen
+          sv: Segerdagen 1945
       06-12:
         name:
           ru: День России
           en: Russia Day
+          sv: Rysslands dag
       11-04:
         name:
           ru: День народного единства
           en: Unity Day
+          sv: MANUAL OPERATION REQUIRED

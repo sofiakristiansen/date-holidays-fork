@@ -6,8 +6,8 @@ holidays:
   VU:
     names:
       en: Vanuatu
-      fr: République de Vanuatu
       sv: Vanuatu
+      fr: République de Vanuatu
     langs:
       - fr
       - en

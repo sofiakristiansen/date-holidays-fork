@@ -17,11 +17,12 @@ holidays:
       03-09:
         name:
           en: Women’s Day
+          sv: MANUAL OPERATION REQUIRED
       03-12 and if sunday then next monday:
         substitute: true
         name:
           en: Youth Day
-          sv: Ungas dag
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       easter 1:
@@ -33,19 +34,23 @@ holidays:
         substitute: true
         name:
           en: African Freedom Day
+          sv: MANUAL OPERATION REQUIRED
       1st monday in July:
         name:
           en: Heroes' Day
+          sv: MANUAL OPERATION REQUIRED
       tuesday after 1st monday in July:
         name:
           en: Unity Day
+          sv: MANUAL OPERATION REQUIRED
       1st monday in August:
         name:
           en: Farmers' Day
+          sv: MANUAL OPERATION REQUIRED
       "2015-10-18":
         name:
           en: National day of Prayers
-          sv: Nationella bönedagen
+          sv: MANUAL OPERATION REQUIRED
       10-24 and if sunday then next monday:
         substitute: true
         _name: Independence Day

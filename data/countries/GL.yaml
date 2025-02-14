@@ -34,6 +34,7 @@ holidays:
           kl: tussiarfissuaq
           da: Store Bededag
           en: Prayer Day
+          sv: Store Bededag
       easter 39:
         _name: easter 39
       06-21:
@@ -41,7 +42,7 @@ holidays:
           kl: ullortuneq
           da: Nationaldag
           en: National Day
-          sv: Nationaldagen
+          sv: Nationaldag
       easter 49:
         _name: easter 49
       easter 50:

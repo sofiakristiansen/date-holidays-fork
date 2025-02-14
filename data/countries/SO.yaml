@@ -22,6 +22,7 @@ holidays:
         name:
           ar: استقلال الصومال البريطاني
           en: Independence of British Somaliland
+          sv: Staten Somaliland
       07-01:
         _name: Independence Day
       10 Muharram:
@@ -41,6 +42,7 @@ holidays:
           05-18 P2D:
             name:
               en: Restoration of Somaliland Sovereignty
+              sv: Somaliland
           07-01: false
           1 Muharram:
             _name: 1 Muharram

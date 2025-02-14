@@ -30,12 +30,14 @@ holidays:
           hr: Dan državnosti
           sr: Дан државности
           en: Statehood Day
+          sv: MANUAL OPERATION REQUIRED
       07-14 and if sunday then next monday:
         substitute: true
         name:
           hr: Dan državnosti
           sr: Дан државности
           en: Statehood Day
+          sv: MANUAL OPERATION REQUIRED
       01-01 and if sunday then next tuesday:
         substitute: true
         _name: 01-01

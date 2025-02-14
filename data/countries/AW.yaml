@@ -22,7 +22,7 @@ holidays:
           pap: Dia di Betico
           nl: Herdenking G. F. Croes
           en: Betico Croes Day
-          sv: Betico Croes dag
+          sv: Betico Croes
       easter -48:
         _name: easter -48
       03-18 and if saturday then previous friday if sunday then next monday:
@@ -31,7 +31,7 @@ holidays:
           pap: Dia di Himno y Bandera
           nl: Herdenking Vlag en Volkslied
           en: National Anthem and Flag Day
-          sv: Nationell hymn och flaggans dag
+          sv: Flaggans dag
       easter -2:
         _name: easter -2
       easter:
@@ -44,7 +44,7 @@ holidays:
           pap: Aña di Rey
           nl: Koningsdag
           en: Kings Day
-          sv: Kungens dag
+          sv: MANUAL OPERATION REQUIRED
       05-01 if sunday then next monday:
         _name: 05-01
       06-24:
@@ -52,7 +52,7 @@ holidays:
           pap: Dera Gai
           nl: Dera Gai
           en: Dera Gai
-          sv: Dera Gai
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       easter 39:
         _name: easter 39
@@ -60,7 +60,7 @@ holidays:
         name:
           nl: Sinterklaasavond
           en: St. Nicholas' Eve
-          sv: Sankt Nikolaus afton
+          sv: Sinterklaas
         type: observance
       12-25:
         _name: 12-25

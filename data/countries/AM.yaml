@@ -18,27 +18,27 @@ holidays:
       01-03 P3D:
         name:
           en: Pre-Christmas holidays
+          sv: MANUAL OPERATION REQUIRED
           hy: Նախածննդյան տոներ
-          sv: Jullov
       01-06:
         _name: 12-25
       01-28:
         name:
           en: Army Day
+          sv: MANUAL OPERATION REQUIRED
           hy: Բանակի օր
-          sv: Arméns dag
       02-21:
         name:
           en: Mother Language Day
+          sv: Internationella modersmålsdagen
           hy: Մայրենի լեզվի օր
-          sv: Modersmålsdagen
         type: observance
       # 8th Thursday before Easter
       easter -52:
         name:
           en: St. Vartan the good work and the duty days
           hy: Սուրբ Վարդանանց տոն՝ բարի գործի եւ ազգային տուրքի օր
-          sv: S:t Vartan det goda arbetet och pliktdagarna
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       03-08:
         _name: 03-08
@@ -52,39 +52,39 @@ holidays:
         name:
           en: Armenian Genocide Remembrance Day
           hy: Ցեղասպանության զոհերի հիշատակի օր
-          sv: Armeniska folkmordet (minnesdag)
+          sv: Armeniska folkmordet (årsdag)
         type: observance
       05-01:
         _name: 05-01
       05-08:
         name:
           en: Yerkrapah Day
+          sv: MANUAL OPERATION REQUIRED
           hy: Երկրապահի օր
-          sv: Yerkrapah (Veteran dag)
         type: observance
       05-09:
         name:
           en: Victory and Peace Day
-          hy: Հաղթանակի եւ Խաղաղության տոն
           sv: Segerdagen 1945
+          hy: Հաղթանակի եւ Խաղաղության տոն
       05-28:
         name:
           en: Republic Day (Armenia)
+          sv: MANUAL OPERATION REQUIRED
           hy: Հանրապետության օր
-          sv: Republikens dag (Armenien)
       06-01:
         name:
           en: The day of protection of children rights
+          sv: MANUAL OPERATION REQUIRED
           hy: Երեխաների իրավունքների պաշտպանության օր
-          sv: Barnrättsdagen
         type: observance
       07-05:
         _name: Constitution Day
       09-01:
         name:
           en: Knowledge, Literacy and Education Day
+          sv: MANUAL OPERATION REQUIRED
           hy: Գիտելիքի, գրի եւ դպրության օր
-          sv: Dag för kunskap, skrivande och utbildning
         type: observance
       09-21:
         name:
@@ -95,14 +95,14 @@ holidays:
       2nd saturday in October:
         name:
           en: Translator's Day
+          sv: Internationella översättardagen
           hy: Թարգմանչաց տոն
-          sv: Översättarens dag
         type: observance
       12-07:
         name:
-          en: Earthquake Remembrance Day
+          en: 1988 Armenian earthquake
+          sv: Jordbävningen i Spitak 1988
           hy: Երկրաշարժի զոհերի հիշատակի օր
-          sv: Minnesdag för jordbävningsoffer
         type: observance
     # states:
     #   AG:

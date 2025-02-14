@@ -33,7 +33,7 @@ holidays:
         name:
           pt: Dia de Tiradentes
           en: Tiradentes' Day
-          sv: Tiradentes' dag
+          sv: MANUAL OPERATION REQUIRED
       easter -50 PT110H:
         name:
           pt: Carnaval
@@ -68,17 +68,17 @@ holidays:
         name:
           pt: Nossa Senhora Aparecida
           en: Our Lady of Aparecida
-          sv: av Aparecida
+          sv: MANUAL OPERATION REQUIRED
       1st sunday in October in even years:
         name:
           pt: Dia de Eleição
           en: Election Day
-          sv: Valdag
+          sv: MANUAL OPERATION REQUIRED
       1st sunday before 11-01 in even years:
         name:
           pt: Dia de Eleição
           en: Election Day
-          sv: Valdag
+          sv: MANUAL OPERATION REQUIRED
       11-02:
         _name: 11-02
       11-15:
@@ -336,7 +336,7 @@ holidays:
                 name:
                   pt: São João
                   en: Saint John's Day
-                  sv: Sankt Johannes-dagen
+                  sv: Den helige Johannes Döparens dag
                 type: public
               07-16:
                 name:
@@ -535,12 +535,12 @@ holidays:
                 name:
                   pt: Aniversário da Cidade
                   en: City Birthday
-                  sv: Stadens födelsedag
+                  sv: MANUAL OPERATION REQUIRED
                 type: public
               11-20:
                 name:
                   pt: Dia da Consciência Negra
-                  sv: Svarta medvetenhetsdagen
+                  sv: MANUAL OPERATION REQUIRED
                 active:
                   - from: 2004-01-07
       TO:

@@ -20,17 +20,21 @@ holidays:
       1st monday in January:
         name:
           en: Bank Holiday
+          sv: Bankfridag
         type: bank
       # Official Rule: First Monday in February, or 1 February if the date falls on a Friday
       02-01 if Tuesday,Wednesday,Thursday,Saturday,Sunday then next Monday since 2023:
         name:
           en: St. Brigid’s Day
+          sv: Imbolc
       03-17:
         name:
           en: St. Patrick’s Day
+          sv: Saint Patrick’s Day
       03-17 and if saturday then next monday if sunday then next monday:
         name:
           en: St. Patrick’s Day
+          sv: Saint Patrick’s Day
         substitute: true
         type: bank
       easter -21:
@@ -46,15 +50,19 @@ holidays:
       1st monday in May:
         name:
           en: May Day
+          sv: Första maj
       1st monday in June:
         name:
           en: First Monday in June
+          sv: MANUAL OPERATION REQUIRED
       1st monday in August:
         name:
           en: First Monday in August
+          sv: MANUAL OPERATION REQUIRED
       1st Monday before 11-01:
         name:
           en: October Bank Holiday
+          sv: Bankfridag
           type: bank
       12-25:
         _name: 12-25
@@ -62,15 +70,18 @@ holidays:
         _name: 12-26
         name:
           en: St. Stephen's Day
+          sv: MANUAL OPERATION REQUIRED
       12-26 and if saturday then next monday if sunday then next monday:
         _name: 12-26
         name:
           en: St. Stephen's Day
+          sv: MANUAL OPERATION REQUIRED
         substitute: true
         type: bank
       12-27 and if saturday then next monday if sunday then next tuesday:
         name:
           en: Christmas Bank Holiday
+          sv: Bankfridag
         type: bank
       3rd sunday in June:
         _name: Fathers Day

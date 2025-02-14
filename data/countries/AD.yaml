@@ -26,7 +26,7 @@ holidays:
       09-08:
         name:
           en: Our Lady of Meritxell
-          sv: Vår fru av Meritxell
+          sv: Vår Fru av Meritxell
           es: Nuestra Sra. De Meritxell
           ca: Mare de Déu de Meritxell
       11-01:
@@ -72,5 +72,5 @@ holidays:
           1st saturday in August P3D:
             name:
               en: Andorra La Vella Festival
+              sv: Andorra la Vella
               ca: Andorra La Vella Festival
-              sv: Andorra La Vella Festival

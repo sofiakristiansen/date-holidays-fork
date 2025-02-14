@@ -14,16 +14,19 @@ holidays:
       03-08:
         name:
           en: First Martyr
+          sv: MANUAL OPERATION REQUIRED
       05-10:
         name:
           en: May 20 Revolution
+          sv: MANUAL OPERATION REQUIRED
       06-09:
         name:
           en: Day of the Martyrs
-          sv: Martyrernas dag
+          sv: MANUAL OPERATION REQUIRED
       06-17:
         name:
           en: Day of National Unity
+          sv: MANUAL OPERATION REQUIRED
       1 Muharram:
         _name: 1 Muharram
       12 Rabi al-awwal:

@@ -18,11 +18,13 @@ holidays:
         name:
           hu: A köztársaság emléknapja
           en: Memorial Day of the Republic
+          sv: Memorial Day
         type: observance
       02-25:
         name:
           hu: A kommunista diktatúrák áldozatainak emléknapja
           en: Memorial Day for the Victims of the Communist Dictatorships
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       03-08:
         _name: 03-08
@@ -31,11 +33,12 @@ holidays:
         name:
           hu: 1848-as forradalom
           en: National Day
-          sv: Nationaldagen
+          sv: Nationaldag
         type: public
       04-16:
         name:
           en: Memorial Day for the Victims of the Holocaust
+          sv: MANUAL OPERATION REQUIRED
           hu: A holokauszt áldozatainak emléknapja
         type: observance
       easter -2:
@@ -58,6 +61,7 @@ holidays:
       05-21:
         name:
           en: National Defense Day
+          sv: MANUAL OPERATION REQUIRED
           hu: Honvédelmi nap
         type: observance
       easter 49:
@@ -69,28 +73,32 @@ holidays:
       06-04:
         name:
           en: Day of National Unity
+          sv: MANUAL OPERATION REQUIRED
           hu: A nemzeti összetartozás napja
         type: observance
       06-19:
         name:
           en: Day of the Independent Hungary
+          sv: MANUAL OPERATION REQUIRED
           hu: A független Magyarország napja
         type: observance
       08-20:
         name:
           hu: Szent István ünnepe
           en: Saint Stephen's Day
+          sv: MANUAL OPERATION REQUIRED
         type: public
       10-06:
         name:
           en: Memorial Day for the Martyrs of Arad
+          sv: MANUAL OPERATION REQUIRED
           hu: Az aradi vértanúk emléknapja
         type: observance
       10-23:
         name:
           hu: 1956-os forradalom
           en: National Day
-          sv: Nationaldagen
+          sv: Nationaldag
         type: public
       11-01:
         _name: 11-01
@@ -114,49 +122,59 @@ holidays:
         name:
           hu: Őszi szünet
           en: Autumn school holiday
+          sv: MANUAL OPERATION REQUIRED
         type: school
       "2023-10-31":
         name:
           hu: Őszi szünet
           en: Autumn school holiday
+          sv: MANUAL OPERATION REQUIRED
         type: school
       "2023-11-02":
         name:
           hu: Őszi szünet
           en: Autumn school holiday
+          sv: MANUAL OPERATION REQUIRED
         type: school
       "2023-11-03":
         name:
           hu: Őszi szünet
           en: Autumn school holiday
+          sv: MANUAL OPERATION REQUIRED
         type: school
       "2023-12-22":
         name:
           hu: Téli szünet
           en: Winter school holiday
+          sv: MANUAL OPERATION REQUIRED
         type: school
       "2023-12-27":
         name:
           hu: Téli szünet
           en: Winter school holiday
+          sv: MANUAL OPERATION REQUIRED
         type: school
       "2024-01-02":
         name:
           hu: Téli szünet
           en: Winter school holiday
+          sv: MANUAL OPERATION REQUIRED
         type: school
       "2024-01-03":
         name:
           hu: Téli szünet
           en: Winter school holiday
+          sv: MANUAL OPERATION REQUIRED
         type: school
       "2024-01-04":
         name:
           hu: Téli szünet
           en: Winter school holiday
+          sv: MANUAL OPERATION REQUIRED
         type: school
       "2024-01-05":
         name:
           hu: Téli szünet
           en: Winter school holiday
+          sv: MANUAL OPERATION REQUIRED
         type: school

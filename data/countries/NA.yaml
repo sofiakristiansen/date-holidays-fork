@@ -30,11 +30,13 @@ holidays:
         _name: 05-01
         name:
           en: Workers Day
+          sv: Första maj
       substitutes 05-01 if sunday then next monday:
         name: Public Holiday
       05-04:
         name:
           en: Cassinga Day
+          sv: Cassinga-dagen
       substitutes 05-04 if sunday then next monday:
         name: Public Holiday
       easter 39:
@@ -42,16 +44,19 @@ holidays:
       05-25:
         name:
           en: Africa Day
+          sv: MANUAL OPERATION REQUIRED
       substitutes 05-25 if sunday then next monday:
         name: Public Holiday
       08-26:
         name:
           en: Heroes' Day
+          sv: MANUAL OPERATION REQUIRED
       substitutes 08-26 if sunday then next monday:
         name: Public Holiday
       12-10:
         name:
           en: Human Rights Day
+          sv: Internationella dagen för mänskliga rättigheter
       substitutes 12-10 if sunday then next monday:
         name: Public Holiday
       12-25:
@@ -60,5 +65,6 @@ holidays:
         _name: 12-26
         name:
           en: Day of Goodwill
+          sv: MANUAL OPERATION REQUIRED
       substitutes 12-26 if sunday then next monday:
         name: Public Holiday

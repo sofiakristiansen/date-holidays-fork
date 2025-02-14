@@ -17,14 +17,14 @@ holidays:
         type: observance
         name:
           en: First Philippine Republic Day
+          sv: MANUAL OPERATION REQUIRED
           fil: Araw ng Unang Republika ng Pilipinas
-          sv: Första Filipinska Republikens dag
       chinese 01-0-01:
         type: optional
         name:
           en: Chinese New Year
-          fil: Bagong Taon ng mga Tsino
           sv: Kinesiskt nyår
+          fil: Bagong Taon ng mga Tsino
       02-02:
         type: observance
         _name: Constitution Day
@@ -32,10 +32,12 @@ holidays:
         type: observance
         name:
           en: Lantern Festival
+          sv: MANUAL OPERATION REQUIRED
           fil: Piyesta ng mga Parol Tsino
       02-25:
         name:
           en: EDSA Revolution Anniversary
+          sv: EDSA-revolutionen
           fil: Anibersaryo ng Rebolusyon sa EDSA
         type: optional
         note: Non-working Day
@@ -52,11 +54,13 @@ holidays:
       04-09:
         name:
           en: Day of Valor
+          sv: MANUAL OPERATION REQUIRED
           fil: Araw ng Kagitingan
       04-27:
         type: observance
         name:
           en: Lapu-Lapu Day
+          sv: Lapulapu
           fil: Araw ni Lapu-Lapu
       05-01:
         _name: 05-01
@@ -75,6 +79,7 @@ holidays:
         type: observance
         name:
           en: José Rizal's birthday
+          sv: José Rizal
           fil: Araw ng Kapanganakan ni José Rizal
         active:
           - from: 1961-01-01
@@ -84,26 +89,31 @@ holidays:
         # Monday, June 20, 2011 was declared a special non-working holiday by President Benigno Aquino III for Rizal's 150th birth anniversary as requested by the National Historical Commission of the Philippines.
         name:
           en: José Rizal's birthday
+          sv: José Rizal
           fil: Araw ng Kapanganakan ni José Rizal
       07-27:
         type: observance
         name:
           en: Iglesia ni Cristo Day
+          sv: Iglesia ni Cristo
           fil: Araw ng Iglesia ni Cristo
       08-21:
         name:
           en: Ninoy Aquino Day
+          sv: Ninoy Aquino-dagen
           fil: Araw ng Kabayanihan ni Ninoy Aquino
         type: optional
         note: Non-working Day
       1st monday before September:
         name:
           en: National Heroes' Day
+          sv: MANUAL OPERATION REQUIRED
           fil: Araw ng mga Bayani
       chinese 08-0-15:
         type: observance
         name:
           en: Mid-Autumn Festival
+          sv: Månfesten
           fil: Piyestang Zhōngqiū Jié
       11-01:
         _name: 11-01
@@ -116,11 +126,13 @@ holidays:
       11-30:
         name:
           en: Bonifacio Day
+          sv: MANUAL OPERATION REQUIRED
           fil: Araw ng Kapanganakan ni Bonifacio
       12-08:
         _name: 12-08
         name:
           en: Feast of the Immaculate Conception of the Blessed Virgin Mary
+          sv: MANUAL OPERATION REQUIRED
           fil: Pagdiriwang ng Kalinis-linisang Paglilihi sa Mahal na Birheng Maria
         type: optional
         note: Non-working Day
@@ -133,6 +145,7 @@ holidays:
       12-30:
         name:
           en: Rizal Day
+          sv: MANUAL OPERATION REQUIRED
           fil: Paggunita sa Kamatayan ni Dr. Jose Rizal
       12-31:
         _name: 12-31

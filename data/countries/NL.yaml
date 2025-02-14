@@ -9,8 +9,8 @@ holidays:
     names:
       nl: Nederland
       en: Netherlands
-      de: Niederlande
       sv: Nederländerna
+      de: Niederlande
     dayoff: sunday
     langs:
       - nl
@@ -32,21 +32,25 @@ holidays:
         name:
           nl: Koningsdag
           en: King's Day
+          sv: MANUAL OPERATION REQUIRED
           de: Königstag
       04-30 if sunday then next monday since 1949 and prior to 1980:
         name:
           nl: Koninginnedag
           en: Queen's Day
+          sv: Koningsdag
           de: Königinnentag
       04-30 if sunday then previous saturday since 1980 and prior to 2014:
         name:
           nl: Koninginnedag
           en: Queen's Day
+          sv: Koningsdag
           de: Königinnentag
       05-04:
         name:
           nl: Nationale Dodenherdenking
           en: Remembrance of the Dead
+          sv: Nationella dagen för åminnelse av döda
           de: Nationaler Totengedenktag
         type: observance
       # @source https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/bevrijdingsdag-5-mei-vrije-dag
@@ -54,6 +58,7 @@ holidays:
         name:
           nl: Bevrijdingsdag
           en: Liberation Day
+          sv: MANUAL OPERATION REQUIRED
           de: Befreiungstag
         type: school
       2nd sunday in May:
@@ -65,6 +70,7 @@ holidays:
         name:
           nl: Hemelvaartsdag
           en: Ascension Day
+          sv: Kristi himmelsfärdsdag
           de: Christi Himmelfahrt
       easter 49:
         _name: easter 49
@@ -78,16 +84,19 @@ holidays:
         name:
           nl: Princessedag
           en: Princess Day
+          sv: MANUAL OPERATION REQUIRED
           de: Prinzessinnentag
       08-31 since 1891 and prior to 1949:
         name:
           nl: Koninginnedag
           en: Queen's Day
+          sv: Koningsdag
           de: Königinnentag
       3rd tuesday in September:
         name:
           nl: Prinsjesdag
           en: Prince's Day
+          sv: MANUAL OPERATION REQUIRED
           de: Prinzentag
         note: Scholen in Den Haag geven meestal 1 dag vrij
         type: observance
@@ -98,13 +107,14 @@ holidays:
         name:
           nl: Sinterklaasavond
           en: St Nicholas' Eve
+          sv: Sinterklaas
           de: Nikolausabend
-          sv: Sankt Nikolaus afton
         type: observance
       12-15:
         name:
           nl: Koninkrijksdag
           en: Kingdom Day
+          sv: MANUAL OPERATION REQUIRED
           de: Königreichstag
         type: observance
       12-25:

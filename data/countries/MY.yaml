@@ -20,25 +20,25 @@ holidays:
       chinese 01-0-01:
         name:
           en: Chinese New Year
-          ms: Tahun Baru Cina
           sv: Kinesiskt nyår
+          ms: Tahun Baru Cina
       chinese 01-0-02:
         name:
           en: Chinese New Year
-          ms: Tahun Baru Cina
           sv: Kinesiskt nyår
+          ms: Tahun Baru Cina
       substitutes chinese 01-0-01 if Sunday then next Monday:
         substitute: true
         name:
           en: Chinese New Year
-          ms: Tahun Baru Cina
           sv: Kinesiskt nyår
+          ms: Tahun Baru Cina
       substitutes chinese 01-0-02 if Sunday then next Monday:
         substitute: true
         name:
           en: Chinese New Year
-          ms: Tahun Baru Cina
           sv: Kinesiskt nyår
+          ms: Tahun Baru Cina
       05-01:
         _name: 05-01
       substitutes 05-01 if Sunday then next Monday:
@@ -47,6 +47,7 @@ holidays:
       1st Monday in June:
         name:
           en: Yang di-Pertuan Agong's Birthday
+          sv: Yang di-Pertuan Agong
           ms: Hari Keputeraan Yang di-Pertuan Agong
       08-31:
         _name: Independence Day
@@ -56,11 +57,13 @@ holidays:
       09-16:
         name:
           en: Malaysia Day
+          sv: MANUAL OPERATION REQUIRED
           ms: Hari Malaysia
       substitutes 09-16 if Sunday then next Monday:
         substitute: true
         name:
           en: Malaysia Day
+          sv: MANUAL OPERATION REQUIRED
           ms: Hari Malaysia
       12-25:
         _name: 12-25
@@ -185,6 +188,7 @@ holidays:
           03-23:
             name:
               en: Sultan of Johor's Birthday
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Keputeraan Sultan Johor
           # Islamic
           1 Ramadan:
@@ -193,6 +197,7 @@ holidays:
           6 Safar:
             name:
               en: Hari Hol of Sultan Iskandar of Johor
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Hol Almarhum Sultan Iskandar
           # Thaipusam
           # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
@@ -225,6 +230,7 @@ holidays:
           3rd Sunday in June:
             name:
               en: Sultan of Kedah's Birthday
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Keputeraan Sultan Kedah
           # Islamic
           27 Rajab:
@@ -267,10 +273,12 @@ holidays:
           11-11:
             name:
               en: Sultan of Kelantan's Birthday
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Keputeraan Sultan Kelantan
           11-12:
             name:
               en: Sultan of Kelantan's Birthday
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Keputeraan Sultan Kelantan
       "04":
         name: Malacca
@@ -278,10 +286,12 @@ holidays:
           04-15:
             name:
               en: Declaration of Malacca City as Historical City
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Perisytiharan Bandar Melaka sebagai Bandaraya Bersejarah
           08-24:
             name:
               en: Melaka State Governor's Birthday
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Jadi Yang di-Pertua Negeri Melaka
           # Islamic
           1 Ramadan:
@@ -293,6 +303,7 @@ holidays:
           01-14:
             name:
               en: Yang di-Pertuan Besar of Negeri Sembilan's Birthday
+              sv: Yang di-Pertuan Agong
               ms: Hari Keputeraan Yang di-Pertuan Besar Negeri Sembilan
           # Islamic
           27 Rajab:
@@ -328,10 +339,12 @@ holidays:
           05-22:
             name:
               en: Hari Hol of Pahang
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Hol Pahang
           07-30:
             name:
               en: Sultan of Pahang's Birthday
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Keputeraan Sultan Pahang
       "07":
         name: Penang
@@ -339,10 +352,12 @@ holidays:
           07-07:
             name:
               en: Declaration of George Town as World Heritage Site
+              sv: MANUAL OPERATION REQUIRED
               id: Hari Ulang Tahun Perisytiharan Tapak Warisan Dunia
           2nd Saturday in July:
             name:
               en: Penang State Governor's Birthday
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Jadi Yang di-Pertua Negeri Pulau Pinang
           # Thaipusam
           # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
@@ -374,6 +389,7 @@ holidays:
           1st Friday in November:
             name:
               en: Sultan of Perak's Birthday
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Keputeraan Sultan Perak
           # Thaipusam
           # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
@@ -406,6 +422,7 @@ holidays:
           07-17:
             name:
               en: Raja of Perlis's Birthday
+              sv: MANUAL OPERATION REQUIRED
               id: Hari Keputeraan Raja Perlis
           # Islamic
           27 Rajab:
@@ -418,6 +435,7 @@ holidays:
           12-11:
             name:
               en: Sultan of Selangor's Birthday
+              sv: MANUAL OPERATION REQUIRED
               id: Hari Keputeraan Sultan Selangor
           # Thaipusam
           # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
@@ -450,10 +468,12 @@ holidays:
           03-04:
             name:
               en: Anniversary of Installation of the Sultan of Terengganu
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Ulang Tahun Pertabalan Sultan Terengganu
           04-26:
             name:
               en: Sultan of Terengganu's Birthday
+              sv: Mizan Zainal Abidin
               ms: Hari Keputeraan Sultan Terengganu
           # Islamic
           27 Rajab:
@@ -470,14 +490,17 @@ holidays:
           05-30:
             name:
               en: Tadau Kaamatan
+              sv: MANUAL OPERATION REQUIRED
               ms: Pesta Kaamatan
           05-31:
             name:
               en: Tadau Kaamatan
+              sv: MANUAL OPERATION REQUIRED
               ms: Pesta Kaamatan
           1st Saturday in October:
             name:
               en: Sabah State Governor's Birthday
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Jadi Yang di-Pertua Negeri Sabah
           12-24:
             _name: 12-24
@@ -508,18 +531,22 @@ holidays:
           06-01:
             name:
               en: Gawai Dayak
+              sv: MANUAL OPERATION REQUIRED
               ms: Perayaan Hari Gawai Dayak
           06-02:
             name:
               en: Gawai Dayak
+              sv: MANUAL OPERATION REQUIRED
               ms: Perayaan Hari Gawai Dayak
           07-22:
             name:
               en: Sarawak Independence Day
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Kemerdekaan Sarawak
           2nd Saturday in October:
             name:
               en: Sarawak State Governor's Birthday
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Jadi Yang di-Pertua Negeri Sarawak
           # Islamic
           17 Ramadan: false
@@ -529,6 +556,7 @@ holidays:
           02-01:
             name:
               en: Federal Territory Day
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Wilayah Persekutuan
           # Thaipusam
           # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
@@ -560,14 +588,17 @@ holidays:
           02-01:
             name:
               en: Federal Territory Day
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Wilayah Persekutuan
           05-30:
             name:
               en: Tadau Kaamatan
+              sv: MANUAL OPERATION REQUIRED
               ms: Pesta Kaamatan
           05-31:
             name:
               en: Tadau Kaamatan
+              sv: MANUAL OPERATION REQUIRED
               ms: Pesta Kaamatan
       "16":
         name: Putrajaya
@@ -575,6 +606,7 @@ holidays:
           02-01:
             name:
               en: Federal Territory Day
+              sv: MANUAL OPERATION REQUIRED
               ms: Hari Wilayah Persekutuan
           # Thaipusam
           # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016

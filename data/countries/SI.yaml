@@ -21,6 +21,7 @@ holidays:
       02-08:
         name:
           en: Prešeren Day, the Slovenian Cultural Holiday
+          sv: MANUAL OPERATION REQUIRED
           sl: Prešernov dan, slovenski kulturni praznik
         active:
           - from: 1991
@@ -31,12 +32,13 @@ holidays:
         name:
           sl: Jurjevanje
           en: St. George's Day
-          sv: Sankt Georgs dag
+          sv: Sankt Georgsdagen
         type: observance
       easter -49:
         name:
           sl: Pust
           en: Carnival
+          sv: Karneval
         type: observance
       easter:
         _name: easter
@@ -46,6 +48,7 @@ holidays:
         name:
           sl: Dan upora proti okupatorju
           en: Day of Uprising Against Occupation
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
         name:
@@ -66,6 +69,7 @@ holidays:
         name:
           sl: Dan Primoža Trubarja
           en: Primož Trubar Day
+          sv: Primož Trubar
         type: observance
         active:
           - from: 2010
@@ -73,6 +77,7 @@ holidays:
         name:
           sl: Dan državnosti
           en: Statehood Day
+          sv: MANUAL OPERATION REQUIRED
         active:
           - from: 1991
       08-15:
@@ -83,6 +88,7 @@ holidays:
         name:
           sl: Združitev prekmurskih Slovencev z matičnim narodom
           en: Unification of Prekmurje Slovenes with the Mother Nation
+          sv: MANUAL OPERATION REQUIRED
         type: observance
         active:
           - from: 2006
@@ -90,6 +96,7 @@ holidays:
         name:
           sl: Vrnitev Primorske k matični domovini
           en: Return of Primorska to the Motherland
+          sv: MANUAL OPERATION REQUIRED
         type: observance
         active:
           - from: 2005
@@ -97,6 +104,7 @@ holidays:
         name:
           sl: Dan slovenskega športa
           en: Slovenian Sports Day
+          sv: MANUAL OPERATION REQUIRED
         type: observance
         active:
           - from: 2020
@@ -104,6 +112,7 @@ holidays:
         name:
           sl: Dan suverenosti
           en: Sovereignty Day
+          sv: MANUAL OPERATION REQUIRED
         type: observance
         active:
           - from: 2015
@@ -111,19 +120,23 @@ holidays:
         name:
           sl: Dan reformacije
           en: Reformation Day
+          sv: Reformationsdagen
       11-01:
         name:
           sl: Dan spomina na mrtve
           en: Day of Remembrance for the Dead
+          sv: Nationella dagen för åminnelse av döda
       11-11:
         name:
           sl: Martinovanje
           en: St. Martin's Day
+          sv: Mårtensafton
         type: observance
       11-23:
         name:
           sl: Dan Rudolfa Maistra
           en: Rudolf Maister Day
+          sv: MANUAL OPERATION REQUIRED
         type: observance
         active:
           - from: 2015
@@ -131,7 +144,7 @@ holidays:
         name:
           sl: Miklavž
           en: Saint Nicholas Day
-          sv: Sankt Nikolaus dag
+          sv: Nikolausdagen
         type: observance
       12-25:
         _name: 12-25
@@ -142,6 +155,7 @@ holidays:
         name:
           sl: Dan samostojnosti in enotnosti
           en: Independence and Unity Day
+          sv: Sloveniens självständighets- och enhetsdag
     # regions:
     # '001':
     #   name: Ajdovščina

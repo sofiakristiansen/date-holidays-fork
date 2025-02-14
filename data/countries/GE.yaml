@@ -17,24 +17,29 @@ holidays:
         name:
           ge: ბედობა
           en: Bedoba
+          sv: MANUAL OPERATION REQUIRED
       01-07:
         name:
           ge: შობა
           en: Orthodox Christmas
+          sv: Jul
       01-19:
         name:
           ge: ნათლისღება
           en: Orthodox Epiphany
+          sv: MANUAL OPERATION REQUIRED
       03-03:
         name:
           ge: დედის დღე
           en: Mother's Day
+          sv: Mors dag
       03-08:
         _name: 03-08
       04-09:
         name:
           ge: ეროვნული ერთიანობის დღე
           en: National Unity Day
+          sv: MANUAL OPERATION REQUIRED
       orthodox -2:
         _name: easter -2
       orthodox -1:
@@ -47,26 +52,29 @@ holidays:
         name:
           ge: ფაშიზმზე გამარჯვების დღე
           en: Victory Day
-          sv: Segerdagen
+          sv: Segerdagen 1945
       05-12:
         name:
           ge: წმინდა ანდრია პირველწოდებულის ხსენების დღე
           en: Saint Andrew the First-Called Day
+          sv: MANUAL OPERATION REQUIRED
       05-26:
         name:
           ge: დამოუკიდებლობის დღე
           en: Independence Day
-          sv: Självständighetsdagen
+          sv: MANUAL OPERATION REQUIRED
       08-28:
         name:
           ge: მარიამობა
           en: Saint Mary's Day
+          sv: MANUAL OPERATION REQUIRED
       10-14:
         name:
           ge: სვეტიცხოვლობა
           en: Svetitskhovloba
+          sv: MANUAL OPERATION REQUIRED
       11-23:
         name:
           ge: გიორგობა
           en: Saint George's Day
-          sv: Sankt Georgs dag
+          sv: Sankt Georgsdagen

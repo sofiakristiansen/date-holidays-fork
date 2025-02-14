@@ -17,6 +17,7 @@ holidays:
         name:
           fr: Jour des Aieux
           en: Ancestry Day
+          sv: MANUAL OPERATION REQUIRED
       01-06:
         _name: 01-06
         name:
@@ -26,10 +27,12 @@ holidays:
         name:
           fr: Lundi Gras
           en: Lundi Gras
+          sv: MANUAL OPERATION REQUIRED
       easter -47:
         name:
           fr: Mardi Gras
           en: Mardi Gras
+          sv: MANUAL OPERATION REQUIRED
       easter -46:
         _name: easter -46
         type: observance
@@ -47,12 +50,14 @@ holidays:
         name:
           fr: Jour du Drapeau et de l'Université
           en: Flag and Universities' Day
+          sv: MANUAL OPERATION REQUIRED
       08-15:
         _name: 08-15
       10-17:
         name:
           fr: Anniversaire de la mort de Dessalines
           en: Anniversary of the death of Dessalines
+          sv: MANUAL OPERATION REQUIRED
       11-01:
         _name: 11-01
       11-02:
@@ -61,10 +66,12 @@ holidays:
         name:
           fr: Vertières
           en: Battle of Vertières Day
+          sv: MANUAL OPERATION REQUIRED
       12-05:
         name:
           fr: Découverte d'Haïti
           en: Discovery Day
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       12-25:
         _name: 12-25

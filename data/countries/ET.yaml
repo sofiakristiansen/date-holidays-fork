@@ -23,10 +23,12 @@ holidays:
         name:
           am: የዓድዋ ድል በዓል
           en: Victory at Adwa Day
+          sv: Slaget vid Adua
       03-28:
         name:
           am: የቀይ ሽብር መታሰቢያ ቀን
           en: Day of Lament
+          sv: MANUAL OPERATION REQUIRED
       orthodox -2:
         _name: easter -2
       orthodox:
@@ -35,6 +37,7 @@ holidays:
         name:
           am: ደርግ የወደቀበት ቀን
           en: Derg Downfall Day
+          sv: MANUAL OPERATION REQUIRED
       09-11 in non-leap years:
         _name: 01-01
       09-12 in leap years:
@@ -43,10 +46,12 @@ holidays:
         name:
           am: ብርሐነ-መስቀል
           en: Finding of the True Cross
+          sv: Det sanna korset
       09-28 in leap years:
         name:
           am: ብርሐነ-መስቀል
           en: Finding of the True Cross
+          sv: Det sanna korset
       1 Ramadan:
         _name: 1 Ramadan
       12 Rabi al-awwal:

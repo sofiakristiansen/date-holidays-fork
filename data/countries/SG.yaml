@@ -45,12 +45,12 @@ holidays:
       08-09:
         name:
           en: National Day
-          sv: Nationaldagen
+          sv: Nationaldag
       substitutes 08-09 if sunday then next monday:
         substitute: true
         name:
           en: National Day
-          sv: Nationaldagen
+          sv: Nationaldag
       12-25:
         _name: 12-25
       substitutes 12-25 if sunday then next monday:
@@ -60,6 +60,7 @@ holidays:
         _name: 1 Shawwal
         name:
           en: Hari Raya Puasa
+          sv: Id al-fitr
         # Revision from SG gov
         # @source https://www.humanresourcesonline.net/singapore-s-revised-public-holiday-list-for-2022-new-dates-for-hari-raya-puasa-and-haji
         # https://www.mom.gov.sg/employment-practices/public-holidays
@@ -75,6 +76,7 @@ holidays:
         _name: 10 Dhu al-Hijjah
         name:
           en: Hari Raya Haji
+          sv: Id al-adha
         # Revision from SG gov
         # @source https://www.humanresourcesonline.net/singapore-s-revised-public-holiday-list-for-2022-new-dates-for-hari-raya-puasa-and-haji
         # https://www.mom.gov.sg/employment-practices/public-holidays
@@ -224,6 +226,7 @@ holidays:
       "2023-09-1":
         name:
           en: Presidential Election Day
+          sv: MANUAL OPERATION REQUIRED
         type: public
 
     # states:

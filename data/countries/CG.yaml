@@ -4,7 +4,7 @@ holidays:
     names:
       fr: République du Congo
       en: Republic of the Congo
-      sv: Republiken Kongo
+      sv: Kongo-Brazzaville
     dayoff: sunday
     langs:
       - fr
@@ -27,7 +27,7 @@ holidays:
       06-10:
         name:
           fr: Fête de la commémoration de la conférence nationale souveraine
-          sv: Fête de la commémoration de la conférence nationale souveraine
+          sv: MANUAL OPERATION REQUIRED
       08-15:
         _name: 08-15
       11-01:
@@ -35,7 +35,7 @@ holidays:
       11-28:
         name:
           fr: Journée nationale de la République
-          sv: Republikens nationaldag
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
     # states:

@@ -22,17 +22,19 @@ holidays:
         name:
           fr: Fête Nationale (Indépendance)
           en: Independence Day
-          sv: Självständighetsdagen
+          sv: MANUAL OPERATION REQUIRED
       12-01 and if sunday then next monday:
         name:
           fr: Journée de la libération et de la démocratie
           en: Freedom and Democracy Day
+          sv: MANUAL OPERATION REQUIRED
       11-01:
         _name: 11-01
       11-28:
         name:
           fr: Anniversaire de la Proclamation de la République
           en: Proclamation of the Republic
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
       easter 1:

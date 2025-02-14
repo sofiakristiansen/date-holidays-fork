@@ -4,8 +4,8 @@ holidays:
   NZ:
     names:
       en: New Zealand
-      mi: Aotearoa
       sv: Nya Zeeland
+      mi: Aotearoa
     dayoff: sunday
     langs:
       - en
@@ -21,10 +21,12 @@ holidays:
         substitute: true
         name:
           en: Day after New Year's Day
+          sv: MANUAL OPERATION REQUIRED
       02-06 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: Waitangi Day
+          sv: Waitangidagen
       easter -2:
         _name: easter -2
       easter:
@@ -36,15 +38,16 @@ holidays:
         substitute: true
         name:
           en: ANZAC Day
-          sv: Anzac dag
+          sv: Anzac Day
       # @source https://www.govt.nz/browse/work/public-holidays-and-work/public-holidays-and-anniversary-dates/
       1st monday in June prior to 2023:
         name:
           en: Queen's Birthday
-          sv: Drottningens födelsedag
+          sv: Kungens officiella födelsedag
       1st monday in June since 2023:
         name:
           en: King's Birthday
+          sv: Kungens officiella födelsedag
       4th monday in October:
         _name: 05-01
       12-25 and if saturday then next monday if sunday then next tuesday:
@@ -57,126 +60,164 @@ holidays:
       "2022-06-24":
         name:
           en: Matariki
+          sv: Matariki
       "2023-07-14":
         name:
           en: Matariki
+          sv: Matariki
       "2024-06-28":
         name:
           en: Matariki
+          sv: Matariki
       "2025-06-20":
         name:
           en: Matariki
+          sv: Matariki
       "2026-07-10":
         name:
           en: Matariki
+          sv: Matariki
       "2027-06-25":
         name:
           en: Matariki
+          sv: Matariki
       "2028-07-14":
         name:
           en: Matariki
+          sv: Matariki
       "2029-07-06":
         name:
           en: Matariki
+          sv: Matariki
       "2030-06-21":
         name:
           en: Matariki
+          sv: Matariki
       "2031-07-11":
         name:
           en: Matariki
+          sv: Matariki
       "2032-07-02":
         name:
           en: Matariki
+          sv: Matariki
       "2033-06-24":
         name:
           en: Matariki
+          sv: Matariki
       "2034-07-07":
         name:
           en: Matariki
+          sv: Matariki
       "2035-06-29":
         name:
           en: Matariki
+          sv: Matariki
       "2036-07-18":
         name:
           en: Matariki
+          sv: Matariki
       "2037-07-10":
         name:
           en: Matariki
+          sv: Matariki
       "2038-06-25":
         name:
           en: Matariki
+          sv: Matariki
       "2039-07-15":
         name:
           en: Matariki
+          sv: Matariki
       "2040-07-06":
         name:
           en: Matariki
+          sv: Matariki
       "2041-07-19":
         name:
           en: Matariki
+          sv: Matariki
       "2042-07-11":
         name:
           en: Matariki
+          sv: Matariki
       "2043-07-03":
         name:
           en: Matariki
+          sv: Matariki
       "2044-06-24":
         name:
           en: Matariki
+          sv: Matariki
       "2045-07-07":
         name:
           en: Matariki
+          sv: Matariki
       "2046-06-29":
         name:
           en: Matariki
+          sv: Matariki
       "2047-07-19":
         name:
           en: Matariki
+          sv: Matariki
       "2048-07-03":
         name:
           en: Matariki
+          sv: Matariki
       "2049-06-25":
         name:
           en: Matariki
+          sv: Matariki
       "2050-07-15":
         name:
           en: Matariki
+          sv: Matariki
       "2051-06-30":
         name:
           en: Matariki
+          sv: Matariki
       "2052-06-21":
         name:
           en: Matariki
+          sv: Matariki
       # @source https://www.beehive.govt.nz/release/public-holiday-26-september-mark-passing-queen-elizabeth-ii#:~:text=New%20Zealand%20will%20mark%20the,Minister%20Jacinda%20Ardern%20has%20announced.
       "2022-09-26":
         name:
           en: National Day of Mourning for Queen Elizabeth II
+          sv: Elizabeth II:s död och begravning
     states:
       AUK:
         names:
           en: Auckland Province
+          sv: MANUAL OPERATION REQUIRED
           mi: Tāmaki-makau-rau
         days:
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       BOP:
         names:
           en: Bay of Plenty
+          sv: MANUAL OPERATION REQUIRED
           mi: Te Moana-a-Toi
         days:
           # Same as in NZ-AUK
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       CAN:
         names:
           en: Canterbury
+          sv: Canterbury
           mi: Waitaha
         days:
           friday after 2nd tuesday in November:
             name:
               en: Christchurch Show Day
+              sv: MANUAL OPERATION REQUIRED
             note: May differ in parts of North Canterbury
         regions:
           Timaru: # South Canterbury
@@ -186,41 +227,50 @@ holidays:
               4th monday in September:
                 name:
                   en: Dominion Day
+                  sv: MANUAL OPERATION REQUIRED
       CIT:
         names:
           en: Chatham Islands
+          sv: Chathamöarna
           mi: Wharekauri
         days:
           11-30 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       GIS:
         names:
           en: Gisborne
+          sv: Gisborne
           mi: Te Tai Rāwhiti
         days:
           # Same as NZ-AUK
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       HKB:
         names:
           en: Hawke's Bay
+          sv: Hawke's Bay
           mi: Te Matau-a-Māui
         days:
           # Friday before Labour Day
           friday before 4th monday in October:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       MBH:
         names:
           en: Marlborough
+          sv: Marlborough
           mi: Te Tauihu-o-te-waka
         days:
           # Monday after Labour Day
           5th monday in October:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       MWT:
         name: Manawatu-Wanganui
         days:
@@ -228,54 +278,66 @@ holidays:
           01-22 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       NSN:
         names:
           en: Nelson
+          sv: Nelson (olika betydelser)
           mi: Whakatū
         days:
           02-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       NTL:
         names:
           en: Northland
+          sv: MANUAL OPERATION REQUIRED
           mi: Te Tai Tokerau
         days:
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       OTA:
         names:
           en: Otago Province
+          sv: MANUAL OPERATION REQUIRED
           mi: Ōtākou
         days:
           # 03-23 if ... then next monday if easter 1 then next Monday"; This will happen in 2285 the next time ;)
           03-23 if Tuesday,Wednesday,Thursday then previous Monday if Friday,Saturday,Sunday then next Monday if is public holiday then next Monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       STL:
         names:
           en: Southland
+          sv: Southland (TV-serie)
           mi: Murihiku
         days:
           easter 2:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       TAS:
         names:
           en: Tasman
+          sv: Tasman (olika betydelser)
           mi: Te Tai-o-Aorere
         days:
           # Same as NZ-NSN
           02-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       TKI:
         name: Taranaki
         days:
           2nd monday in March:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       WKO:
         name: Waikato
         days:
@@ -283,22 +345,27 @@ holidays:
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       WGN:
         names:
           en: Wellington Province
+          sv: MANUAL OPERATION REQUIRED
           mi: Te Whanga-nui-a-Tara
         days:
           01-22 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
       WTC:
         names:
           en: Westland
+          sv: MANUAL OPERATION REQUIRED
           mi: Te Tai Poutini
         days:
           12-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+              sv: MANUAL OPERATION REQUIRED
         regions:
           Buller:
             name: Buller district
@@ -308,3 +375,4 @@ holidays:
               02-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
                 name:
                   en: Provincial anniversary day
+                  sv: MANUAL OPERATION REQUIRED

@@ -17,6 +17,7 @@ holidays:
         substitute: true
         name:
           en: National Hero′s Day
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       easter:
@@ -32,6 +33,7 @@ holidays:
       1st Monday in July:
         name:
           en: Carnival Monday
+          sv: Karnevalen på Trinidad
         disable:
           - "2021-06-05"
         enable:
@@ -39,6 +41,7 @@ holidays:
       Tuesday after 1st Monday in July:
         name:
           en: Carnival Tuesday
+          sv: Fettisdagen
         disable:
           - "2021-06-06"
         enable:
@@ -47,7 +50,7 @@ holidays:
         substitute: true
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       10-27 and if Sunday then next Monday:
         substitute: true
         _name: Independence Day

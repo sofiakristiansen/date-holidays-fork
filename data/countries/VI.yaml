@@ -15,15 +15,17 @@ holidays:
         _name: 01-06
         name:
           en: Three Kings Day
-          sv: Tre kungars dag
+          sv: Trettondedag jul
       3rd monday in February:
         name:
           en: President's Day
+          sv: MANUAL OPERATION REQUIRED
       # Saint Patrick's Day is not observed
       03-17: false
       03-31:
         name:
           en: Transfer Day
+          sv: MANUAL OPERATION REQUIRED
       easter -3:
         _name: easter -3
       easter -2:
@@ -33,18 +35,22 @@ holidays:
       07-03:
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       4th Monday in July:
         name:
           en: Hurricane Supplication Day
+          sv: MANUAL OPERATION REQUIRED
       2nd monday in October:
         name:
           en: Virgin Islands–Puerto Rico Friendship Day
+          sv: MANUAL OPERATION REQUIRED
       10-25:
         name:
           en: Hurricane Thanksgiving
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       friday after 4th thursday in November:
         name:
           en: Day after Thanksgiving Day
+          sv: Thanksgiving Classic
         type: school

@@ -17,9 +17,11 @@ holidays:
         substitute: true
         name:
           en: John Chilembwe Day
+          sv: MANUAL OPERATION REQUIRED
       03-03 and if saturday,sunday then next monday:
         name:
           en: Martyrs' Day
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       easter:
@@ -33,6 +35,7 @@ holidays:
         substitute: true
         name:
           en: Kamuzu Day
+          sv: MANUAL OPERATION REQUIRED
       07-06 and if saturday,sunday then next monday:
         substitute: true
         _name: Independence Day
@@ -47,3 +50,4 @@ holidays:
         _name: 1 Shawwal
         name:
           en: Eid al Fitri
+          sv: MANUAL OPERATION REQUIRED

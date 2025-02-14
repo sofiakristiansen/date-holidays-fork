@@ -22,9 +22,11 @@ holidays:
       Monday before 03-08:
         name:
           en: The Anniversary of the Birth of Hamilton Lavity Stoutt
+          sv: MANUAL OPERATION REQUIRED
       2nd Monday in March:
         name:
           en: Commonwealth Day
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       easter:
@@ -40,6 +42,7 @@ holidays:
       2nd Saturday after 06-02 prior to 2020:
         name:
           en: Sovereign’s Birthday
+          sv: Trooping the Colour MANUAL OPERATION REQUIRED
         disable:
           - "2017-06-10"
           - "2019-06-15"
@@ -49,9 +52,11 @@ holidays:
       2nd Friday after 06-02 since 2020:
         name:
           en: Sovereign’s Birthday
+          sv: Trooping the Colour MANUAL OPERATION REQUIRED
       07-01 if Sunday,Thursday then next Monday if Saturday then previous Friday if Tuesday,Wednesday then previous Monday:
         name:
           en: Virgin Islands Day
+          sv: Amerikanska Jungfruöarna MANUAL OPERATION REQUIRED
         # wed 1/7/15 -> mon 29/6
         # fri 1/7/16
         # sat 1/7/17 -> fri 30/6
@@ -62,6 +67,7 @@ holidays:
       10-21 if Sunday then next Monday if Saturday then previous Friday if Tuesday,Wednesday then previous Monday if Thursday then next Friday:
         name:
           en: St. Ursula’s Day
+          sv: Ursula (helgon)
         disable:
           - "2016-10-23"
           - "2020-10-19"
@@ -78,18 +84,23 @@ holidays:
       1st Monday in August:
         name:
           en: Emancipation Monday
+          sv: MANUAL OPERATION REQUIRED
       Tuesday after 1st Monday in August:
         name:
           en: Emancipation Tuesday
+          sv: MANUAL OPERATION REQUIRED
       Wednesday after 1st Monday in August:
         name:
           en: Emancipation Wednesday
+          sv: MANUAL OPERATION REQUIRED
       "2021-10-18":
         name:
           en: Heroes’ and Forefathers Day
+          sv: MANUAL OPERATION REQUIRED
       "2021-11-08":
         name:
           en: Commemoration of the Great March of 1949
+          sv: MANUAL OPERATION REQUIRED
       12-25 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-25

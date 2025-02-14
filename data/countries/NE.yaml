@@ -23,6 +23,7 @@ holidays:
         name:
           fr: Journée Nationale de la Concorde
           en: Concord Day
+          sv: MANUAL OPERATION REQUIRED
       05-01:
         _name: 05-01
       08-03:

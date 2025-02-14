@@ -30,7 +30,7 @@ holidays:
         substitute: true
         name:
           en: Australia Day
-          sv: Australiens dag
+          sv: Australiendagen
       easter -2:
         _name: easter -2
       easter -1:
@@ -42,7 +42,7 @@ holidays:
       04-25:
         name:
           en: Anzac Day
-          sv: Anzac dag
+          sv: Anzac Day
       2nd sunday in May:
         _name: Mothers Day
         type: observance
@@ -59,7 +59,7 @@ holidays:
       "2022-09-22":
         name:
           en: National Day of Mourning for Queen Elizabeth II
-          sv: Nationell sorgedag för drottning Elizabeth II
+          sv: MANUAL OPERATION REQUIRED
     states:
       # @source https://www.legislation.act.gov.au/a/1958-19
       ACT:
@@ -70,38 +70,38 @@ holidays:
           2nd monday in March:
             name:
               en: Canberra Day
-              sv: Canberras dag
+              sv: MANUAL OPERATION REQUIRED
           04-25: false
           04-25 if sunday then next monday:
             substitute: true
             name:
               en: Anzac Day
-              sv: Anzac dag
+              sv: Anzac Day
           "2020-04-27":
             name:
               en: Declared public holiday
-              sv: Förklarad helgdag
+              sv: MANUAL OPERATION REQUIRED
             type: public
           monday after 05-27:
             name:
               en: Reconciliation Day
-              sv: Försoningsdagen
+              sv: Day of Reconciliation
           2nd monday in June:
             name:
               en: Queen's Birthday
-              sv: Drottningens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - to: "2022-09-08"
           "2nd monday in June #1":
             name:
               en: King's Birthday
-              sv: Kungens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - from: "2022-09-09"
           1st monday in October:
             name:
               en: Labour Day
-              sv: Arbetarnas dag
+              sv: MANUAL OPERATION REQUIRED
       # @source https://www.legislation.nsw.gov.au/~/pdf/view/act/2010/115/whole
       NSW:
         name: New South Wales
@@ -111,24 +111,24 @@ holidays:
           2nd monday in June:
             name:
               en: Queen's Birthday
-              sv: Drottningens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - to: "2022-09-08"
           "2nd monday in June #1":
             name:
               en: King's Birthday
-              sv: Kungens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - from: "2022-09-09"
           1st monday in August:
             name:
               en: Bank Holiday
-              sv: Helgdag
+              sv: Bankfridag
             type: bank
           1st monday in October:
             name:
               en: Labour Day
-              sv: Arbetarnas dag
+              sv: MANUAL OPERATION REQUIRED
       # @source https://legislation.nt.gov.au/en/Legislation/PUBLIC-HOLIDAYS-ACT-1981
       NT:
         name: Northern Territory
@@ -141,27 +141,27 @@ holidays:
             substitute: true
             name:
               en: Anzac Day
-              sv: Anzac dag
+              sv: Anzac Day
           1st monday in May:
             name:
               en: May Day
-              sv: Första maj
+              sv: MANUAL OPERATION REQUIRED
           2nd monday in June:
             name:
               en: Queen's Birthday
-              sv: Drottningens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - to: "2022-09-08"
           "2nd monday in June #1":
             name:
               en: King's Birthday
-              sv: Kungens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - from: "2022-09-09"
           1st monday in August:
             name:
               en: Picnic Day
-              sv: Picknickdagen
+              sv: MANUAL OPERATION REQUIRED
           1st monday in October: false
           12-24 19:00:
             _name: 12-24
@@ -187,22 +187,22 @@ holidays:
             substitute: true
             name:
               en: Anzac Day
-              sv: Anzac dag
+              sv: Anzac Day
           1st monday in May:
             name:
               en: Labour Day
-              sv: Arbetarnas dag
+              sv: MANUAL OPERATION REQUIRED
           2nd monday in June: false
           1st monday in October:
             name:
               en: Queen's Birthday
-              sv: Drottningens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - to: "2022-09-08"
           "1st monday in October #1":
             name:
               en: King's Birthday
-              sv: Kungens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - from: "2022-09-09"
           12-24 18:00:
@@ -217,23 +217,23 @@ holidays:
           2nd monday in March:
             name:
               en: Adelaide Cup Day
-              sv: Adelaide Cup Day
+              sv: MANUAL OPERATION REQUIRED
           2nd monday in June:
             name:
               en: Queen's Birthday
-              sv: Drottningens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - to: "2022-09-08"
           "2nd monday in June #1":
             name:
               en: King's Birthday
-              sv: Kungens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - from: "2022-09-09"
           1st monday in October:
             name:
               en: Labour Day
-              sv: Arbetarnas dag
+              sv: MANUAL OPERATION REQUIRED
           12-24 19:00:
             _name: 12-24
           12-25 and if saturday then next monday if sunday then next tuesday: false
@@ -245,7 +245,7 @@ holidays:
             substitute: true
             name:
               en: Proclamation Day
-              sv: Kungörelsens dag
+              sv: MANUAL OPERATION REQUIRED
           12-31 19:00:
             _name: 12-31
       # @source https://www.legislation.tas.gov.au/view/html/inforce/current/act-2000-096
@@ -261,7 +261,7 @@ holidays:
           2nd monday in March:
             name:
               en: Eight Hours Day
-              sv: Åtta timmars dagen
+              sv: MANUAL OPERATION REQUIRED
           easter -1: false
           easter: false
           easter +2:
@@ -271,13 +271,13 @@ holidays:
           2nd monday in June:
             name:
               en: Queen's Birthday
-              sv: Drottningens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - to: "2022-09-08"
           "2nd monday in June #1":
             name:
               en: King's Birthday
-              sv: Kungens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - from: "2022-09-09"
           1st monday in October: false
@@ -294,17 +294,17 @@ holidays:
           2nd monday in March:
             name:
               en: Labour Day
-              sv: Arbetarnas dag
+              sv: MANUAL OPERATION REQUIRED
           2nd monday in June:
             name:
               en: Queen's Birthday
-              sv: Drottningens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - to: "2022-09-08"
           "2nd monday in June #1":
             name:
               en: King's Birthday
-              sv: Kungens födelsedag
+              sv: Kungens officiella födelsedag
             active:
               - from: "2022-09-09"
           1st monday in October: false
@@ -313,7 +313,7 @@ holidays:
           1st friday before October:
             name:
               en: AFL Grand Final Friday
-              sv: AFL Grand Final Friday
+              sv: MANUAL OPERATION REQUIRED
             note: Date might differ as dependent on AFL schedule
           1st tuesday in November:
             name:
@@ -329,7 +329,7 @@ holidays:
           1st monday in March:
             name:
               en: Labour Day
-              sv: Arbetarnas dag
+              sv: MANUAL OPERATION REQUIRED
           easter -1: false
           easter: false
           04-25: false
@@ -337,23 +337,23 @@ holidays:
             substitute: true
             name:
               en: Anzac Day
-              sv: Anzac dag
+              sv: Anzac Day
           1st monday in June:
             name:
               en: Western Australia Day
-              sv: Western Australia Day
+              sv: MANUAL OPERATION REQUIRED
           2nd monday in June: false
           monday before October:
             name:
               en: Queen's Birthday
-              sv: Drottningens födelsedag
+              sv: Kungens officiella födelsedag
             note: Might be on a different day; is proclaimed by Governor
             active:
               - to: "2022-09-08"
           "monday before October #1":
             name:
               en: King's Birthday
-              sv: Kungens födelsedag
+              sv: Kungens officiella födelsedag
             note: Might be on a different day; is proclaimed by Governor
             active:
               - from: "2022-09-09"

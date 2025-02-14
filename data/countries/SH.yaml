@@ -3,7 +3,7 @@ holidays:
   SH:
     names:
       en: St. Helena
-      sv: Sankt Helena
+      sv: Sankta Helena
     langs:
       - en
     zones:
@@ -28,15 +28,17 @@ holidays:
       3rd monday in April:
         name:
           en: Queen's Birthday
-          sv: Drottningens födelsedag
+          sv: Kungens officiella födelsedag
       05-21:
         name:
           en: Saint Helena Day
+          sv: MANUAL OPERATION REQUIRED
       easter 50:
         _name: easter 50
       monday before 09-01:
         name:
           en: August Bank Holiday
+          sv: MANUAL OPERATION REQUIRED
       12-25:
         _name: 12-25
       substitutes 12-25 if saturday then next tuesday:
@@ -71,25 +73,33 @@ holidays:
           "2012-04-23":
             name:
               en: Ratting Day
+              sv: MANUAL OPERATION REQUIRED
           "2013-05-03":
             name:
               en: Ratting Day
+              sv: MANUAL OPERATION REQUIRED
           "2014-05-02":
             name:
               en: Ratting Day
+              sv: MANUAL OPERATION REQUIRED
           "2015-05-16":
             name:
               en: Ratting Day
+              sv: MANUAL OPERATION REQUIRED
           "2016-04-30":
             name:
               en: Ratting Day
+              sv: MANUAL OPERATION REQUIRED
           "2017-05-26":
             name:
               en: Ratting Day
+              sv: MANUAL OPERATION REQUIRED
           "2018-06-02":
             name:
               en: Ratting Day
+              sv: MANUAL OPERATION REQUIRED
           08-14:
             name:
               en: Anniversary Day
+              sv: MANUAL OPERATION REQUIRED
           monday before 09-01: false

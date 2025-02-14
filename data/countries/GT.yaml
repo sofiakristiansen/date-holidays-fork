@@ -30,7 +30,7 @@ holidays:
         name:
           es: Día de las Fuerzas Armadas
           en: Army Day
-          sv: Arméns dag
+          sv: MANUAL OPERATION REQUIRED
       09-15:
         _name: Independence Day
       10-20:

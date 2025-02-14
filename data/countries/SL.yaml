@@ -17,7 +17,7 @@ holidays:
         substitute: true
         name:
           en: Armed Forces Day
-          sv: Försvarsmaktens dag
+          sv: MANUAL OPERATION REQUIRED
       03-08 and if Sunday then next Monday:
         substitute: true
         _name: 03-08
@@ -33,16 +33,19 @@ holidays:
         _name: 1 Shawwal
         name:
           en: Korité
+          sv: Id al-fitr
       10 Dhu al-Hijjah and if Sunday then next Monday:
         substitute: true
         _name: 10 Dhu al-Hijjah
         name:
           en: Tabaski
+          sv: Id al-adha
       12 Rabi al-awwal and if Sunday then next Monday:
         substitute: true
         _name: 12 Rabi al-awwal
         name:
           en: Mawlid
+          sv: Mawlid
       12-25 and if Sunday then next Tuesday:
         substitute: true
         _name: 12-25

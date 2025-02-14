@@ -15,7 +15,7 @@ holidays:
       01-21:
         name:
           en: Errol Barrow Day
-          sv: Errol Barrow dagen
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       easter:
@@ -26,7 +26,7 @@ holidays:
       04-28:
         name:
           en: National Heroes Day
-          sv: Dag för firande av nationella hjältar
+          sv: MANUAL OPERATION REQUIRED
       05-01 if sunday then next monday:
         name:
           en: May Day
@@ -38,11 +38,11 @@ holidays:
       08-01:
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       1st monday in August:
         name:
           en: Kadooment Day
-          sv: Kadooment Day
+          sv: MANUAL OPERATION REQUIRED
       11-30:
         _name: Independence Day
       12-25:

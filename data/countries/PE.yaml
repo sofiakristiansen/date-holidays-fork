@@ -31,10 +31,12 @@ holidays:
       08-30:
         name:
           en: Santa Rosa de Lima
+          sv: Rosa av Lima
           es: Día de Santa Rosa de Lima
       10-08:
         name:
           en: Battle of Angamos
+          sv: Sjöslaget vid Angamos
           es: Combate de Angamos
       11-01:
         _name: 11-01
@@ -49,6 +51,7 @@ holidays:
           06-24:
             name:
               en: Festival of the Sun
+              sv: MANUAL OPERATION REQUIRED
               es: Fiesta Inca del Sol
               qu: Inti Raymi
             type: observance

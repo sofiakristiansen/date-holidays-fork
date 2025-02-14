@@ -16,11 +16,13 @@ holidays:
         name:
           es: Día de Canarias
           en: Canary Islands Day
+          sv: MANUAL OPERATION REQUIRED
       substitutes 05-30 if Sunday then next Monday:
         substitute: true
         name:
           es: Día de Canarias
           en: Canary Islands Day
+          sv: MANUAL OPERATION REQUIRED
       substitutes 08-15 if Sunday then next Monday:
         substitute: true
         _name: 08-15

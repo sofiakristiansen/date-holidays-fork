@@ -18,7 +18,7 @@ holidays:
     names:
       es: México
       en: Mexico
-      sv: Mexico
+      sv: Mexiko
     dayoff: sunday
     langs:
       - es
@@ -43,14 +43,17 @@ holidays:
       1st monday in February:
         name:
           en: Constitution Day (day off)
+          sv: MANUAL OPERATION REQUIRED
           es: Día de la Constitución (día libre)
       03-21:
         name:
           en: Benito Juárez's birthday
+          sv: MANUAL OPERATION REQUIRED
           es: Natalicio de Benito Juárez
       3rd monday in March:
         name:
           en: Benito Juárez's birthday (day off)
+          sv: Benito Juárez
           es: Natalicio de Benito Juárez (día libre)
       easter -3:
         _name: easter -3
@@ -73,14 +76,17 @@ holidays:
       3rd monday in November:
         name:
           en: Revolution Day (day off)
+          sv: MANUAL OPERATION REQUIRED
           es: Día de la Revolución (día libre)
       12-01 every 6 years since 1934:
         name:
           en: Change of Federal Government
+          sv: USA:s federala statsmakt
           es: Transmisión del Poder Ejecutivo Federal
       12-12:
         name:
           en: Day of the Virgin of Guadalupe
+          sv: Vår Fru av Guadalupe
           es: Día de la Virgen de Guadalupe
         type: bank
       12-25:

@@ -16,107 +16,131 @@ holidays:
         name:
           fa: نوروز
           en: Nowruz
+          sv: Nouruz
       2 Farvardin:
         name:
           fa: نوروز
           en: Nowruz
+          sv: Nouruz
       3 Farvardin:
         name:
           fa: نوروز
           en: Nowruz
+          sv: Nouruz
       4 Farvardin:
         name:
           fa: نوروز
           en: Nowruz
+          sv: Nouruz
       12 Farvardin:
         name:
           fa: روز جمهوری اسلامی
           en: Islamic Republic Day
-          sv: Republikens dag
+          sv: MANUAL OPERATION REQUIRED
       13 Farvardin:
         name:
           fa: سیزده بدر
           en: Sizdah Bedar
+          sv: MANUAL OPERATION REQUIRED
       14 Khordad:
         name:
           fa: رﺣﻠﺖ اﻣﺎم ﺧﻤﯿﻨﯽ
           en: Imam Khomeini's Demise
+          sv: Imamah
       15 Khordad:
         name:
           fa: قیام ۱۵ خرداد
           en: Revolt of Khordad 15
+          sv: MANUAL OPERATION REQUIRED
       22 Bahman:
         name:
           fa: انقلاب اسلامی پنجاه و هفت
           en: Anniversary of Islamic Revolution
+          sv: Iranska revolutionen
       29 Esfand:
         name:
           fa: ملی شدن صنعت نفت
           en: Nationalization of the Iranian oil industry
+          sv: MANUAL OPERATION REQUIRED
       9 Muharram:
         name:
           fa: ﺗﺎﺳﻮﻋﺎی ﺣﺴﯿﻨﯽ
           en: Tasoua
+          sv: MANUAL OPERATION REQUIRED
       10 Muharram:
         name:
           fa: ﻋﺎﺷﻮرای ﺣﺴﯿﻨﯽ
           en: Ashoura
+          sv: Ashura
       20 Safar:
         name:
           fa: اربعین حسینی
           en: Arbaeen-e Hosseini
+          sv: MANUAL OPERATION REQUIRED
       28 Safar:
         name:
           fa: رﺣﻠﺖ ﺣﻀﺮت رﺳﻮل اﮐﺮم صلّی الله علیه وآله و سلّم
           en: Demise of Prophet Muhammad and Imam Hassan (Mujtaba)
+          sv: Imamah
       30 Safar:
         name:
           fa: ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم رﺿﺎ ﻋﻠﯿﻪاﻟﺴﻼم
           en: Martyrdom of Imam Reza
+          sv: Imam Rezas helgedom
       8 Rabi al-awwal:
         name:
           fa: شهادت امام حسن عسكری علیه‌السلام
           en: Martyrdom of Imam Hassan
+          sv: Shia
       17 Rabi al-awwal:
         name:
           fa: ولادت حضرت رسول اکرم صلّی الله علیه وآله و سلّم
           en: Birthday of Muhammad Prophet
+          sv: MANUAL OPERATION REQUIRED
       3 Jumada al-thani:
         name:
           fa: ﺷﻬﺎدت ﺣﻀﺮت ﻓﺎﻃﻤﻪ زﻫﺮا ﺳﻼم اﷲ ﻋﻠﯿﻬﺎ
           en: Martyrdom of Fatima-Zahara
+          sv: Fatima
       13 Rajab:
         name:
           fa: وﻻدت ﺣﻀﺮت اﻣﺎم ﻋﻠﯽ ﻋﻠﯿﻪ اﻟﺴﻼم
           en: Birthday of Imam Ali
+          sv: MANUAL OPERATION REQUIRED
       27 Rajab:
         name:
           fa: ﻣﺒﻌﺚ ﺣﻀﺮت رﺳﻮل اﮐﺮم ﺻﻠﯽ اﷲ ﻋﻠﯿﻪ و آﻟﻪ
           en: Mabaas of Muhammad
+          sv: MANUAL OPERATION REQUIRED
       15 Shaban:
         name:
           fa: وﻻدت ﺣﻀﺮت ﻗﺎﺋﻢ ﻋﺠﻞاﷲ ﺗﻌﺎﻟﯽ ﻓﺮﺟﻪ شریف
           en: Birthday of Imam Mahdi
+          sv: Muhammad al-Mahdi al-Muntazar
       21 Ramadan:
         name:
           fa: ﺷﻬﺎدت ﺣﻀﺮت ﻋﻠﯽ ﻋﻠﯿﻪاﻟﺴﻼم
           en: Martyrdom of Imam Ali
+          sv: Husayn ibn Ali
       1 Shawwal:
         _name: 1 Shawwal
       2 Shawwal:
         name:
           fa: ﺑﻪ ﻣﻨﺎﺳﺒﺖ ﻋﯿﺪ ﺳﻌﯿﺪ ﻓﻄﺮ
           en: Holyday for Fetr Eeid
+          sv: MANUAL OPERATION REQUIRED
       25 Shawwal:
         name:
           fa: ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم ﺟﻌﻔﺮ ﺻﺎدق ﻋﻠﯿﻪاﻟﺴﻼم
           en: Martyrdom of Imam Jafar
+          sv: Imam
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
       18 Dhu al-Hijjah:
         name:
           fa: ﻋﯿﺪ ﺳﻌﯿﺪ ﻏﺪﯾﺮ ﺧﻢ
           en: Eid al-Ghadeer
+          sv: Id al-Ghadeer
 
     # states:
     #   '10':

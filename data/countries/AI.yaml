@@ -18,7 +18,7 @@ holidays:
       03-02:
         name:
           en: James Ronald Webster Day
-          sv: James Ronald Webster dagen
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       easter:
@@ -31,7 +31,7 @@ holidays:
       05-30:
         name:
           en: Anguilla Day
-          sv: Anguillas nationaldag
+          sv: MANUAL OPERATION REQUIRED
       easter 49:
         _name: easter 49
         type: observance
@@ -40,21 +40,21 @@ holidays:
       2nd monday in June:
         name:
           en: Celebration of the Birthday of Her Majesty the Queen
-          sv: Firandet av Hennes Majestät Drottningens födelsedag
+          sv: Viktoria av Storbritannien
       1st monday in August:
         name:
           en: August Monday
-          sv: August Monday
+          sv: MANUAL OPERATION REQUIRED
       1st thursday in August:
         name:
           en: August Thursday
-          sv: August Thursdag
+          sv: August Thursday
       1st friday in August:
         _name: Constitution Day
       12-19:
         name:
           en: National Heroes and Heroines Day
-          sv: Dag för firande av nationella hjältar och hjältinnor
+          sv: MANUAL OPERATION REQUIRED
       12-25 and if saturday then next monday if sunday then next tuesday:
         _name: 12-25
         substitute: true

@@ -4,7 +4,7 @@ holidays:
   AG:
     names:
       en: Antigua & Barbuda
-      sv: Antigua & Barbuda
+      sv: Antigua och Barbuda
     langs:
       - en
     dayoff: sunday
@@ -34,17 +34,17 @@ holidays:
       08-01:
         name:
           en: J'Ouvert Morning
-          sv: J'Ouvert
+          sv: MANUAL OPERATION REQUIRED
       08-02:
         name:
           en: Last Lap
-          sv: Last Lap
+          sv: MANUAL OPERATION REQUIRED
       11-01 if saturday,sunday then next monday:
         _name: Independence Day
       12-09:
         name:
           en: V.C Bird Day
-          sv: V.C Bird Day
+          sv: MANUAL OPERATION REQUIRED
       12-25 and if saturday then next monday if sunday then next tuesday:
         _name: 12-25
         substitute: true
@@ -70,7 +70,7 @@ holidays:
           easter 47 P4D:
             name:
               en: Caribana
-              sv: Caribana
+              sv: MANUAL OPERATION REQUIRED
             type: observance
       # '11':
       #   name: Redonda

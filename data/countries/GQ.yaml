@@ -35,12 +35,13 @@ holidays:
         name:
           es: Natalicio de Teodoro Obiang
           en: President's Day
+          sv: MANUAL OPERATION REQUIRED
       08-03 and if sunday then next monday:
         substitute: true
         name:
           es: Día del Golpe de Libertad
           en: Armed Forces Day
-          sv: Försvarsmaktens dag
+          sv: MANUAL OPERATION REQUIRED
       08-15 and if sunday then next monday:
         substitute: true
         _name: Constitution Day

@@ -27,13 +27,14 @@ holidays:
       08-01 if sunday then next monday:
         name:
           en: Emancipation Day
-          sv: Emancipationsdagen
+          sv: MANUAL OPERATION REQUIRED
       08-06 and if sunday then next monday:
         _name: Independence Day
         substitute: true
       3rd monday in October:
         name:
           en: National Heroes Day
+          sv: MANUAL OPERATION REQUIRED
       12-25 and if sunday then next tuesday:
         _name: 12-25
         substitute: true

@@ -15,12 +15,12 @@ holidays:
         name:
           es: Triunfo de la Revolución
           en: Triumph of the Revolution
-          sv: Revolutionens segerdag
+          sv: MANUAL OPERATION REQUIRED
       01-02:
         name:
           es: Día de Victoria de las Fuerzas Armadas
           en: Victory of Armed Forces Day
-          sv: Försvarsmaktens segerdag
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
       05-01:
@@ -29,17 +29,17 @@ holidays:
         name:
           es: Conmemoración del asalto a Moncada
           en: Day before the Commemoration of the Assault of the Moncada garrison
-          sv: Dagen före Minnesdagen för anfallet på Moncada-kasernen
+          sv: MANUAL OPERATION REQUIRED
       07-26:
         name:
           es: Día de la Rebeldía Nacional
           en: Commemoration of the Assault of the Moncada garrison
-          sv: Minnesdagen för anfallet på Moncada-kasernen
+          sv: MANUAL OPERATION REQUIRED
       07-27:
         name:
           es: Conmemoración del asalto a Moncada
           en: Day after the Commemoration of the Assault of the Moncada garrison
-          sv: Dagen efter Minnesdagen för anfallet på Moncada-kasernen
+          sv: MANUAL OPERATION REQUIRED
       10-10:
         _name: Independence Day
       12-25:

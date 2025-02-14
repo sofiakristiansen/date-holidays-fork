@@ -16,6 +16,7 @@ holidays:
       01-18:
         name:
           en: Birthday of Rubén Darío
+          sv: Rubén Darío
           es: Natalicio de Rubén Darío
         type: observance
       easter -3:
@@ -32,8 +33,8 @@ holidays:
       06-01:
         name:
           en: Children's Day
+          sv: Internationella barndagen
           es: Día del niño
-          sv: Barnens dag
       06-23:
         _name: Fathers Day
         name:
@@ -42,16 +43,19 @@ holidays:
       07-19:
         name:
           en: Revolution Day
+          sv: MANUAL OPERATION REQUIRED
           es: Triunfo de la Revolución Popular
       09-14:
         name:
           en: Battle of San Jacinto
+          sv: Slaget vid San Jacinto
           es: Batalla de San Jacinto
       09-15:
         _name: Independence Day
       10-12:
         name:
           en: Indigenous Resistance Day
+          sv: MANUAL OPERATION REQUIRED
           es: Día de la resistencia indígena
       12-08:
         _name: 12-08

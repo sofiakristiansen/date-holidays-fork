@@ -23,12 +23,14 @@ holidays:
         name:
           pt: Dia dos heróis moçambicanos
           en: Heroes’ Day
+          sv: MANUAL OPERATION REQUIRED
       substitutes 02-03 if sunday then next monday:
         _name: Public Holiday
       04-07:
         name:
           pt: Dia da Mulher Moçambicana
           en: Women’s Day
+          sv: MANUAL OPERATION REQUIRED
       substitutes 04-07 if sunday then next monday:
         _name: Public Holiday
       05-01:
@@ -36,6 +38,7 @@ holidays:
         name:
           pt: Dia Internacional dos Trabalhadores
           en: Workers' Day
+          sv: Första maj
       substitutes 05-01 if sunday then next monday:
         _name: Public Holiday
       1st sunday in May:
@@ -51,18 +54,21 @@ holidays:
         name:
           pt: Dia da Vitória
           en: Lusaka Peace Agreement
+          sv: MANUAL OPERATION REQUIRED
       substitutes 09-07 if sunday then next monday:
         _name: Public Holiday
       09-25:
         name:
           pt: Dia das Forças Armadas de Libertação Nacional
           en: Defense Force’s Day
+          sv: MANUAL OPERATION REQUIRED
       substitutes 09-25 if sunday then next monday:
         _name: Public Holiday
       10-04:
         name:
           pt: Dia da Paz e Reconciliação
           en: Peace and Reconciliation Day
+          sv: Day of Reconciliation
       substitutes 10-04 if sunday then next monday:
         _name: Public Holiday
       12-25:
@@ -70,6 +76,6 @@ holidays:
         name:
           pt: Dia da Família
           en: Family Day
-          sv: Familjedagen
+          sv: MANUAL OPERATION REQUIRED
       substitutes 12-25 if sunday then next monday:
         _name: Public Holiday

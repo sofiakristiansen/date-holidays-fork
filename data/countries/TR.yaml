@@ -17,30 +17,34 @@ holidays:
       04-23:
         name:
           en: National Sovereignty and Children's Day
+          sv: MANUAL OPERATION REQUIRED
           tr: Ulusal Egemenlik ve Çocuk Bayramı
       05-01:
         _name: 05-01
         name:
           en: Labour and Solidarity Day
+          sv: MANUAL OPERATION REQUIRED
           tr: Emek ve Dayanışma Günü
       05-19:
         name:
           en: Commemoration of Atatürk, Youth and Sports Day
+          sv: MANUAL OPERATION REQUIRED
           tr: Atatürk'ü Anma Gençlik ve Spor Bayramı
       07-15:
         name:
           en: Democracy and National Unity Day
+          sv: MANUAL OPERATION REQUIRED
           tr: Demokrasi ve Millî Birlik Günü
       08-30:
         name:
           en: Victory Day
+          sv: MANUAL OPERATION REQUIRED
           tr: Zafer Bayramı
-          sv: Segerdagen
       10-29:
         name:
           en: Republic Day
-          tr: Cumhuriyet Bayramı
           sv: Republikens dag
+          tr: Cumhuriyet Bayramı
       1 Shawwal PT90H:
         _name: 1 Shawwal
       10 Dhu al-Hijjah PT114H:

@@ -25,14 +25,17 @@ holidays:
       1st monday in March:
         name:
           en: Guam History and Chamorro Heritage Day
+          sv: MANUAL OPERATION REQUIRED
       easter -2:
         _name: easter -2
         type: observance
       07-21 if sunday then next monday:
         name:
           en: Liberation Day
+          sv: MANUAL OPERATION REQUIRED
       11-02:
         _name: 11-02
       12-08 if sunday then next monday:
         name:
           en: Our Lady of Camarin Day
+          sv: MANUAL OPERATION REQUIRED

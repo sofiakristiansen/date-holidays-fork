@@ -16,13 +16,13 @@ holidays:
         name:
           bg: Баба Марта
           en: Granny March Day
-          sv: Baba Marta
+          sv: Baba martadagen
         type: observance
       03-03:
         name:
           bg: Ден на Освобождението на България от Османската Империя
           en: Liberation Day
-          sv: Befrielsedag från det Osmanska riket
+          sv: MANUAL OPERATION REQUIRED
       03-08:
         _name: 03-08
         type: observance
@@ -38,30 +38,30 @@ holidays:
         name:
           bg: Гергьовден
           en: St. George's Day
-          sv: Sankt Georgs dag
+          sv: Sankt Georgsdagen
       05-07:
         name:
           bg: Ден на радиото и телевизията
           en: Radio and Television Day
-          sv: Radio- och TV-dagen
+          sv: MANUAL OPERATION REQUIRED
         type: observance
       05-24:
         name:
           bg: Ден на азбуката, културата и просветата
           en: Bulgarian Education and Culture, and Slavonic Literature Day
-          sv: Bulgarian Education and Culture, and Slavonic Literature Day
+          sv: MANUAL OPERATION REQUIRED
       09-06:
         name:
           bg: Ден на съединението
           en: Unification Day
-          sv: Unionens dag
+          sv: MANUAL OPERATION REQUIRED
       09-22:
         _name: Independence Day
       11-01:
         name:
           bg: Ден на народните будители
           en: Revival Leaders' Day
-          sv: Revival Leaders' Day
+          sv: MANUAL OPERATION REQUIRED
         type: school
       12-24:
         _name: 12-24
