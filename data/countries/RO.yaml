@@ -19,7 +19,7 @@ holidays:
         name:
           ro: Ziua Unirii
           en: Unification Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Unionens dag
       03-08:
         name:
           ro: Ziua Mamei
@@ -57,7 +57,7 @@ holidays:
         name:
           ro: Ziua Imnului național
           en: National Anthem Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Nationalsångens dag
         type: observance
       08-15:
         _name: 08-15
@@ -65,12 +65,12 @@ holidays:
         name:
           ro: Sfântul Andrei
           en: St Andrew's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Sankt Andreas dag
       12-01:
         name:
           ro: Ziua națională, Ziua Marii Uniri
           en: National holiday
-          sv: MANUAL OPERATION REQUIRED
+          sv: Rumäniens nationaldag
       12-08:
         _name: Constitution Day
         type: observance

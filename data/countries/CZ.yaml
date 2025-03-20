@@ -19,7 +19,7 @@ holidays:
         name:
           cz: Škaredá středa
           en: Ugly Wednesday
-          sv: MANUAL OPERATION REQUIRED
+          sv: Fula onsdagen
         type: observance
       easter -3:
         _name: easter -3
@@ -48,7 +48,7 @@ holidays:
         name:
           cz: Den slovanských věrozvěstů Cyrila a Metoděje
           en: Saints Cyril and Methodius Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: De heliga Cyrillus och Methodius dag
       07-06:
         name:
           cz: Den upálení mistra Jana Husa
@@ -68,7 +68,7 @@ holidays:
         name:
           cz: Den boje za svobodu a demokracii
           en: Struggle for Freedom and Democracy Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kampen för frihet och demokrati-dagen
       12-24:
         _name: 12-24
       12-25:

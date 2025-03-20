@@ -25,12 +25,12 @@ holidays:
       01-22:
         name:
           en: Plurinational State Foundation Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Bolivias plurinationsstatens skapelsedag
           es: Día de la Creación del Estado Plurinacional de Bolivia
       substitutes 01-22 if sunday then next monday:
         name:
           en: Plurinational State Foundation Day (substitutes)
-          sv: Sionism
+          sv: Bolivias plurinationsstatens skapelsedag
           es: Día de la Creación del Estado Plurinacional de Bolivia (substituto)
       02-02:
         name:
@@ -78,7 +78,7 @@ holidays:
         _name: 05-01
         name:
           en: Labour Day (substitutes)
-          sv: MANUAL OPERATION REQUIRED
+          sv: Arbetarnas dag
           es: Día del Trabajo (substituto)
       05-27:
         name:
@@ -89,7 +89,7 @@ holidays:
       06-06:
         name:
           en: Teacher's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Lärardagen
           es: Día del Maestro
         type: observance
       easter 60:
@@ -99,11 +99,11 @@ holidays:
           en: Andean Amazonian Chaqueño New Year
           ay: Willkakuti
           es: Año Nuevo Andino Amazónico Chaqueño
-          sv: MANUAL OPERATION REQUIRED
+          sv: Andinska, Amazonas och Chaco Nyårsdagen
       substitutes 06-21 if sunday then next monday:
         name:
           en: Andean Amazonic Chacoan New Year (substitutes)
-          sv: MANUAL OPERATION REQUIRED
+          sv: Andinska, Amazonas och Chaco Nyårsdagen
           ay: Willkakuti (substituto)
           es: Año Nuevo Andino Amazónico Chaqueño (substituto)
       08-06:
@@ -111,7 +111,7 @@ holidays:
       substitutes 08-06 if sunday then next monday:
         name:
           en: Independence Day (substitutes)
-          sv: MANUAL OPERATION REQUIRED
+          sv: Självständighetsdagen
           es: Día de la Independencia (substituto)
       08-17:
         name:
@@ -122,14 +122,14 @@ holidays:
       09-21:
         name:
           en: Student's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Studenternas dag
           es: Día del Estudiante
         type: observance
       10-11:
         name:
           es: Día de la Mujer Boliviana
           en: Bolivian Woman's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Bolivianska kvinnodagen
         type: observance
       11-01:
         _name: 11-01
@@ -158,12 +158,12 @@ holidays:
             name:
               es: Efemérides del Beni
               en: Beni Day
-              sv: MANUAL OPERATION REQUIRED
+              sv: Beni-dagen
           substitutes 11-18 if sunday then next monday:
             name:
               es: Efemérides del Beni (substituto)
               en: Beni Day (substitutes)
-              sv: MANUAL OPERATION REQUIRED
+              sv: Beni-dagen
       C:
         name: Cochabamba
         days:
@@ -184,12 +184,12 @@ holidays:
             name:
               es: Efemérides de Chuquisaca
               en: Chuquisaca Day
-              sv: MANUAL OPERATION REQUIRED
+              sv: Chuquisacas historiska minnesdag
           substitutes 05-25 if sunday then next monday:
             name:
               es: Efemérides de Chuquisaca (substituto)
               en: Chuquisaca Day (substitutes)
-              sv: MANUAL OPERATION REQUIRED
+              sv: Chuquisacas historiska minnesdag
       L:
         name: La Paz
         days:
@@ -197,12 +197,12 @@ holidays:
             name:
               es: Efemérides de La Paz
               en: La Paz Day
-              sv: MANUAL OPERATION REQUIRED
+              sv: La Paz historiska minnesdag
           substitutes 07-16 if sunday then next monday:
             name:
               es: Efemérides de La Paz (substituto)
               en: La Paz Day (substitutes)
-              sv: MANUAL OPERATION REQUIRED
+              sv: La Paz historiska minnesdag
       "N":
         name: Pando
         days:
@@ -210,12 +210,12 @@ holidays:
             name:
               es: Efemérides de Pando
               en: Pando Day
-              sv: MANUAL OPERATION REQUIRED
+              sv: Pandos historiska minnesdag
           substitutes 09-24 if sunday then next monday:
             name:
               es: Efemérides de Pando (substituto)
               en: Pando Day (substitutes)
-              sv: MANUAL OPERATION REQUIRED
+              sv: Pandos historiska minnesdag
       O:
         name: Oruro
         days:
@@ -223,12 +223,12 @@ holidays:
             name:
               es: Efemérides de Oruro
               en: Oruro Day
-              sv: MANUAL OPERATION REQUIRED
+              sv: Oruros historiska minnesdag
           substitutes 02-10 if sunday then next monday:
             name:
               es: Efemérides de Oruro (substituto)
               en: Oruro Day (substitutes)
-              sv: MANUAL OPERATION REQUIRED
+              sv: Oruros historiska minnesdag
       P:
         name: Potosí
         days:
@@ -236,12 +236,12 @@ holidays:
             name:
               es: Efemérides de Potosí
               en: Potosí Day
-              sv: MANUAL OPERATION REQUIRED
+              sv: Potosís historiska minnesdag
           substitutes 11-10 if sunday then next monday:
             name:
               es: Efemérides de Potosí (substituto)
               en: Potosí Day (substitutes)
-              sv: MANUAL OPERATION REQUIRED
+              sv: Potosís historiska minnesdag
       S:
         name: Santa Cruz
         days:
@@ -249,12 +249,12 @@ holidays:
             name:
               es: Efemérides de Santa Cruz
               en: Santa Cruz Day
-              sv: MANUAL OPERATION REQUIRED
+              sv: Santa Cruz historiska minnesdag
           substitutes 09-24 if sunday then next monday:
             name:
               es: Efemérides de Santa Cruz (substituto)
               en: Santa Cruz Day (substitutes)
-              sv: MANUAL OPERATION REQUIRED
+              sv: Santa Cruz historiska minnesdag
       T:
         name: Tarija
         days:
@@ -262,9 +262,9 @@ holidays:
             name:
               es: Efemérides de Tarija
               en: Tarija Day
-              sv: MANUAL OPERATION REQUIRED
+              sv: Tarijas historiska minnesdag
           substitutes 04-15 if sunday then next monday:
             name:
               es: Efemérides de Tarija (substituto)
               en: Tarija Day (substitutes)
-              sv: MANUAL OPERATION REQUIRED
+              sv: Tarijas historiska minnesdag

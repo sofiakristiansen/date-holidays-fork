@@ -59,7 +59,7 @@ holidays:
         name:
           ru: День весны и труда
           en: Spring and Labour Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Vårens och arbetets dag
       05-09:
         name:
           ru: День Победы
@@ -74,4 +74,4 @@ holidays:
         name:
           ru: День народного единства
           en: Unity Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Folkets enighets dag

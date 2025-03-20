@@ -29,13 +29,13 @@ holidays:
         name:
           mk: Св. Кирил и Методиј
           en: Saints Cyril and Methodius Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Heliga Kyrillos och Methodios dag
       08-02 and if sunday then next monday:
         substitute: true
         name:
           mk: Ден на Републиката
           en: Day of the Republic
-          sv: MANUAL OPERATION REQUIRED
+          sv: Republikens dag
       09-08 and if sunday then next monday:
         substitute: true
         _name: Independence Day
@@ -44,13 +44,13 @@ holidays:
         name:
           mk: Ден на востанието
           en: Revolution Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Upprorets dag
       10-23 and if sunday then next monday:
         substitute: true
         name:
           mk: Ден на македонската револуционерна борба
           en: Day of the Macedonian Revolutionary Struggle
-          sv: MANUAL OPERATION REQUIRED
+          sv: Dagen för den makedonska revolutionära kampen
       12-08 and if sunday then next monday:
         substitute: true
         name:
@@ -123,7 +123,7 @@ holidays:
         name:
           mk: Ден на настава на турски јазик
           en: Turkish Language Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Dagen för undervisning på turkiska
         type: optional
         note: For members of the the Turkish community
       01-27:
@@ -151,7 +151,7 @@ holidays:
         name:
           mk: Меѓународен ден на Бошњаците
           en: International Day of Bosniaks
-          sv: MANUAL OPERATION REQUIRED
+          sv: Internationella dagen för bosniaker
         type: optional
         note: For Members of the Bosniak community.
 

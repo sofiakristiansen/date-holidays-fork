@@ -30,7 +30,7 @@ holidays:
       05-05:
         name:
           en: Arrival Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Ankomstdagen
       05-26:
         _name: Independence Day
       monday after 07-01:
@@ -40,7 +40,7 @@ holidays:
       08-01:
         name:
           en: Emancipation Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Emancipationsdagen
       12-25:
         _name: 12-25
       12-26:

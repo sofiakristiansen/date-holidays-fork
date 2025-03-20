@@ -55,7 +55,7 @@ holidays:
         name:
           hr: Dan državnosti
           en: Statehood Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kroatiens nationaldag
         type: public
         active:
           - to: "2020-01-01"
@@ -63,7 +63,7 @@ holidays:
         name:
           hr: Dan neovisnosti
           en: Independence Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kroatiens självständighetsdag
         type: observance
         active:
           - from: "2020-01-01"
@@ -80,7 +80,7 @@ holidays:
         name:
           hr: Dan neovisnosti
           en: Independence Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kroatiens självständighetsdag
         type: public
         active:
           - to: "2020-01-01"
@@ -88,7 +88,7 @@ holidays:
         name:
           hr: Dan Hrvatskoga sabora
           en: Day of the Croatian Parliament
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kroatiska parlamentets dag
         type: observence
         active:
           - from: "2020-01-01"
@@ -155,7 +155,7 @@ holidays:
             name:
               hr: Sveti Duje
               en: Saint Domnius
-              sv: MANUAL OPERATION REQUIRED
+              sv: Sankt Domnius dag
             type: optional
       "19":
         name: Dubrovnik-Neretva

@@ -23,7 +23,7 @@ holidays:
         name:
           nl: Dag van Bevrijding en Vernieuwing
           en: Day of Liberation and Innovation
-          sv: MANUAL OPERATION REQUIRED
+          sv: Befrielse- och förnyelsedagen
       easter -2:
         _name: easter -2
       easter:
@@ -38,12 +38,12 @@ holidays:
           nl: Dag der Vrijheden (Keti koti)
           srn: Keti koti
           en: Emancipation Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Frihetsdagen (Keti Koti)
       08-09:
         name:
           nl: Dag der Inheemsen
           en: Indigenous People's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Ursprungsfolkens da
       10-10:
         name:
           nl: Dag van de Marrons

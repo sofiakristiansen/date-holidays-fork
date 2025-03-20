@@ -16,7 +16,7 @@ holidays:
       04-06:
         name:
           en: Chakri Memorial Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Chakridagen
           th: วันจักรี
       04-13:
         name:
@@ -36,7 +36,7 @@ holidays:
       05-04:
         name:
           en: Coronation Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kröningsdagen
           th: วันฉัตรมงคล
       06-03:
         name:
@@ -46,17 +46,17 @@ holidays:
       07-28:
         name:
           en: King's Birthday
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kungens födelsedag
           th: วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว
       08-12:
         name:
           en: The Queen Mother's Birthday
-          sv: MANUAL OPERATION REQUIRED
+          sv: Drottning Sirikits födelsedag
           th: วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง
       10-13:
         name:
           en: King Bhumibol Adulyadej Memorial Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Årsdagen av kung Bhumibol Adulyadejs bortgång
           th: วันคล้ายวันสวรรคตพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร
       10-23:
         name:
@@ -71,7 +71,7 @@ holidays:
       12-10:
         name:
           en: Constitution Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Konstitutionsdagen
           th: วันรัฐธรรมนูญ
       12-31:
         _name: 12-31

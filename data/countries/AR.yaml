@@ -37,7 +37,7 @@ holidays:
       03-24:
         name:
           en: Day of Remembrance for Truth and Justice
-          sv: MANUAL OPERATION REQUIRED
+          sv: Minnesdagen för sanning och rättvisa
           es: Día de la Memoria por la Verdad y la Justicia
       substitutes 03-24 if tuesday then previous monday if thursday then next friday:
         _name: Bridge Day
@@ -50,7 +50,7 @@ holidays:
       04-02:
         name:
           en: Malvinas Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Veteran- och minnesdagen för de stupade i Falklandskriget
           es: Día del Veterano y de los Caídos en la Guerra de Malvinas
       substitutes 04-02 if tuesday then previous monday if thursday then next friday:
         _name: Bridge Day
@@ -61,7 +61,7 @@ holidays:
       05-25:
         name:
           en: First National Government (anniversary)
-          sv: MANUAL OPERATION REQUIRED
+          sv: Majrevolutionsdagen
           es: Primer Gobierno Patrio
       substitutes 05-25 if tuesday then previous monday if thursday then next friday:
         _name: Bridge Day
@@ -82,12 +82,12 @@ holidays:
       3rd monday in August:
         name:
           en: Anniversary of the death of General José de San Martín
-          sv: MANUAL OPERATION REQUIRED
+          sv: José de San Martín-dagen
           es: Día del Libertador José de San Martín
       10-12 if tuesday,wednesday then previous monday if thursday,friday,saturday,sunday then next monday:
         name:
           en: Day of Respect for Cultural Diversity
-          sv: MANUAL OPERATION REQUIRED
+          sv: Dagen för respekt för kulturell mångfald
           es: Día del Respeto a la Diversidad Cultural
       substitutes 10-12 if monday,tuesday,wednesday then previous friday:
         _name: Bridge Day
@@ -99,7 +99,7 @@ holidays:
         # @source http://www.mininterior.gov.ar/tramitesyservicios/pdf/feriado-nacional-27-11-2015.pdf
         name:
           en: Day of National Sovereignty
-          sv: MANUAL OPERATION REQUIRED
+          sv: Nationella suveränitetsdagen
           es: Día de la Soberanía nacional
       substitutes 11-20 if saturday,sunday then next monday:
         _name: Bridge Day

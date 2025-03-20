@@ -22,7 +22,7 @@ holidays:
         name:
           es: Día del Maestro
           en: Teacher's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Lärarnas dag
         type: optional
         note: teachers only
       03-19:
@@ -57,14 +57,14 @@ holidays:
       06-24:
         name:
           en: Battle of Carabobo
-          sv: MANUAL OPERATION REQUIRED
+          sv: Årsdagen av slaget vid Carabobo
           es: Aniversario de la Batalla de Carabobo
       07-05:
         _name: Independence Day
       07-24:
         name:
           en: Birthday of Simón Bolívar
-          sv: MANUAL OPERATION REQUIRED
+          sv: Simón Bolívars födelsedag
           es: Natalicio de Simón Bolívar
       08-03:
         name:
@@ -75,7 +75,7 @@ holidays:
       09-11:
         name:
           en: Our Lady of Coromoto
-          sv: MANUAL OPERATION REQUIRED
+          sv: Vår Fru av Coromoto-dagen
           es: Día de Nuestra Señora de Coromoto
         type: observance
       10-12:
@@ -95,7 +95,7 @@ holidays:
       12-10:
         name:
           en: Venezuelan Air Force Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Nationella flygvapnets dag
           es: Día de la Aviación Nacional
         type: observance
       12-24:

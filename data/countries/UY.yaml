@@ -30,7 +30,7 @@ holidays:
       easter -6 P5D:
         name:
           en: Tourism Week
-          sv: MANUAL OPERATION REQUIRED
+          sv: Turismveckan
           es: Semana de Turismo
         type: observance
       easter -3:
@@ -43,7 +43,7 @@ holidays:
       04-19 if tuesday,wednesday then previous monday if thursday,friday then next monday:
         name:
           en: Landing of the 33 Orientals
-          sv: MANUAL OPERATION REQUIRED
+          sv: De 33 orientalernas landstigning
           es: Desembarco de los 33 Orientales
         type: observance
       05-01:
@@ -51,13 +51,13 @@ holidays:
       05-18 if tuesday,wednesday then previous monday if thursday,friday then next monday:
         name:
           en: Battle of Las Piedras
-          sv: MANUAL OPERATION REQUIRED
+          sv: Slaget vid Las Piedras
           es: Batalla de las Piedras
         type: observance
       06-19:
         name:
           en: Birthday of José Gervasio Artigas and Never Again Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: José Artigas födelsedag och Aldrig mer-dagen
           es: Natalicio de Artigas y Día del Nunca Más
         type: observance
       07-18:

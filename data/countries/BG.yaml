@@ -22,7 +22,7 @@ holidays:
         name:
           bg: Ден на Освобождението на България от Османската Империя
           en: Liberation Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Bulgariens befrielsedag
       03-08:
         _name: 03-08
         type: observance
@@ -43,25 +43,25 @@ holidays:
         name:
           bg: Ден на радиото и телевизията
           en: Radio and Television Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Radio- och TV-dagen
         type: observance
       05-24:
         name:
           bg: Ден на азбуката, културата и просветата
           en: Bulgarian Education and Culture, and Slavonic Literature Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Bulgariska alfabetets och kulturens dag
       09-06:
         name:
           bg: Ден на съединението
           en: Unification Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Återföreningsdagen
       09-22:
         _name: Independence Day
       11-01:
         name:
           bg: Ден на народните будители
           en: Revival Leaders' Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Folkets upplysningsmännens dag
         type: school
       12-24:
         _name: 12-24

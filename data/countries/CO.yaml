@@ -44,7 +44,7 @@ holidays:
       08-07:
         name:
           en: Battle of Boyacá
-          sv: MANUAL OPERATION REQUIRED
+          sv: Slaget vid Boyacá
           es: Batalla de Boyacá
       monday after 08-15:
         _name: 08-15
@@ -59,7 +59,7 @@ holidays:
         name:
           es: Independencia de Cartagena
           en: Independence of Cartagena
-          sv: MANUAL OPERATION REQUIRED
+          sv: Cartagenas självständighetsdag
       12-08:
         _name: 12-08
       12-25:

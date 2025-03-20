@@ -36,12 +36,12 @@ holidays:
         name:
           fa: روز جمهوری اسلامی
           en: Islamic Republic Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Islamiska republikens dag
       13 Farvardin:
         name:
           fa: سیزده بدر
           en: Sizdah Bedar
-          sv: MANUAL OPERATION REQUIRED
+          sv: Naturens dag
       14 Khordad:
         name:
           fa: رﺣﻠﺖ اﻣﺎم ﺧﻤﯿﻨﯽ
@@ -51,7 +51,7 @@ holidays:
         name:
           fa: قیام ۱۵ خرداد
           en: Revolt of Khordad 15
-          sv: MANUAL OPERATION REQUIRED
+          sv: Upproret den 15 Khordad
       22 Bahman:
         name:
           fa: انقلاب اسلامی پنجاه و هفت
@@ -61,12 +61,12 @@ holidays:
         name:
           fa: ملی شدن صنعت نفت
           en: Nationalization of the Iranian oil industry
-          sv: MANUAL OPERATION REQUIRED
+          sv: Nationaliseringen av oljeindustrin
       9 Muharram:
         name:
           fa: ﺗﺎﺳﻮﻋﺎی ﺣﺴﯿﻨﯽ
           en: Tasoua
-          sv: MANUAL OPERATION REQUIRED
+          sv: Tasu'a Hosseini
       10 Muharram:
         name:
           fa: ﻋﺎﺷﻮرای ﺣﺴﯿﻨﯽ
@@ -76,7 +76,7 @@ holidays:
         name:
           fa: اربعین حسینی
           en: Arbaeen-e Hosseini
-          sv: MANUAL OPERATION REQUIRED
+          sv: Arbaeen Hosseini
       28 Safar:
         name:
           fa: رﺣﻠﺖ ﺣﻀﺮت رﺳﻮل اﮐﺮم صلّی الله علیه وآله و سلّم
@@ -96,7 +96,7 @@ holidays:
         name:
           fa: ولادت حضرت رسول اکرم صلّی الله علیه وآله و سلّم
           en: Birthday of Muhammad Prophet
-          sv: MANUAL OPERATION REQUIRED
+          sv: Profeten Muhammeds födelsedag
       3 Jumada al-thani:
         name:
           fa: ﺷﻬﺎدت ﺣﻀﺮت ﻓﺎﻃﻤﻪ زﻫﺮا ﺳﻼم اﷲ ﻋﻠﯿﻬﺎ
@@ -106,12 +106,12 @@ holidays:
         name:
           fa: وﻻدت ﺣﻀﺮت اﻣﺎم ﻋﻠﯽ ﻋﻠﯿﻪ اﻟﺴﻼم
           en: Birthday of Imam Ali
-          sv: MANUAL OPERATION REQUIRED
+          sv: Imam Alis födelsedag
       27 Rajab:
         name:
           fa: ﻣﺒﻌﺚ ﺣﻀﺮت رﺳﻮل اﮐﺮم ﺻﻠﯽ اﷲ ﻋﻠﯿﻪ و آﻟﻪ
           en: Mabaas of Muhammad
-          sv: MANUAL OPERATION REQUIRED
+          sv: Profetens kallelse
       15 Shaban:
         name:
           fa: وﻻدت ﺣﻀﺮت ﻗﺎﺋﻢ ﻋﺠﻞاﷲ ﺗﻌﺎﻟﯽ ﻓﺮﺟﻪ شریف
@@ -128,7 +128,7 @@ holidays:
         name:
           fa: ﺑﻪ ﻣﻨﺎﺳﺒﺖ ﻋﯿﺪ ﺳﻌﯿﺪ ﻓﻄﺮ
           en: Holyday for Fetr Eeid
-          sv: MANUAL OPERATION REQUIRED
+          sv: Eid al-Fitr
       25 Shawwal:
         name:
           fa: ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم ﺟﻌﻔﺮ ﺻﺎدق ﻋﻠﯿﻪاﻟﺴﻼم

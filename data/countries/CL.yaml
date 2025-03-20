@@ -27,17 +27,17 @@ holidays:
       05-21:
         name:
           en: Navy Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Marinens ära-dag
           es: Día de las Glorias Navales
       06-21 since 2021 prior to 2022:
         name:
           en: Indigenous People's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: De ursprungliga folkens dag
           es: Día de los Pueblos Indígenas
       june solstice in America/Santiago since 2022:
         name:
           en: Indigenous People's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: De ursprungliga folkens dag
           es: Día de los Pueblos Indígenas
       06-29 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         _name: 06-29
@@ -52,27 +52,27 @@ holidays:
         name:
           es: Fiestas Patrias
           en: National Holiday
-          sv: MANUAL OPERATION REQUIRED
+          sv: Chiles nationaldagar
       09-17 on friday, monday since 2017:
         name:
           en: National holiday
-          sv: MANUAL OPERATION REQUIRED
+          sv: Ytterligare helgdag för nationaldagarna
           es: Feriado Adicional Fiestas Patrias
       09-18:
         name:
           en: National holiday
-          sv: MANUAL OPERATION REQUIRED
+          sv: Chiles nationaldagar
           es: Fiestas Patrias
       09-19:
         name:
           en: Army Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Arméns ära-dag
           es: Día de las Glorias del Ejército
       09-20 on friday:
         name:
           es: Feriado Adicional Fiestas Patrias
           en: National Holiday
-          sv: MANUAL OPERATION REQUIRED
+          sv: Ytterligare helgdag för nationaldagarna
       10-12 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         name:
           en: Columbus Day
@@ -96,7 +96,7 @@ holidays:
           06-07:
             name:
               en: Battle of Arica
-              sv: MANUAL OPERATION REQUIRED
+              sv: Stormningen och erövringen av Morro de Arica
               es: Asalto y Toma del Morro de Arica
       BI:
         name: Biobío
@@ -107,7 +107,7 @@ holidays:
               08-20:
                 name:
                   en: Nativity of Liberator Bernardo O'Higgins
-                  sv: MANUAL OPERATION REQUIRED
+                  sv: Födelsen av självständighetshjälten
                   es: Nacimiento del Prócer de la Independencia
                 active:
                   - to: "2017-08-19"
@@ -120,7 +120,7 @@ holidays:
               08-20:
                 name:
                   en: Nativity of Liberator Bernardo O'Higgins
-                  sv: MANUAL OPERATION REQUIRED
+                  sv: Födelsen av självständighetshjälten
                   es: Nacimiento del Prócer de la Independencia
                 active:
                   - from: "2017-08-19"

@@ -21,12 +21,12 @@ holidays:
         name:
           sr: Дан државности Србије
           en: Statehood Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Serbiens nationaldag
       02-16 if sunday then next monday:
         name:
           sr: Дан државности Србије
           en: Statehood Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Serbiens nationaldag
       orthodox -2:
         _name: orthodox -2
       orthodox:
@@ -41,7 +41,7 @@ holidays:
         name:
           sr: Дан примирја
           en: Armistice Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Vapenvilodagen
 
       easter -2:
         _name: easter -2

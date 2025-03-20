@@ -30,7 +30,7 @@ holidays:
         name:
           no: Samefolkets dag
           en: Day of the Sami people
-          sv: MANUAL OPERATION REQUIRED
+          sv: Samefolkets dag
         type: observance
       2nd sunday in February:
         _name: Mothers Day
@@ -42,13 +42,13 @@ holidays:
         name:
           no: H.M. kong Harald V
           en: Birthday of King Harald V
-          sv: MANUAL OPERATION REQUIRED
+          sv: H.M. kung Harald V:s dag
         type: observance
       easter -49:
         name:
           no: Fastelavn
           en: Carnival
-          sv: MANUAL OPERATION REQUIRED
+          sv: Fastelavn
         type: observance
       easter -46:
         _name: easter -46
@@ -87,7 +87,7 @@ holidays:
         name:
           no: Unionsoppløsningen
           en: Union Dissolution Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Unionsupplösningen
         type: observance
       06-23:
         name:
@@ -117,7 +117,7 @@ holidays:
         name:
           no: H.K.H. kronprinsesse Mette-Marit
           en: Birthday of Crown Princess Mette-Marit
-          sv: MANUAL OPERATION REQUIRED
+          sv: H.K.H. kronprinsessan Mette-Marit:s dag
         type: observance
       1st sunday in November:
         name:

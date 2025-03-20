@@ -22,7 +22,7 @@ holidays:
       01-02 and if sunday then next monday:
         name:
           en: 2nd day of the New Year
-          sv: MANUAL OPERATION REQUIRED
+          sv: Andra nyårsdagen
           bs: Drugi dan Nove Godine
         substitute: true
       05-01 and if sunday then next tuesday:
@@ -31,7 +31,7 @@ holidays:
       05-02 and if sunday then next monday:
         name:
           en: 2nd day of the Labour Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Andra dagen av arbetarnas dag
           bs: Drugi dan Dana rada
         substitute: true
       # Catholic
@@ -84,7 +84,7 @@ holidays:
           11-25:
             name:
               en: Statehood Day
-              sv: MANUAL OPERATION REQUIRED
+              sv: Bosnien och Hercegovinas nationaldag
               bs: Dan državnosti
         regions:
           W:
@@ -98,7 +98,7 @@ holidays:
           03-08:
             name:
               en: Day of the Establishment of the District
-              sv: MANUAL OPERATION REQUIRED
+              sv: Brčko-distriktets grundandedag
       SRP:
         name: Republika Srpska
         days:
@@ -115,5 +115,5 @@ holidays:
           11-21:
             name:
               en: Dayton Agreement Day
-              sv: MANUAL OPERATION REQUIRED
+              sv: Fredsdagen
               bs: Dan uspostave Opšteg okvirnog sporazuma za mir u Bosni i Hercegovini

@@ -24,7 +24,7 @@ holidays:
       05-04 12:00:
         name:
           en: Youth Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kinas ungdomsdag
           zh: 青年节
         note: Youth from the age of 14 to 28
       06-01:
@@ -36,7 +36,7 @@ holidays:
       08-01 12:00:
         name:
           en: Army Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kinesiska folkets befrielsearmés dag
           zh: 建军节
         note: Military personnel in active service
       10-01:
@@ -57,17 +57,17 @@ holidays:
       chinese 01-0-00: # Spring Festival Eve
         name:
           en: Spring Festival
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kinesiska nyåret
           zh: 春节
       chinese 01-0-01: # 1st day of 1st lunar month
         name:
           en: Spring Festival
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kinesiska nyåret
           zh: 春节
       chinese 01-0-02:
         name:
           en: Spring Festival
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kinesiska nyåret
           zh: 春节
       chinese 5-01 solarterm: # Tomb-Sweeping Day
         name:
@@ -91,23 +91,23 @@ holidays:
       "2021-02-14":
         name:
           en: Spring Festival
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kinesiska nyåret
           zh: 春节
         note: Work on Sun February 7 and Sat February 20.
       "2021-02-15":
         name:
           en: Spring Festival
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kinesiska nyåret
           zh: 春节
       "2021-02-16":
         name:
           en: Spring Festival
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kinesiska nyåret
           zh: 春节
       "2021-02-17":
         name:
           en: Spring Festival
-          sv: MANUAL OPERATION REQUIRED
+          sv: Kinesiska nyåret
           zh: 春节
       "2021-04-03":
         name:

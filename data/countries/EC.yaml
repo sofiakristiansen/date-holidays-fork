@@ -33,23 +33,23 @@ holidays:
       05-24:
         name:
           en: The Battle of Pichincha
-          sv: MANUAL OPERATION REQUIRED
+          sv: Slaget vid Pichincha
           es: Batalla del Pichincha
       07-24:
         name:
           en: The Birthday of Simón Bolívar
-          sv: MANUAL OPERATION REQUIRED
+          sv: Simón Bolívars födelsedag
           es: El Natalicio de Simón Bolívar
         type: observance
       08-10:
         name:
           en: Declaration of Independence of Quito
-          sv: MANUAL OPERATION REQUIRED
+          sv: Dagen för Quitos första självständighetsrop
           es: Día del Primer Grito de Independencia de Quito
       09-10:
         name:
           en: Independence of Guayaquil
-          sv: MANUAL OPERATION REQUIRED
+          sv: Guayaquils självständighetsdag
           es: Independencia de Guayaquil
       10-31:
         name:
@@ -62,7 +62,7 @@ holidays:
       11-03:
         name:
           en: Independence of Cuenca
-          sv: MANUAL OPERATION REQUIRED
+          sv: Cuencas självständighetsdag
           es: Independencia de Cuenca
       12-25:
         _name: 12-25
@@ -79,7 +79,7 @@ holidays:
               12-06:
                 name:
                   en: Foundation of Quito
-                  sv: MANUAL OPERATION REQUIRED
+                  sv: Årsdagen av Quitos grundande
                   es: Aniversario de la fundación de Quito
                 type: observance
       # A:

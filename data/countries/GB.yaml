@@ -31,7 +31,7 @@ holidays:
       1st monday in May:
         name:
           en: Early May bank holiday
-          sv: MANUAL OPERATION REQUIRED
+          sv: Tidiga majhelgen
         disable:
           - "2020-05-04"
       # applies to GG, JE, IM as well
@@ -58,7 +58,7 @@ holidays:
       "2012-06-05":
         name:
           en: Queen’s Diamond Jubilee
-          sv: MANUAL OPERATION REQUIRED
+          sv: Drottningens diamantjubileum
       "2020-05-08":
         name:
           en: Early May bank holiday (VE day)
@@ -67,7 +67,7 @@ holidays:
       "2022-06-03":
         name:
           en: Queen’s Platinum Jubilee
-          sv: MANUAL OPERATION REQUIRED
+          sv: Drottningens platinajubileum
       # @source https://www.gov.uk/government/news/bank-holiday-announced-for-her-majesty-queen-elizabeth-iis-state-funeral-on-monday-19-september
       # @source https://gov.gg/monarch
       "2022-09-19":
@@ -98,7 +98,7 @@ holidays:
           1st monday before 09-01:
             name:
               en: Summer bank holiday
-              sv: MANUAL OPERATION REQUIRED
+              sv: Sommarlovets helgdag
         # regions:
         # BAS:
         #   name: Bath and North East Somerset
@@ -426,7 +426,7 @@ holidays:
           07-12:
             name:
               en: "Battle of the Boyne, Orangemen’s Day"
-              sv: MANUAL OPERATION REQUIRED
+              sv: Slaget vid Boyne, Orangemännens dag
           substitutes 07-12 if saturday then next monday:
             substitute: true
             name:
@@ -440,7 +440,7 @@ holidays:
           1st monday before 09-01:
             name:
               en: Summer bank holiday
-              sv: MANUAL OPERATION REQUIRED
+              sv: Sommarlovets helgdag
         # regions:
         # ABC:
         #   name: 'Armagh, Banbridge and Craigavon'
@@ -494,11 +494,11 @@ holidays:
           1st monday in August:
             name:
               en: Summer bank holiday
-              sv: MANUAL OPERATION REQUIRED
+              sv: Sommarlovets helgdag
           11-30:
             name:
               en: St Andrew’s Day
-              sv: MANUAL OPERATION REQUIRED
+              sv: Sankt Andreas dag
         # regions:
         # ABD:
         #   name: Aberdeenshire
@@ -570,7 +570,7 @@ holidays:
           1st monday before 09-01:
             name:
               en: Summer bank holiday
-              sv: MANUAL OPERATION REQUIRED
+              sv: Sommarlovets helgdag
         regions: {}
         # AGY:
         #   name: Anglesey

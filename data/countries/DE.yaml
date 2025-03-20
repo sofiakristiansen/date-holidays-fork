@@ -20,7 +20,7 @@ holidays:
         name:
           de: Weiberfastnacht
           en: Women's Carnival Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Torsdagskarnevalen
         type: observance
       easter -48:
         name:
@@ -80,7 +80,7 @@ holidays:
         name:
           de: Volkstrauertag
           en: Memorial Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Folkets sorgedag
         type: observance
       5th sunday before 12-25:
         name:
@@ -150,7 +150,7 @@ holidays:
             name:
               de: Tag der Befreiung (75. Jahrestag)
               en: Liberation Day (75th Anniversary)
-              sv: MANUAL OPERATION REQUIRED
+              sv: Befrielsedagen (75-årsdagen)
       BW:
         name: Baden-Württemberg
         days:
@@ -191,12 +191,12 @@ holidays:
                 name:
                   de: Augsburger Friedensfest
                   en: Augsburg Peace Festival
-                  sv: MANUAL OPERATION REQUIRED
+                  sv: Augsburgs fredsfest
           EVANG:
             names:
               de: Überwiegend evangelische Gemeinden
               en: Predominantly protestant communities
-              sv: MANUAL OPERATION REQUIRED
+              sv: Marie himmelsfärd
             days:
               08-15:
                 _name: 08-15

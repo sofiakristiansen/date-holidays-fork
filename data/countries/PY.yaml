@@ -23,7 +23,7 @@ holidays:
           - "2017-02-27"
         name:
           en: Heroes' Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Hjältarnas dag
           es: Dia de los héroes
       easter -3:
         _name: easter -3
@@ -32,7 +32,7 @@ holidays:
       04-30:
         name:
           en: Teacher's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Lärarnas dag
           es: Día del Maestro
         type: optional
         note: Affects educational institutions
@@ -65,7 +65,7 @@ holidays:
           - "2017-10-02"
         name:
           en: Boqueron Battle Victory Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Segern vid Boquerón
           es: Victoria de Boquerón
       12-08:
         _name: 12-08
