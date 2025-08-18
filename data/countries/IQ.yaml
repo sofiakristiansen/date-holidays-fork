@@ -1,0 +1,66 @@
+holidays:
+  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Iraq
+  IQ:
+    names:
+      ar: "جمهورية العراق"
+      en: "Iraq"
+      sv: "Irak"
+    dayoff: friday
+    langs:
+      - ar
+    zones:
+      - Asia/Baghdad
+    days:
+      01-01:
+        _name: 01-01
+      01-06:
+        name:
+          ar: "يوم الجيش"
+          en: Army Day
+          sv: Armens dag
+      03-21:
+        name:
+          ar: "نوروز"
+          en: Nowruz
+          sv: Nouruz
+      05-01:
+        _name: 05-01
+      10-03:
+        name:
+          ar: "اليوم الوطني"
+          en: National Day
+          sv: Nationaldagen
+      12-10:
+        name:
+          ar: "يوم النصر"
+          en: Victory Day
+          sv: Segerdagen
+      12-25:
+        _name: 12-25
+      "1 Muharram":
+        _name: 1 Muharram
+      "10 Muharram":
+        _name: 10 Muharram
+      "12 Rabi al-awwal":
+        _name: 12 Rabi al-awwal
+      "1 Shawwal P3D":
+        _name: 1 Shawwal
+      "9 Dhu al-Hijjah":
+        _name: 9 Dhu al-Hijjah
+      "10 Dhu al-Hijjah P4D":
+        _name: 10 Dhu al-Hijjah
+      "18 Dhu al-Hijjah":
+        name:
+          ar: "عيد الغدير"
+          en: Eid al-Ghadir
+          sv: Id al-Ghadeer
+      04-09:
+        name:
+          ar: "يوم التحرير"
+          en: Liberation Day
+          sv: MANUAL OPERATION REQUIRED
+      07-14:
+        name:
+          ar: "يوم الجمهورية"
+          en: 14 July Revolution
+          sv: 14 juli-revolutionen

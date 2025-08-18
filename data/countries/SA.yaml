@@ -1,0 +1,31 @@
+holidays:
+  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Saudi_Arabia
+  SA:
+    names:
+      ar: "المملكة العربية السعودية"
+      en: "Saudi Arabia"
+      sv: "Saudiarabien"
+    dayoff: friday
+    langs:
+      - ar
+    zones:
+      - Asia/Riyadh
+    days:
+      02-22:
+        name:
+          ar: "يوم التأسيس"
+          en: "Saudi Founding Day"
+          sv: MANUAL OPERATION REQUIRED
+      "1 Muharram":
+        _name: 1 Muharram
+      "1 Shawwal P3D":
+        _name: 1 Shawwal
+      "9 Dhu al-Hijjah":
+        _name: 9 Dhu al-Hijjah
+      "10 Dhu al-Hijjah P4D":
+        _name: 10 Dhu al-Hijjah
+      09-23:
+        name:
+          ar: "اليوم الوطني"
+          en: "Saudi National Day"
+          sv: "Nationaldagen"

@@ -1,0 +1,46 @@
+holidays:
+  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Uzbekistan
+  UZ:
+    names:
+      uz: "O´zbekiston"
+      en: "Uzbekistan"
+      sv: "Uzbekistan"
+    dayoff: sunday
+    langs:
+      - uz
+    zones:
+      - Asia/Samarkand
+    days:
+      01-01:
+        _name: 01-01
+      03-08:
+        _name: 03-08
+      03-21:
+        name:
+          uz: "Navroʻz"
+          en: "Nowruz"
+          sv: "Nouruz"
+      05-09:
+        name:
+          uz: "Xotira va qadrlash kuni"
+          en: "Victory Day (9 May)"
+          sv: "Segerdagen 1945"
+      09-01:
+        name:
+          uz: "Mustaqillik kuni"
+          en: "Independence Day (Uzbekistan)"
+          sv: "Uzbekistans självständighetsdag"
+      10-01:
+        name:
+          uz: "O‘qituvchilar kuni"
+          en: "Teachers' Day"
+          sv: "Lärarnas dag"
+      12-08:
+        name:
+          uz: "Konstitutsiya kuni"
+          en: "Constitution of Uzbekistan"
+          sv: "Konstitutionsdagen"
+      "1 Shawwal P3D":
+        _name: 1 Shawwal
+      "10 Dhu al-Hijjah P3D":
+        _name: 10 Dhu al-Hijjah

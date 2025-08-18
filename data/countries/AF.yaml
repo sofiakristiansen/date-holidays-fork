@@ -1,0 +1,53 @@
+holidays:
+  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Afghanistan
+  AF:
+    names:
+      fa: "افغانستان"
+      en: "Afghanistan"
+      sv: "Afghanistan"
+    dayoff: friday
+    langs:
+      - fa
+    zones:
+      - Asia/Kabul
+    days:
+      02-15:
+        name:
+          en: Liberation Day
+          sv: MANUAL OPERATION REQUIRED
+      03-21:
+        name:
+          en: Nowruz
+          sv: Nouruz
+      04-28:
+        name:
+          en: Mujahideen Victory Day
+          sv: MANUAL OPERATION REQUIRED
+      05-01:
+        _name: 05-01
+      08-15:
+        name:
+          en: Afghan Jihad Victory Day
+          sv: MANUAL OPERATION REQUIRED
+      08-19:
+        name:
+          en: Afghan Independence Day
+          sv: MANUAL OPERATION REQUIRED
+      08-31:
+        name:
+          en: American Withdrawal Day
+          sv: MANUAL OPERATION REQUIRED
+      09-09:
+        name:
+          en: Martyrs' Day
+          sv: MANUAL OPERATION REQUIRED
+      "1 Shawwal":
+        _name: 1 Shawwal
+      "9 Dhu al-Hijjah":
+        _name: 9 Dhu al-Hijjah
+      "10 Dhu al-Hijjah":
+        _name: 10 Dhu al-Hijjah
+      "10 Muharram":
+        _name: 10 Muharram
+      "12 Rabi al-awwal":
+        _name: 12 Rabi al-awwal

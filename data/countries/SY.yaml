@@ -1,0 +1,54 @@
+holidays:
+  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Syria
+  SY:
+    names:
+      ar: "الجمهورية العربية السورية"
+      en: "Syria"
+      sv: "Syrien"
+    dayoff: friday
+    langs:
+      - ar
+    zones:
+      - Asia/Damascus
+    days:
+      01-01:
+        _name: 01-01
+      03-21:
+        name:
+          ar: "عيد الأم"
+          en: "Mother's Day"
+          sv: "Mors dag"
+      04-17:
+        name:
+          ar: "عيد الجلاء"
+          en: "Evacuation Day (Syria)"
+          sv: "Syriens evakueringsdag"
+      05-01:
+        _name: 05-01
+      05-06:
+        name:
+          ar: "عيد الشهداء"
+          en: "Martyrs' Day (Lebanon and Syria)"
+          sv: "Martyrenas dag"
+      "1 Muharram":
+        _name: 1 Muharram
+      "12 Rabi al-awwal":
+        _name: 12 Rabi al-awwal
+      "1 Shawwal P3D":
+        _name: 1 Shawwal
+      "9 Dhu al-Hijjah":
+        _name: 9 Dhu al-Hijjah
+      "10 Dhu al-Hijjah P4D":
+        _name: 10 Dhu al-Hijjah
+      10-06:
+        name:
+          ar: "عيد حرب تشرين التحريرية"
+          en: "Tishreen Liberation War Day"
+          sv: "Jom kippur-kriget"
+      12-08:
+        name:
+          ar: "عيد الثورة"
+          en: "Syrian revolution"
+          sv: "Revolutionsdagen"
+      12-25:
+        _name: 12-25

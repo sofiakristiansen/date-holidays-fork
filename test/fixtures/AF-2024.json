@@ -1,0 +1,119 @@
+[
+  {
+    "date": "2024-02-15 00:00:00",
+    "start": "2024-02-14T19:30:00.000Z",
+    "end": "2024-02-15T19:30:00.000Z",
+    "name": "Liberation Day",
+    "type": "public",
+    "rule": "02-15",
+    "_weekday": "Thu"
+  },
+  {
+    "date": "2024-03-21 00:00:00",
+    "start": "2024-03-20T19:30:00.000Z",
+    "end": "2024-03-21T19:30:00.000Z",
+    "name": "Nowruz",
+    "type": "public",
+    "rule": "03-21",
+    "_weekday": "Thu"
+  },
+  {
+    "date": "2024-04-10 00:00:00 -0600",
+    "start": "2024-04-09T13:30:00.000Z",
+    "end": "2024-04-10T13:30:00.000Z",
+    "name": "ﻋﯿﺪ ﺳﻌﯿﺪ ﻓﻄﺮ",
+    "type": "public",
+    "rule": "1 Shawwal",
+    "_weekday": "Wed"
+  },
+  {
+    "date": "2024-04-28 00:00:00",
+    "start": "2024-04-27T19:30:00.000Z",
+    "end": "2024-04-28T19:30:00.000Z",
+    "name": "Mujahideen Victory Day",
+    "type": "public",
+    "rule": "04-28",
+    "_weekday": "Sun"
+  },
+  {
+    "date": "2024-05-01 00:00:00",
+    "start": "2024-04-30T19:30:00.000Z",
+    "end": "2024-05-01T19:30:00.000Z",
+    "name": "Labour Day",
+    "type": "public",
+    "rule": "05-01",
+    "_weekday": "Wed"
+  },
+  {
+    "date": "2024-06-15 00:00:00 -0600",
+    "start": "2024-06-14T13:30:00.000Z",
+    "end": "2024-06-15T13:30:00.000Z",
+    "name": "Arafat Day",
+    "type": "public",
+    "rule": "9 Dhu al-Hijjah",
+    "_weekday": "Sat"
+  },
+  {
+    "date": "2024-06-16 00:00:00 -0600",
+    "start": "2024-06-15T13:30:00.000Z",
+    "end": "2024-06-16T13:30:00.000Z",
+    "name": "ﻋﯿﺪ ﺳﻌﯿﺪ ﻗﺮﺑﺎن",
+    "type": "public",
+    "rule": "10 Dhu al-Hijjah",
+    "_weekday": "Sun"
+  },
+  {
+    "date": "2024-07-16 00:00:00 -0600",
+    "start": "2024-07-15T13:30:00.000Z",
+    "end": "2024-07-16T13:30:00.000Z",
+    "name": "Day of Ashura",
+    "type": "public",
+    "rule": "10 Muharram",
+    "_weekday": "Tue"
+  },
+  {
+    "date": "2024-08-15 00:00:00",
+    "start": "2024-08-14T19:30:00.000Z",
+    "end": "2024-08-15T19:30:00.000Z",
+    "name": "Afghan Jihad Victory Day",
+    "type": "public",
+    "rule": "08-15",
+    "_weekday": "Thu"
+  },
+  {
+    "date": "2024-08-19 00:00:00",
+    "start": "2024-08-18T19:30:00.000Z",
+    "end": "2024-08-19T19:30:00.000Z",
+    "name": "Afghan Independence Day",
+    "type": "public",
+    "rule": "08-19",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2024-08-31 00:00:00",
+    "start": "2024-08-30T19:30:00.000Z",
+    "end": "2024-08-31T19:30:00.000Z",
+    "name": "American Withdrawal Day",
+    "type": "public",
+    "rule": "08-31",
+    "_weekday": "Sat"
+  },
+  {
+    "date": "2024-09-09 00:00:00",
+    "start": "2024-09-08T19:30:00.000Z",
+    "end": "2024-09-09T19:30:00.000Z",
+    "name": "Martyrs' Day",
+    "type": "public",
+    "rule": "09-09",
+    "_weekday": "Mon"
+  },
+  {
+    "date": "2024-09-15 00:00:00 -0600",
+    "start": "2024-09-14T13:30:00.000Z",
+    "end": "2024-09-15T13:30:00.000Z",
+    "name": "Birthday of Muhammad (Mawlid)",
+    "type": "public",
+    "rule": "12 Rabi al-awwal",
+    "_weekday": "Sun"
+  }
+]

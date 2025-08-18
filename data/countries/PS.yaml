@@ -1,0 +1,39 @@
+holidays:
+  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Palestine
+  PS:
+    names:
+      ar: "دولة فلسطين"
+      en: "Palestine"
+      sv: "Palestina"
+    dayoff: friday
+    langs:
+      - ar
+    zones:
+      - Asia/Gaza
+    days:
+      01-01:
+        _name: 01-01
+      01-07:
+        name:
+          ar: "عيد الميلاد حسب التقويم الشرقي"
+          en: "Orthodox Christmas Day"
+          sv: "Ortodoxa juldagen"
+      05-01:
+        _name: 05-01
+      11-15:
+        name:
+          ar: "عيد الاستقلال"
+          en: "Palestinian Declaration of Independence"
+          sv: "Palestinska självständighetsdagen"
+      12-25:
+        _name: 12-25
+      "1 Muharram":
+        _name: 1 Muharram
+      "12 Rabi al-awwal":
+        _name: 12 Rabi al-awwal
+      "27 Rajab":
+        _name: 27 Rajab
+      "1 Shawwal P3D":
+        _name: 1 Shawwal
+      "10 Dhu al-Hijjah P3D":
+        _name: 10 Dhu al-Hijjah

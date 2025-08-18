@@ -1,0 +1,62 @@
+holidays:
+  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Lebanon
+  LB:
+    names:
+      ar: "الجمهورية اللبنانية"
+      en: "Lebanon"
+      sv: "Libanon"
+    dayoff: sunday
+    langs:
+      - ar
+    zones:
+      - Asia/Beirut
+    days:
+      01-01:
+        _name: 01-01
+      01-06:
+        _name: 01-06
+      02-09:
+        name:
+          ar: "عيد مار مارون"
+          en: "Saint Maroun's Day"
+          sv: "Sankt Marouns dag"
+      02-14:
+        name:
+          ar: "ذكرى رفيق الحريري"
+          en: "Rafic Hariri Memorial Day"
+          sv: "Rafiq Hariri"
+      03-25:
+        name:
+          ar: "عيد البشارة"
+          en: "Feast of the Annunciation"
+          sv: "Jungfru Marie bebådelsedag"
+      easter -2:
+        _name: easter -2
+      easter:
+        _name: easter
+      05-01:
+        _name: 05-01
+      05-25:
+        name:
+          ar: "عيد المقاومة والتحرير"
+          en: "Liberation and Resistance Day"
+          sv: MANUAL OPERATION REQUIRED
+      08-15:
+        _name: 08-15
+      11-22:
+        name:
+          ar: "عيد الاستقلال"
+          en: "Lebanese Independence Day"
+          sv: "Libanons självständighetsdag"
+      12-25:
+        _name: 12-25
+      "1 Muharram":
+        _name: 1 Muharram
+      "10 Muharram":
+        _name: 10 Muharram
+      "12 Rabi al-awwal":
+        _name: 12 Rabi al-awwal
+      "1 Shawwal P3D":
+        _name: 1 Shawwal
+      "10 Dhu al-Hijjah P3D":
+        _name: 10 Dhu al-Hijjah
