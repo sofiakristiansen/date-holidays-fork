@@ -33,12 +33,12 @@ holidays:
         name:
           pt: Dia de Tiradentes
           en: Tiradentes' Day
-          sv: Tiradentesdagen
+          sv: Tiradentes' Day
       easter -50 PT110H:
         name:
           pt: Carnaval
           en: Carnival
-          sv: Karneval
+          sv: Carnival
         type: optional
       easter -2:
         _name: easter -2
@@ -57,18 +57,20 @@ holidays:
         name:
           pt: Dia dos Namorados
           en: Lovers' Day
-          sv: Alla hjärtans dag
+          sv: Lovers' Day
         type: observance
       2nd sunday in August:
         _name: Fathers Day
         type: observance
       09-07:
-        _name: Independence Day
+        name:
+          en: Independence Day (Brazil)
+          sv: Brasiliens självständighetsdag
       10-12:
         name:
           pt: Nossa Senhora Aparecida
           en: Our Lady of Aparecida
-          sv: Vår Fru av Aparecida
+          sv: Our Lady of Aparecida
       1st sunday in October in even years:
         name:
           pt: Dia de Eleição

@@ -40,7 +40,7 @@ holidays:
         name:
           ar: "عيد المقاومة والتحرير"
           en: "Liberation and Resistance Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Liberation and Resistance Day"
       08-15:
         _name: 08-15
       11-22:

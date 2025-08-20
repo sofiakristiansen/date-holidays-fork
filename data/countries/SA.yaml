@@ -15,7 +15,7 @@ holidays:
         name:
           ar: "يوم التأسيس"
           en: "Saudi Founding Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Saudi Founding Day"
       "1 Muharram":
         _name: 1 Muharram
       "1 Shawwal P3D":

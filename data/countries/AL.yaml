@@ -31,7 +31,7 @@ holidays:
         name:
           sq: Dita e Mësuesit
           en: Teacher's Day
-          sv: Lärarnas dag
+          sv: Teacher's Day
         type: observance
       03-08:
         _name: Mothers Day
@@ -40,13 +40,13 @@ holidays:
         name:
           sq: Dita e Verës
           en: Summer Day
-          sv: Sommardagen
+          sv: Summer Day
         substitute: true
       03-22 and if sunday then next monday:
         name:
           sq: Dita e Sulltan Nevruzit
           en: Sultan Nevruz's Day
-          sv: Sultan Nevruz-dagen
+          sv: Sultan Nevruz's Day
         substitute: true
       04-01:
         _name: 04-01
@@ -84,7 +84,7 @@ holidays:
         name:
           sq: Dita e Nënë Terezës
           en: Mother Teresa Day
-          sv: Moder Teresas dag
+          sv: Mother Teresa Day
         substitute: true
         active:
           - from: 2004
@@ -92,10 +92,12 @@ holidays:
         name:
           sq: Dita e Alfabetit
           en: Alphabet Day
-          sv: Alfabetets dag
+          sv: Alphabet Day
         type: observance
       11-28 and if sunday then next monday:
-        _name: Independence Day
+        name:
+          en: Independence Day (Albania)
+          sv: Albanska flaggans dag
         substitute: true
       11-29 and if sunday then next monday:
         _name: Liberation Day
@@ -104,7 +106,7 @@ holidays:
         name:
           sq: Dita Kombëtare e Rinisë
           en: Youth Day
-          sv: Nationella ungdomsdagen
+          sv: Youth Day
         substitute: true
         active:
           - from: 2010

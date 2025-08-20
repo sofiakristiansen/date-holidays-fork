@@ -19,22 +19,22 @@ holidays:
         name:
           bn: শহীদ দিবস
           en: Language Martyrs' Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Language Martyrs' Day
       bengali-revised 12-3:
         name:
           bn: মুজিব জয়ন
           en: Mujib's Birthday & Children's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Mujib's Birthday & Children's Day
       bengali-revised 12-12:
         name:
           bn: স্বাধীনতা দিবস
-          en: Independence Day
-          sv: MANUAL OPERATION REQUIRED
+          en: Independence Day (Bangladesh)
+          sv: Bangladesh självständighetsdag
       bengali-revised 1-1:
         name:
           bn: পহেলা বৈশাখ
           en: Bengali New Year's Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Bengali New Year's Day
       bengali-revised 1-18:
         _name: 05-01
         name:
@@ -45,12 +45,12 @@ holidays:
         name:
           bn: জাতীয় শোক দিবস
           en: National Mourning Day
-          sv: Landssorg
+          sv: National Mourning Day
       bengali-revised 9-2:
         name:
           bn: বিজয় দিবস
           en: Victory Day (Bangladesh)
-          sv: MANUAL OPERATION REQUIRED
+          sv: Victory Day (Bangladesh)
 
       10 Muharram:
         _name: 10 Muharram
@@ -65,7 +65,7 @@ holidays:
         name:
           bn: বুদ্ধ পূর্ণিমা
           en: Buddha's Birthday
-          sv: Buddhas födelsedag
+          sv: Buddha's Birthday
         enable:
           - "2016-05-21"
           - "2017-05-10"
@@ -99,7 +99,7 @@ holidays:
         name:
           bn: দুর্গা পূজা
           en: Durga Puja
-          sv: MANUAL OPERATION REQUIRED
+          sv: Durga Puja
         enable:
           - "2016-10-11"
           - "2017-09-30"
@@ -118,18 +118,18 @@ holidays:
 
       03-25:
         name:
-          en: Genocide Remembrance Day
-          sv: MANUAL OPERATION REQUIRED
+          en: Genocide Remembrance Day (Bangladesh)
+          sv: Genocide Remembrance Day (Bangladesh)
         type: observance
       11-21:
         name:
           en: Armed Forces Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Armed Forces Day
         type: observance
       12-14:
         name:
           en: Martyred Intellectuals Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Martyred Intellectuals Day
         type: observance
 
     # states:

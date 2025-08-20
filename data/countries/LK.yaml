@@ -16,7 +16,7 @@ holidays:
       01-13:
         name:
           en: "Duruthu Full Moon Poya Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Duruthu Full Moon Poya Day"
       01-14:
         name:
           en: "Pongal (festival)"
@@ -32,23 +32,23 @@ holidays:
       02-26:
         name:
           en: "Maha Shivaratri"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Maha Shivaratri"
       03-13:
         name:
           en: "Medin Full Moon Poya Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Medin Full Moon Poya Day"
       04-12:
         name:
           en: "Bak Full Moon Poya Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Bak Full Moon Poya Day"
       04-13:
         name:
           en: "Day prior to Sinhala & Tamil New Year"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Day prior to Sinhala & Tamil New Year"
       04-14:
         name:
           en: "Sinhala & Tamil New Year"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Sinhala & Tamil New Year"
       easter -2:
         _name: easter -2
       05-01:
@@ -58,11 +58,11 @@ holidays:
       05-13:
         name:
           en: "Day following Vesak Full Moon Poya Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Day following Vesak Full Moon Poya Day"
       06-10:
         name:
           en: "Poson Full Moon Poya Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Poson Full Moon Poya Day"
       07-10:
         name:
           en: "Esala Full Moon Poya Day"
@@ -70,27 +70,27 @@ holidays:
       08-08:
         name:
           en: "Nikini Full Moon Poya Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Nikini Full Moon Poya Day"
       09-05:
         _name: 12 Rabi al-awwal
       09-07:
         name:
           en: "Binara Full Moon Poya Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Binara Full Moon Poya Day"
       10-06:
         name:
           en: "Vap Full Moon Poya Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Vap Full Moon Poya Day"
       10-20:
         _name: Deepavali
       11-05:
         name:
           en: "Il Full Moon Poya Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Il Full Moon Poya Day"
       12-04:
         name:
           en: "Unduvap Full Moon Poya Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Unduvap Full Moon Poya Day"
       12-25:
         _name: 12-25
       "1 Shawwal P3D":

@@ -29,7 +29,7 @@ holidays:
         name:
           ur: "یوم تکبیر"
           en: "Youm-e-Takbeer"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Youm-e-Takbeer"
       08-14:
         name:
           ur: "یوم آزادی"
@@ -39,12 +39,12 @@ holidays:
         name:
           ur: "یوم اقبال"
           en: "Iqbal Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Iqbal Day"
       12-25:
         name:
           ur: "یوم قائدِ اعظم"
           en: "Quaid-e-Azam Day"
-          sv: MANUAL OPERATION REQUIRED
+          sv: "Quaid-e-Azam Day"
       "1 Muharram":
         _name: 1 Muharram
       "10 Muharram":

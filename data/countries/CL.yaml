@@ -27,17 +27,17 @@ holidays:
       05-21:
         name:
           en: Navy Day
-          sv: Marinens ära-dag
+          sv: Navy Day
           es: Día de las Glorias Navales
       06-21 since 2021 prior to 2022:
         name:
           en: Indigenous People's Day
-          sv: De ursprungliga folkens dag
+          sv: Indigenous People's Day
           es: Día de los Pueblos Indígenas
       june solstice in America/Santiago since 2022:
         name:
           en: Indigenous People's Day
-          sv: De ursprungliga folkens dag
+          sv: Indigenous People's Day
           es: Día de los Pueblos Indígenas
       06-29 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         _name: 06-29
