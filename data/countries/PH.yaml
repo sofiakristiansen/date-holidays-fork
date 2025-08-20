@@ -17,7 +17,7 @@ holidays:
         type: observance
         name:
           en: First Philippine Republic Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: First Philippine Republic Day
           fil: Araw ng Unang Republika ng Pilipinas
       chinese 01-0-01:
         type: optional
@@ -32,7 +32,7 @@ holidays:
         type: observance
         name:
           en: Lantern Festival
-          sv: MANUAL OPERATION REQUIRED
+          sv: Lantern Festival
           fil: Piyesta ng mga Parol Tsino
       02-25:
         name:
@@ -54,7 +54,7 @@ holidays:
       04-09:
         name:
           en: Day of Valor
-          sv: MANUAL OPERATION REQUIRED
+          sv: Day of Valor
           fil: Araw ng Kagitingan
       04-27:
         type: observance
@@ -107,7 +107,7 @@ holidays:
       1st monday before September:
         name:
           en: National Heroes' Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: National Heroes' Day
           fil: Araw ng mga Bayani
       chinese 08-0-15:
         type: observance
@@ -126,13 +126,13 @@ holidays:
       11-30:
         name:
           en: Bonifacio Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Bonifacio Day
           fil: Araw ng Kapanganakan ni Bonifacio
       12-08:
         _name: 12-08
         name:
           en: Feast of the Immaculate Conception of the Blessed Virgin Mary
-          sv: MANUAL OPERATION REQUIRED
+          sv: Feast of the Immaculate Conception of the Blessed Virgin Mary
           fil: Pagdiriwang ng Kalinis-linisang Paglilihi sa Mahal na Birheng Maria
         type: optional
         note: Non-working Day
@@ -145,7 +145,7 @@ holidays:
       12-30:
         name:
           en: Rizal Day
-          sv: MANUAL OPERATION REQUIRED
+          sv: Rizal Day
           fil: Paggunita sa Kamatayan ni Dr. Jose Rizal
       12-31:
         _name: 12-31
