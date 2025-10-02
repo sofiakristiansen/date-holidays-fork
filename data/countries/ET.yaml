@@ -1,6 +1,7 @@
 holidays:
   # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Ethiopia
   # @source http://holidays.ertale.com/
+  # @attrib https://www.timeanddate.com/holidays/ethiopia/
   ET:
     names:
       am: ኢትዮጵያ
@@ -17,8 +18,10 @@ holidays:
         _name: 12-25
       01-07 in leap years:
         _name: 12-25
-      01-19:
-        _name: 01-06
+      julian 01-06:
+        name:
+          en: Timkat
+          sv: Timkat
       03-02:
         name:
           am: የዓድዋ ድል በዓል
@@ -28,30 +31,41 @@ holidays:
         name:
           am: የቀይ ሽብር መታሰቢያ ቀን
           en: Day of Lament
-          sv: MANUAL OPERATION REQUIRED
+          sv: Day of Lament
       orthodox -2:
         _name: easter -2
       orthodox:
         _name: easter
+      04-12:
+        name:
+          en: Fasika
+          sv: Fasika
+      05-01:
+        _name: 05-01
+      05-05:
+        name:
+          am: የአርበኞች ቀን
+          en: Ethiopian Patriots' Victory Day
+          sv: Ethiopian Patriots' Victory Day
       05-28:
         name:
           am: ደርግ የወደቀበት ቀን
-          en: Derg Downfall Day
-          sv: MANUAL OPERATION REQUIRED
+          en: Downfall of the Derg (holiday)
+          sv: Downfall of the Derg (holiday)
       09-11 in non-leap years:
         _name: 01-01
       09-12 in leap years:
         _name: 01-01
       09-27 in non-leap years:
         name:
-          am: ብርሐነ-መስቀል
-          en: Finding of the True Cross
-          sv: Det sanna korset
+          am: መስቀል
+          en: Meskel
+          sv: Meskel
       09-28 in leap years:
         name:
-          am: ብርሐነ-መስቀል
-          en: Finding of the True Cross
-          sv: Det sanna korset
+          am: መስቀል
+          en: Meskel
+          sv: Meskel
       1 Ramadan:
         _name: 1 Ramadan
       12 Rabi al-awwal:

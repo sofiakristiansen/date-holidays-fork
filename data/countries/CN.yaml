@@ -84,6 +84,11 @@ holidays:
           en: Mid-Autumn Festival
           sv: Månfesten
           zh: 中秋节
+      chinese 09-0-09: # 9th day of 9th lunar month
+        name:
+          en: Double Ninth Festival
+          sv: ChongYang Festival
+          zh: 重陽節
       "2021-01-02":
         _name: 01-01
       "2021-01-03":

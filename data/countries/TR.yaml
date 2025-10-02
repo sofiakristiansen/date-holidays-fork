@@ -14,6 +14,14 @@ holidays:
     days:
       01-01:
         _name: 01-01
+      03-21:
+        name:
+          en: Nowruz
+          sv: Nouruz
+      04-01:
+        name:
+          en: Akitu
+          sv: Akitu
       04-23:
         name:
           en: National Sovereignty and Children's Day
@@ -45,6 +53,10 @@ holidays:
           en: Republic Day
           sv: Republikens dag
           tr: Cumhuriyet Bayramı
+      friday after 12-13:
+        name:
+          en: Feast of Ezid
+          sv: Yazid-festen
       1 Shawwal PT90H:
         _name: 1 Shawwal
       10 Dhu al-Hijjah PT114H:

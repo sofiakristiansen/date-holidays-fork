@@ -41,7 +41,7 @@ holidays:
       05-02 and if saturday, sunday then next monday prior to 2018:
         _name: 05-01
         substitute: true
-      05-09 and if saturday, sunday then next monday:
+      05-08:
         name:
           uk: День перемоги над нацизмом у Другій світовій війні
           en: Victory Day

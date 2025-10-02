@@ -1,4 +1,5 @@
 # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Eritrea
+# @attrib https://www.timeanddate.com/holidays/eritrea/
 holidays:
   ER:
     names:
@@ -16,12 +17,18 @@ holidays:
       julian 12-25:
         _name: julian 12-25
       julian 01-06:
-        _name: 01-06
+        name:
+          en: Timkat
+          sv: Timkat
+      01-06 in non-leap years:
+        _name: 12-25
+      01-07 in leap years:
+        _name: 12-25
       02-10:
         name:
           ti: ፈንቅል
-          en: Fenkil Day
-          sv: MANUAL OPERATION REQUIRED
+          en: Second Battle of Massawa
+          sv: Second Battle of Massawa
       03-08:
         _name: 03-08
       orthodox -2:
@@ -31,34 +38,38 @@ holidays:
       05-01:
         _name: 05-01
       05-24:
-        _name: Independence Day
+        name:
+          en: Independence Day (Eritrea)
+          sv: Eritreas självständighetsdag
       06-20:
         name:
-          en: Martyrs' Day
-          sv: MANUAL OPERATION REQUIRED
+          en: Martyrs' Day (Eritrea)
+          sv: Martyrs' Day (Eritrea)
           ti: መዓልቲ ስውኣት
       09-01:
         _name: Revolution Day
       09-11 in non-leap years:
         name:
           en: Geez New Year
-          sv: Ge'ez
+          sv: Kudus Yohannes
           ti: ግዕዝ አዲስ ዓመት
       09-12 in leap years:
         name:
           en: Geez New Year
-          sv: Ge'ez
+          sv: Kudus Yohannes
           ti: ግዕዝ አዲስ ዓመት
       09-27 in non-leap years:
         name:
           en: Meskel
-          sv: MANUAL OPERATION REQUIRED
+          sv: Meskel
       09-28 in leap years:
         name:
           en: Meskel
-          sv: MANUAL OPERATION REQUIRED
+          sv: Meskel
       12-25:
         _name: 12-25
+      1 Ramadan:
+        _name: 1 Ramadan
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
       1 Shawwal:
