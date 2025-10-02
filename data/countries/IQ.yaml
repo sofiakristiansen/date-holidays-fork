@@ -37,8 +37,8 @@ holidays:
       12-10:
         name:
           ar: "يوم النصر"
-          en: Victory Day
-          sv: Segerdagen
+          en: Victory Day in Iraq
+          sv: Segerdagen i Irak
       12-25:
         _name: 12-25
       "1 Muharram":
